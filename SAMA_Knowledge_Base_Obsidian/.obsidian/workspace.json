@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "765bd20b921a46ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd07806f17448ba3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b3ff4a2441a5192",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2ba863d4b133804",
+    "type": "split",
+    "children": [
+      {
+        "id": "89ee5d7945aa0a51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3804ff68bd07eca4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "54675a838892a75b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a39912519670974a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "d61ea55d14520d91",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d129072e8dba470",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f24758c61b5aae94",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "98f7bc0177c31dda",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f7468b88e7558877",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1ffd3b88065b5582",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a6c51e934a6121f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8b3ff4a2441a5192",
+  "lastOpenFiles": [
+    "Template CC1 Composition of Regulatory Capital.md",
+    "Template CDC - Capital Distribution Constraints.md",
+    "Credit Information Data Sharing Circular.md",
+    "Circular Cancelling Official Stamp Requirement.md",
+    "_COMMUNITY_Securitization IRB Approach.md",
+    "_COMMUNITY_APR Calculation Rules.md",
+    "Fraud Investigation Standard.md",
+    "Untitled.canvas",
+    "Business Continuity Management.md",
+    "Workout Plan_1.md",
+    "5.md",
+    "_COMMUNITY_Counterparty Credit Risk Approaches.md",
+    "_COMMUNITY_Securitization Exposures.md",
+    "RWA and Funding Report (Attachment D).md",
+    "Fit & Proper Assessment.md",
+    "_COMMUNITY_Large Exposure Limits.md",
+    "_COMMUNITY_Anti-Money Laundering Law.md",
+    "_COMMUNITY_Regulatory Capital Disclosure Templates.md",
+    "Circular on Cash EntryExit via King Fahd Causeway.md",
+    "Template OV1 Overview of RWA_1.md",
+    "_COMMUNITY_Aggregation Business Continuity.md",
+    "_COMMUNITY_CCR & CVA Capital Requirements.md",
+    "SAMA Document 5783 (Scanned Forms).md",
+    "_COMMUNITY_CCR & CVA Disclosure Templates.md",
+    "_COMMUNITY_Mortgage & Finance Licensing.md"
+  ]
+}

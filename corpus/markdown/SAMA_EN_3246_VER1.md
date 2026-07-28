@@ -1,0 +1,550 @@
+# sama_en_3246_ver1.pdf
+
+## Page 1
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 205, height: 412, bpc: 1>
+<image: None, width: 285, height: 441, bpc: 1>
+<image: None, width: 108, height: 283, bpc: 1>
+<image: None, width: 888, height: 1313, bpc: 1>
+<image: None, width: 43, height: 301, bpc: 1>
+<image: None, width: 42, height: 300, bpc: 1>
+<image: None, width: 37, height: 119, bpc: 1>
+<image: None, width: 166, height: 364, bpc: 1>
+<image: None, width: 38, height: 77, bpc: 1>
+<image: None, width: 46, height: 67, bpc: 1>
+<image: None, width: 61, height: 536, bpc: 1>
+<image: None, width: 97, height: 276, bpc: 1>
+<image: None, width: 8, height: 276, bpc: 1>
+<image: None, width: 146, height: 405, bpc: 1>
+<image: None, width: 89, height: 121, bpc: 1>
+
+## Page 2
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1205, height: 1440, bpc: 1>
+<image: None, width: 143, height: 1028, bpc: 1>
+<image: None, width: 129, height: 967, bpc: 1>
+<image: None, width: 330, height: 314, bpc: 1>
+<image: None, width: 167, height: 150, bpc: 1>
+<image: None, width: 43, height: 32, bpc: 1>
+<image: None, width: 43, height: 33, bpc: 1>
+<image: None, width: 202, height: 212, bpc: 1>
+<image: None, width: 41, height: 30, bpc: 1>
+<image: None, width: 30, height: 43, bpc: 1>
+
+## Page 3
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1124, height: 1480, bpc: 1>
+<image: None, width: 68, height: 278, bpc: 1>
+<image: None, width: 161, height: 151, bpc: 1>
+<image: None, width: 1517, height: 52, bpc: 1>
+<image: None, width: 1544, height: 951, bpc: 1>
+<image: None, width: 91, height: 173, bpc: 1>
+
+## Page 4
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1126, height: 1481, bpc: 1>
+<image: None, width: 69, height: 280, bpc: 1>
+<image: None, width: 162, height: 150, bpc: 1>
+<image: None, width: 718, height: 1277, bpc: 1>
+<image: None, width: 99, height: 109, bpc: 1>
+<image: None, width: 115, height: 245, bpc: 1>
+<image: None, width: 41, height: 342, bpc: 1>
+
+## Page 5
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1582, height: 1308, bpc: 1>
+<image: None, width: 1125, height: 1484, bpc: 1>
+<image: None, width: 68, height: 280, bpc: 1>
+<image: None, width: 162, height: 151, bpc: 1>
+<image: None, width: 422, height: 404, bpc: 1>
+<image: None, width: 288, height: 286, bpc: 1>
+<image: None, width: 266, height: 261, bpc: 1>
+<image: None, width: 341, height: 109, bpc: 1>
+<image: None, width: 445, height: 115, bpc: 1>
+<image: None, width: 303, height: 109, bpc: 1>
+<image: None, width: 308, height: 74, bpc: 1>
+<image: None, width: 52, height: 80, bpc: 1>
+<image: None, width: 60, height: 72, bpc: 1>
+<image: None, width: 75, height: 71, bpc: 1>
+<image: None, width: 72, height: 54, bpc: 1>
+<image: None, width: 65, height: 72, bpc: 1>
+
+## Page 6
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1123, height: 1485, bpc: 1>
+<image: None, width: 873, height: 1274, bpc: 1>
+<image: None, width: 256, height: 1265, bpc: 1>
+<image: None, width: 74, height: 280, bpc: 1>
+<image: None, width: 186, height: 1273, bpc: 1>
+<image: None, width: 159, height: 152, bpc: 1>
+<image: None, width: 96, height: 102, bpc: 1>
+<image: None, width: 43, height: 728, bpc: 1>
+<image: None, width: 91, height: 594, bpc: 1>
+<image: None, width: 96, height: 474, bpc: 1>
+<image: None, width: 467, height: 412, bpc: 1>
+
+## Page 7
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1124, height: 1482, bpc: 1>
+<image: None, width: 652, height: 1292, bpc: 1>
+<image: None, width: 68, height: 278, bpc: 1>
+<image: None, width: 380, height: 1324, bpc: 1>
+<image: None, width: 161, height: 151, bpc: 1>
+<image: None, width: 135, height: 514, bpc: 1>
+<image: None, width: 94, height: 451, bpc: 1>
+<image: None, width: 95, height: 226, bpc: 1>
+
+## Page 8
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1126, height: 1481, bpc: 1>
+<image: None, width: 465, height: 1304, bpc: 1>
+<image: None, width: 72, height: 279, bpc: 1>
+<image: None, width: 236, height: 1296, bpc: 1>
+<image: None, width: 483, height: 1292, bpc: 1>
+<image: None, width: 164, height: 154, bpc: 1>
+<image: None, width: 149, height: 445, bpc: 1>
+<image: None, width: 58, height: 478, bpc: 1>
+<image: None, width: 95, height: 337, bpc: 1>
+<image: None, width: 93, height: 283, bpc: 1>
+
+## Page 9
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1926, height: 1480, bpc: 1>
+<image: None, width: 72, height: 277, bpc: 1>
+<image: None, width: 165, height: 154, bpc: 1>
+<image: None, width: 302, height: 480, bpc: 1>
+<image: None, width: 1026, height: 1117, bpc: 1>
+<image: None, width: 102, height: 104, bpc: 1>
+<image: None, width: 327, height: 486, bpc: 1>
+
+## Page 10
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1121, height: 1482, bpc: 1>
+<image: None, width: 73, height: 279, bpc: 1>
+<image: None, width: 166, height: 151, bpc: 1>
+<image: None, width: 1257, height: 1161, bpc: 1>
+<image: None, width: 53, height: 244, bpc: 1>
+<image: None, width: 787, height: 37, bpc: 1>
+
+## Page 11
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1126, height: 1478, bpc: 1>
+<image: None, width: 528, height: 1305, bpc: 1>
+<image: None, width: 73, height: 280, bpc: 1>
+<image: None, width: 314, height: 1301, bpc: 1>
+<image: None, width: 165, height: 157, bpc: 1>
+<image: None, width: 318, height: 1280, bpc: 1>
+<image: None, width: 102, height: 108, bpc: 1>
+<image: None, width: 57, height: 886, bpc: 1>
+<image: None, width: 40, height: 48, bpc: 1>
+<image: None, width: 53, height: 248, bpc: 1>
+<image: None, width: 319, height: 33, bpc: 1>
+
+## Page 12
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1541, height: 1485, bpc: 1>
+<image: None, width: 69, height: 281, bpc: 1>
+<image: None, width: 273, height: 1300, bpc: 1>
+<image: None, width: 809, height: 1302, bpc: 1>
+<image: None, width: 160, height: 1303, bpc: 1>
+<image: None, width: 162, height: 153, bpc: 1>
+<image: None, width: 99, height: 103, bpc: 1>
+<image: None, width: 129, height: 451, bpc: 1>
+<image: None, width: 37, height: 48, bpc: 1>
+<image: None, width: 52, height: 362, bpc: 1>
+
+## Page 13
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1119, height: 1483, bpc: 1>
+<image: None, width: 177, height: 1305, bpc: 1>
+<image: None, width: 71, height: 282, bpc: 1>
+<image: None, width: 774, height: 1315, bpc: 1>
+<image: None, width: 186, height: 1301, bpc: 1>
+<image: None, width: 163, height: 154, bpc: 1>
+<image: None, width: 122, height: 501, bpc: 1>
+<image: None, width: 63, height: 714, bpc: 1>
+<image: None, width: 40, height: 48, bpc: 1>
+<image: None, width: 49, height: 234, bpc: 1>
+<image: None, width: 305, height: 35, bpc: 1>
+<image: None, width: 37, height: 28, bpc: 1>
+
+## Page 14
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1882, height: 1479, bpc: 1>
+<image: None, width: 75, height: 278, bpc: 1>
+<image: None, width: 159, height: 151, bpc: 1>
+<image: None, width: 35, height: 53, bpc: 1>
+<image: None, width: 519, height: 395, bpc: 1>
+<image: None, width: 42, height: 107, bpc: 1>
+<image: None, width: 171, height: 100, bpc: 1>
+<image: None, width: 508, height: 102, bpc: 1>
+
+## Page 15
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1151, height: 1483, bpc: 1>
+<image: None, width: 71, height: 281, bpc: 1>
+<image: None, width: 781, height: 1303, bpc: 1>
+<image: None, width: 164, height: 154, bpc: 1>
+<image: None, width: 39, height: 50, bpc: 1>
+
+## Page 16
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1121, height: 1483, bpc: 1>
+<image: None, width: 75, height: 278, bpc: 1>
+<image: None, width: 989, height: 1232, bpc: 1>
+<image: None, width: 260, height: 947, bpc: 1>
+<image: None, width: 159, height: 152, bpc: 1>
+<image: None, width: 34, height: 53, bpc: 1>
+<image: None, width: 36, height: 31, bpc: 1>
+<image: None, width: 149, height: 36, bpc: 1>
+<image: None, width: 32, height: 30, bpc: 1>
+
+## Page 17
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 72, height: 282, bpc: 1>
+<image: None, width: 713, height: 1300, bpc: 1>
+<image: None, width: 127, height: 464, bpc: 1>
+<image: None, width: 40, height: 49, bpc: 1>
+<image: None, width: 126, height: 117, bpc: 1>
+<image: None, width: 34, height: 28, bpc: 1>
+<image: None, width: 102, height: 29, bpc: 1>
+<image: None, width: 38, height: 32, bpc: 1>
+
+## Page 18
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1523, height: 1481, bpc: 1>
+<image: None, width: 75, height: 277, bpc: 1>
+<image: None, width: 159, height: 151, bpc: 1>
+<image: None, width: 594, height: 1192, bpc: 1>
+<image: None, width: 114, height: 603, bpc: 1>
+<image: None, width: 97, height: 108, bpc: 1>
+<image: None, width: 51, height: 261, bpc: 1>
+<image: None, width: 60, height: 790, bpc: 1>
+<image: None, width: 105, height: 281, bpc: 1>
+
+## Page 19
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1120, height: 1482, bpc: 1>
+<image: None, width: 73, height: 280, bpc: 1>
+<image: None, width: 710, height: 1313, bpc: 1>
+<image: None, width: 125, height: 130, bpc: 1>
+<image: None, width: 165, height: 155, bpc: 1>
+<image: None, width: 120, height: 56, bpc: 1>
+<image: None, width: 62, height: 528, bpc: 1>
+<image: None, width: 109, height: 415, bpc: 1>
+<image: None, width: 33, height: 55, bpc: 1>
+<image: None, width: 40, height: 22, bpc: 1>
+<image: None, width: 37, height: 17, bpc: 1>
+<image: None, width: 38, height: 15, bpc: 1>
+<image: None, width: 40, height: 15, bpc: 1>
+<image: None, width: 40, height: 16, bpc: 1>
+
+## Page 20
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 72, height: 279, bpc: 1>
+<image: None, width: 453, height: 1302, bpc: 1>
+<image: None, width: 260, height: 1302, bpc: 1>
+<image: None, width: 40, height: 53, bpc: 1>
+<image: None, width: 49, height: 325, bpc: 1>
+<image: None, width: 149, height: 134, bpc: 1>
+
+## Page 21
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1254, height: 1478, bpc: 1>
+<image: None, width: 72, height: 282, bpc: 1>
+<image: None, width: 164, height: 157, bpc: 1>
+<image: None, width: 193, height: 1299, bpc: 1>
+<image: None, width: 511, height: 1172, bpc: 1>
+<image: None, width: 46, height: 1182, bpc: 1>
+<image: None, width: 101, height: 107, bpc: 1>
+<image: None, width: 40, height: 51, bpc: 1>
+<image: None, width: 88, height: 502, bpc: 1>
+<image: None, width: 54, height: 436, bpc: 1>
+<image: None, width: 499, height: 37, bpc: 1>
+
+## Page 22
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 72, height: 280, bpc: 1>
+<image: None, width: 1002, height: 1303, bpc: 1>
+<image: None, width: 393, height: 1304, bpc: 1>
+<image: None, width: 220, height: 506, bpc: 1>
+<image: None, width: 120, height: 809, bpc: 1>
+<image: None, width: 40, height: 47, bpc: 1>
+<image: None, width: 252, height: 675, bpc: 1>
+<image: None, width: 129, height: 131, bpc: 1>
+<image: None, width: 32, height: 51, bpc: 1>
+<image: None, width: 32, height: 29, bpc: 1>
+
+## Page 23
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1120, height: 1486, bpc: 1>
+<image: None, width: 72, height: 283, bpc: 1>
+<image: None, width: 392, height: 1305, bpc: 1>
+<image: None, width: 165, height: 155, bpc: 1>
+<image: None, width: 722, height: 1300, bpc: 1>
+<image: None, width: 33, height: 50, bpc: 1>
+<image: None, width: 82, height: 489, bpc: 1>
+<image: None, width: 78, height: 484, bpc: 1>
+
+## Page 24
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 68, height: 280, bpc: 1>
+<image: None, width: 487, height: 1341, bpc: 1>
+<image: None, width: 98, height: 1202, bpc: 1>
+<image: None, width: 62, height: 342, bpc: 1>
+<image: None, width: 70, height: 532, bpc: 1>
+<image: None, width: 36, height: 48, bpc: 1>
+<image: None, width: 43, height: 160, bpc: 1>
+<image: None, width: 81, height: 491, bpc: 1>
+<image: None, width: 95, height: 348, bpc: 1>
+<image: None, width: 103, height: 115, bpc: 1>
+<image: None, width: 194, height: 62, bpc: 1>
+
+## Page 25
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1150, height: 1482, bpc: 1>
+<image: None, width: 624, height: 1351, bpc: 1>
+<image: None, width: 72, height: 280, bpc: 1>
+<image: None, width: 495, height: 1300, bpc: 1>
+<image: None, width: 361, height: 1301, bpc: 1>
+<image: None, width: 165, height: 155, bpc: 1>
+<image: None, width: 102, height: 105, bpc: 1>
+<image: None, width: 161, height: 137, bpc: 1>
+<image: None, width: 77, height: 487, bpc: 1>
+<image: None, width: 79, height: 397, bpc: 1>
+<image: None, width: 33, height: 36, bpc: 1>
+<image: None, width: 181, height: 29, bpc: 1>
+<image: None, width: 33, height: 31, bpc: 1>
+
+## Page 26
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1121, height: 1476, bpc: 1>
+<image: None, width: 68, height: 282, bpc: 1>
+<image: None, width: 72, height: 158, bpc: 1>
+<image: None, width: 1097, height: 1306, bpc: 1>
+<image: None, width: 151, height: 1295, bpc: 1>
+<image: None, width: 206, height: 1296, bpc: 1>
+<image: None, width: 97, height: 109, bpc: 1>
+<image: None, width: 35, height: 48, bpc: 1>
+<image: None, width: 127, height: 350, bpc: 1>
+<image: None, width: 56, height: 312, bpc: 1>
+
+## Page 27
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1124, height: 1484, bpc: 1>
+<image: None, width: 75, height: 281, bpc: 1>
+<image: None, width: 105, height: 151, bpc: 1>
+<image: None, width: 1857, height: 1208, bpc: 1>
+<image: None, width: 36, height: 49, bpc: 1>
+<image: None, width: 148, height: 446, bpc: 1>
+<image: None, width: 51, height: 278, bpc: 1>
+
+## Page 28
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1317, height: 1485, bpc: 1>
+<image: None, width: 70, height: 282, bpc: 1>
+<image: None, width: 162, height: 154, bpc: 1>
+<image: None, width: 860, height: 1211, bpc: 1>
+<image: None, width: 354, height: 527, bpc: 1>
+<image: None, width: 253, height: 263, bpc: 1>
+<image: None, width: 17, height: 220, bpc: 1>
+<image: None, width: 175, height: 144, bpc: 1>
+<image: None, width: 39, height: 49, bpc: 1>
+<image: None, width: 183, height: 23, bpc: 1>
+
+## Page 29
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1359, height: 1483, bpc: 1>
+<image: None, width: 73, height: 710, bpc: 1>
+<image: None, width: 165, height: 153, bpc: 1>
+<image: None, width: 979, height: 864, bpc: 1>
+<image: None, width: 101, height: 283, bpc: 1>
+
+## Page 30
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 73, height: 279, bpc: 1>
+<image: None, width: 931, height: 1345, bpc: 1>
+<image: None, width: 76, height: 551, bpc: 1>
+<image: None, width: 59, height: 854, bpc: 1>
+<image: None, width: 40, height: 55, bpc: 1>
+<image: None, width: 76, height: 492, bpc: 1>
+<image: None, width: 81, height: 490, bpc: 1>
+<image: None, width: 126, height: 128, bpc: 1>
+
+## Page 31
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 74, height: 281, bpc: 1>
+<image: None, width: 1069, height: 1345, bpc: 1>
+<image: None, width: 107, height: 1340, bpc: 1>
+<image: None, width: 68, height: 432, bpc: 1>
+<image: None, width: 34, height: 48, bpc: 1>
+<image: None, width: 161, height: 488, bpc: 1>
+<image: None, width: 80, height: 485, bpc: 1>
+<image: None, width: 62, height: 69, bpc: 1>
+<image: None, width: 120, height: 134, bpc: 1>
+
+## Page 32
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 73, height: 284, bpc: 1>
+<image: None, width: 775, height: 1341, bpc: 1>
+<image: None, width: 432, height: 1339, bpc: 1>
+<image: None, width: 34, height: 50, bpc: 1>
+<image: None, width: 217, height: 487, bpc: 1>
+<image: None, width: 79, height: 489, bpc: 1>
+<image: None, width: 53, height: 259, bpc: 1>
+<image: None, width: 132, height: 132, bpc: 1>
+<image: None, width: 42, height: 236, bpc: 1>
+
+## Page 33
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 450, height: 1347, bpc: 1>
+<image: None, width: 72, height: 279, bpc: 1>
+<image: None, width: 567, height: 1343, bpc: 1>
+<image: None, width: 72, height: 359, bpc: 1>
+<image: None, width: 40, height: 54, bpc: 1>
+<image: None, width: 82, height: 486, bpc: 1>
+<image: None, width: 79, height: 485, bpc: 1>
+<image: None, width: 151, height: 234, bpc: 1>
+<image: None, width: 123, height: 91, bpc: 1>
+
+## Page 34
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1123, height: 1479, bpc: 1>
+<image: None, width: 69, height: 282, bpc: 1>
+<image: None, width: 663, height: 1351, bpc: 1>
+<image: None, width: 161, height: 150, bpc: 1>
+<image: None, width: 45, height: 868, bpc: 1>
+<image: None, width: 37, height: 49, bpc: 1>
+<image: None, width: 80, height: 488, bpc: 1>
+
+## Page 35
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 72, height: 279, bpc: 1>
+<image: None, width: 381, height: 1345, bpc: 1>
+<image: None, width: 430, height: 1347, bpc: 1>
+<image: None, width: 40, height: 55, bpc: 1>
+<image: None, width: 77, height: 489, bpc: 1>
+<image: None, width: 78, height: 486, bpc: 1>
+<image: None, width: 131, height: 196, bpc: 1>
+
+## Page 36
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1800, height: 1478, bpc: 1>
+<image: None, width: 74, height: 283, bpc: 1>
+<image: None, width: 158, height: 151, bpc: 1>
+<image: None, width: 34, height: 50, bpc: 1>
+
+## Page 37
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 543, height: 1346, bpc: 1>
+<image: None, width: 42, height: 87, bpc: 1>
+<image: None, width: 418, height: 1348, bpc: 1>
+<image: None, width: 75, height: 279, bpc: 1>
+<image: None, width: 76, height: 534, bpc: 1>
+<image: None, width: 35, height: 47, bpc: 1>
+<image: None, width: 339, height: 483, bpc: 1>
+<image: None, width: 37, height: 203, bpc: 1>
+
+## Page 38
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1195, height: 1479, bpc: 1>
+<image: None, width: 69, height: 283, bpc: 1>
+<image: None, width: 161, height: 150, bpc: 1>
+<image: None, width: 296, height: 469, bpc: 1>
+<image: None, width: 42, height: 711, bpc: 1>
+<image: None, width: 248, height: 369, bpc: 1>
+<image: None, width: 263, height: 22, bpc: 1>
+<image: None, width: 88, height: 271, bpc: 1>
+<image: None, width: 484, height: 722, bpc: 1>
+<image: None, width: 36, height: 50, bpc: 1>
+<image: None, width: 80, height: 489, bpc: 1>
+<image: None, width: 454, height: 24, bpc: 1>
+
+## Page 39
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1235, height: 1357, bpc: 1>
+<image: None, width: 70, height: 279, bpc: 1>
+<image: None, width: 76, height: 333, bpc: 1>
+<image: None, width: 39, height: 54, bpc: 1>
+<image: None, width: 151, height: 491, bpc: 1>
+<image: None, width: 79, height: 485, bpc: 1>
+
+## Page 40
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 651, height: 1368, bpc: 1>
+<image: None, width: 284, height: 211, bpc: 1>
+<image: None, width: 458, height: 1344, bpc: 1>
+<image: None, width: 73, height: 282, bpc: 1>
+<image: None, width: 53, height: 926, bpc: 1>
+<image: None, width: 34, height: 50, bpc: 1>
+<image: None, width: 75, height: 485, bpc: 1>
+<image: None, width: 80, height: 489, bpc: 1>
+<image: None, width: 125, height: 133, bpc: 1>
+
+## Page 41
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1124, height: 1482, bpc: 1>
+<image: None, width: 1005, height: 1349, bpc: 1>
+<image: None, width: 69, height: 279, bpc: 1>
+<image: None, width: 229, height: 635, bpc: 1>
+<image: None, width: 161, height: 154, bpc: 1>
+<image: None, width: 200, height: 19, bpc: 1>
+<image: None, width: 37, height: 55, bpc: 1>
+<image: None, width: 409, height: 550, bpc: 1>
+<image: None, width: 77, height: 486, bpc: 1>
+<image: None, width: 106, height: 118, bpc: 1>
+<image: None, width: 392, height: 22, bpc: 1>
+
+## Page 42
+
+<image: DeviceRGB, width: 1168, height: 832, bpc: 8>
+<image: None, width: 1322, height: 1478, bpc: 1>
+<image: None, width: 42, height: 412, bpc: 1>
+<image: None, width: 461, height: 441, bpc: 1>
+<image: None, width: 29, height: 58, bpc: 1>
+<image: None, width: 467, height: 698, bpc: 1>
+<image: None, width: 54, height: 44, bpc: 1>
+<image: None, width: 166, height: 471, bpc: 1>
+<image: None, width: 53, height: 37, bpc: 1>
+<image: None, width: 28, height: 57, bpc: 1>

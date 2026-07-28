@@ -1,0 +1,20 @@
+================================================================================
+GRAPHIFY (manual — run in OpenCode with ANTHROPIC_API_KEY)
+================================================================================
+
+$env:Path = "C:\Users\memeo\.local\bin;$env:Path"
+# Ensure ANTHROPIC_API_KEY is set in OpenCode env
+
+# 1) Extract / rebuild graph from corpus
+graphify extract corpus --force --mode deep --obsidian --backend claude --model claude-sonnet-4-6
+graphify cluster-only . --backend claude --model claude-sonnet-4-6
+graphify label . --backend claude --model claude-sonnet-4-6
+graphify export obsidian
+
+# 2) Fix wikilinks + RegTech enrichment
+python tools\fix_wikilinks.py
+python tools\enrich_graph_notes.py --force
+
+# 3) Optional QA
+python tools\audit_graph_quality.py
+================================================================================

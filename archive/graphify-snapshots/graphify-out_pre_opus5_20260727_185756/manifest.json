@@ -1,0 +1,167 @@
+{
+  "markdown/SAMA_AR_10698_VER1_0.md": {
+    "mtime": 1785061976.1965783,
+    "ast_hash": "0b3554a57a072907637cf66e314d86d4",
+    "semantic_hash": "0b3554a57a072907637cf66e314d86d4"
+  },
+  "markdown/SAMA_EN_1023_VER1.md": {
+    "mtime": 1784741503.63549,
+    "ast_hash": "59a99095f25c1ecc831519989385885c",
+    "semantic_hash": "59a99095f25c1ecc831519989385885c"
+  },
+  "markdown/SAMA_EN_10529_VER1.md": {
+    "mtime": 1785061979.1912308,
+    "ast_hash": "6deb0b6f1441fd96a34c3b55d6baed37",
+    "semantic_hash": "6deb0b6f1441fd96a34c3b55d6baed37"
+  },
+  "markdown/SAMA_EN_10530_VER1.md": {
+    "mtime": 1785062008.9310255,
+    "ast_hash": "926031b20c7e14561cc0128427e9ffc6",
+    "semantic_hash": "926031b20c7e14561cc0128427e9ffc6"
+  },
+  "markdown/SAMA_EN_10667_VER1.md": {
+    "mtime": 1785062067.1905785,
+    "ast_hash": "bfd8d9b858dbe153066c72fd8c8e0852",
+    "semantic_hash": "bfd8d9b858dbe153066c72fd8c8e0852"
+  },
+  "markdown/SAMA_EN_10668_VER1.md": {
+    "mtime": 1785062103.627033,
+    "ast_hash": "8e9c09aa2b34c244a5c0fbe3b729b668",
+    "semantic_hash": "8e9c09aa2b34c244a5c0fbe3b729b668"
+  },
+  "markdown/SAMA_EN_10888_VER1.md": {
+    "mtime": 1785062010.1452434,
+    "ast_hash": "21dea1db3776234e9cc1252bec648701",
+    "semantic_hash": "21dea1db3776234e9cc1252bec648701"
+  },
+  "markdown/SAMA_EN_10911_VER1.md": {
+    "mtime": 1785062125.3597538,
+    "ast_hash": "6fc5a7f302d134a9a7a0201ffc2abcfc",
+    "semantic_hash": "6fc5a7f302d134a9a7a0201ffc2abcfc"
+  },
+  "markdown/SAMA_EN_10912_VER1.md": {
+    "mtime": 1785062147.0666866,
+    "ast_hash": "14561bcbea614b8c77d6b36eb187364f",
+    "semantic_hash": "14561bcbea614b8c77d6b36eb187364f"
+  },
+  "markdown/SAMA_EN_10959_VER1.md": {
+    "mtime": 1785068038.7600665,
+    "ast_hash": "107c36100a7fb8405367af5c6aff73f3",
+    "semantic_hash": "107c36100a7fb8405367af5c6aff73f3"
+  },
+  "markdown/SAMA_EN_11005_VER1.md": {
+    "mtime": 1785062149.212124,
+    "ast_hash": "5a5078c0ba6e11eecb641440ccdaadc7",
+    "semantic_hash": "5a5078c0ba6e11eecb641440ccdaadc7"
+  },
+  "markdown/SAMA_EN_11104_VER1.md": {
+    "mtime": 1785068038.7633607,
+    "ast_hash": "7bcbe0f851476117d8864b27a37cf494",
+    "semantic_hash": "7bcbe0f851476117d8864b27a37cf494"
+  },
+  "markdown/SAMA_EN_1195_VER1.md": {
+    "mtime": 1785062166.1116734,
+    "ast_hash": "3c93c6023d6d2510a268a516eb59a3a2",
+    "semantic_hash": "3c93c6023d6d2510a268a516eb59a3a2"
+  },
+  "markdown/SAMA_EN_132_VER1_0.md": {
+    "mtime": 1784741503.7393873,
+    "ast_hash": "69ece5aff2ce37c348d1194ce8b667e6",
+    "semantic_hash": "69ece5aff2ce37c348d1194ce8b667e6"
+  },
+  "markdown/SAMA_EN_1428_VER1.md": {
+    "mtime": 1784741503.7667017,
+    "ast_hash": "eb3a5d2333f52a0dae3c1d8e00fad5b1",
+    "semantic_hash": "eb3a5d2333f52a0dae3c1d8e00fad5b1"
+  },
+  "markdown/SAMA_EN_1429_VER1.md": {
+    "mtime": 1785068038.7745478,
+    "ast_hash": "bbf461c6c8d248e08f2912d6e663daad",
+    "semantic_hash": "bbf461c6c8d248e08f2912d6e663daad"
+  },
+  "markdown/SAMA_EN_1430_VER1.md": {
+    "mtime": 1785062287.3888662,
+    "ast_hash": "ff57bf920e397a42440e6504928c45d5",
+    "semantic_hash": "ff57bf920e397a42440e6504928c45d5"
+  },
+  "markdown/SAMA_EN_1644_VER1.md": {
+    "mtime": 1785068038.9917476,
+    "ast_hash": "6694f10c5d786ae7d727bf5c36d171de",
+    "semantic_hash": "6694f10c5d786ae7d727bf5c36d171de"
+  },
+  "markdown/SAMA_EN_1704_VER1.md": {
+    "mtime": 1784741503.9395795,
+    "ast_hash": "327e96705320fbd0ac507de26b242d93",
+    "semantic_hash": "327e96705320fbd0ac507de26b242d93"
+  },
+  "markdown/SAMA_EN_2082_VER1.md": {
+    "mtime": 1785062015.5423193,
+    "ast_hash": "65a47b716928bcf3caabf545fecc2522",
+    "semantic_hash": "65a47b716928bcf3caabf545fecc2522"
+  },
+  "markdown/SAMA_EN_2217_VER1.md": {
+    "mtime": 1785068039.0708952,
+    "ast_hash": "37131d2acb3eed27ec427c2131c16e65",
+    "semantic_hash": "37131d2acb3eed27ec427c2131c16e65"
+  },
+  "markdown/SAMA_EN_4830_VER1.md": {
+    "mtime": 1785068041.1967275,
+    "ast_hash": "ab9c3877839d8a79e62bb3a613387542",
+    "semantic_hash": "ab9c3877839d8a79e62bb3a613387542"
+  },
+  "markdown/SAMA_EN_4833_VER1.md": {
+    "mtime": 1785068044.0433755,
+    "ast_hash": "efbf8855ae56c1976ff54b30eae72061",
+    "semantic_hash": "efbf8855ae56c1976ff54b30eae72061"
+  },
+  "markdown/SAMA_EN_5696_VER1.md": {
+    "mtime": 1785068060.3885398,
+    "ast_hash": "3e57aa4f0a9f9baa889834010ebb1e53",
+    "semantic_hash": "3e57aa4f0a9f9baa889834010ebb1e53"
+  },
+  "markdown/SAMA_EN_6523_VER1.md": {
+    "mtime": 1784741503.958401,
+    "ast_hash": "ebd1fdd62b9e8f500548992c3277f1c9",
+    "semantic_hash": "ebd1fdd62b9e8f500548992c3277f1c9"
+  },
+  "markdown/SAMA_EN_791_VER1.md": {
+    "mtime": 1784741503.9761271,
+    "ast_hash": "811b384e9a6b69bfb244d91fb8f355eb",
+    "semantic_hash": "811b384e9a6b69bfb244d91fb8f355eb"
+  },
+  "markdown/SAMA_EN_853_VER1.md": {
+    "mtime": 1784741503.9971368,
+    "ast_hash": "26fc19023bae320dde47c09fa3549667",
+    "semantic_hash": "26fc19023bae320dde47c09fa3549667"
+  },
+  "markdown/SAMA_EN_8725_VER1.md": {
+    "mtime": 1785068062.309968,
+    "ast_hash": "8b328e8a2d31f0ac40e4bb29afd94a64",
+    "semantic_hash": "8b328e8a2d31f0ac40e4bb29afd94a64"
+  },
+  "markdown/SAMA_EN_961_VER1.md": {
+    "mtime": 1784741504.0085137,
+    "ast_hash": "c810e047290a310dc7930ccbf4c104f1",
+    "semantic_hash": "c810e047290a310dc7930ccbf4c104f1"
+  },
+  "markdown/SAMA_EN_996_VER1.md": {
+    "mtime": 1785068062.3313782,
+    "ast_hash": "169329d7aa107d5b62fd9745c64058b8",
+    "semantic_hash": "169329d7aa107d5b62fd9745c64058b8"
+  },
+  "markdown/document.md": {
+    "mtime": 1784741504.0391774,
+    "ast_hash": "d7aba508688d4abb86521f125131e2fd",
+    "semantic_hash": "d7aba508688d4abb86521f125131e2fd"
+  },
+  "markdown/document2.md": {
+    "mtime": 1785062031.0398192,
+    "ast_hash": "5a38d92467c229d41f6ba5d0b349e726",
+    "semantic_hash": "5a38d92467c229d41f6ba5d0b349e726"
+  },
+  "markdown/document3.md": {
+    "mtime": 1785068038.7559743,
+    "ast_hash": "2f1c5626c30fdb92d0bf3f7cc74afead",
+    "semantic_hash": "2f1c5626c30fdb92d0bf3f7cc74afead"
+  }
+}

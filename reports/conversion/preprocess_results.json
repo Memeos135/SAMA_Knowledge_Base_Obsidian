@@ -1,0 +1,34 @@
+{
+  "generated": "2026-07-27T15:34:13.092379+00:00",
+  "ok": 3,
+  "total": 3,
+  "results": [
+    {
+      "stem": "SAMA_EN_3487_VER1",
+      "ok": true,
+      "route": "bidi",
+      "pages": 902,
+      "md_chars": 1933076,
+      "cpp_text": 2144.1,
+      "isolated_rate": 0.0
+    },
+    {
+      "stem": "SAMA_EN_3553_VER1",
+      "ok": true,
+      "route": "bidi",
+      "pages": 175,
+      "md_chars": 425931,
+      "cpp_text": 2434.9,
+      "isolated_rate": 0.0
+    },
+    {
+      "stem": "SAMA_EN_4283_VER1",
+      "ok": true,
+      "route": "bidi",
+      "pages": 145,
+      "md_chars": 321593,
+      "cpp_text": 2218.9,
+      "isolated_rate": 0.0
+    }
+  ]
+}

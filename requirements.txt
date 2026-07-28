@@ -1,0 +1,24 @@
+# SAMA Knowledge Base — Python dependencies
+# Runtime used for this project: CPython 3.7 (Windows).
+# Install:  python -m pip install -r requirements.txt
+#
+# NOTE: two required components are NOT pip packages and must be installed separately:
+#   - graphify            (CLI on PATH; the knowledge-graph engine, e.g. ~/.local/bin/graphify)
+#   - Tesseract OCR       (system binary; language data eng+ara is bundled in tools/tessdata/)
+#   - Playwright browsers (after pip install, run:  python -m playwright install chromium)
+
+# --- PDF / image processing (preprocess_pdfs.py, assess_conversion.py) ---
+PyMuPDF            # imported as 'fitz'
+Pillow             # imported as 'PIL'
+pytesseract        # OCR wrapper (needs the Tesseract binary above)
+
+# --- Arabic text handling (OCR route) ---
+arabic-reshaper    # imported as 'arabic_reshaper'
+python-bidi        # imported as 'bidi'
+
+# --- Rulebook scanner / acquire (rulebook_scanner.py, rulebook_acquire.py) ---
+playwright         # headless browser automation; run 'python -m playwright install chromium' after install
+
+# --- Enrichment (enrich_graph_notes.py) ---
+# Uses only the standard library (urllib) for the Anthropic API — no extra package required.
+# Requires env var ANTHROPIC_API_KEY at runtime.

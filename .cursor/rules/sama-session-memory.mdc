@@ -1,0 +1,46 @@
+---
+description: SAMA KB session continuity for Cursor/IDE agents (read project docs; do not invent parallel truth)
+alwaysApply: true
+---
+
+# SAMA Knowledge Base — IDE session memory
+
+This rule is **IDE/agent continuity only**. It does not redefine the product or repo layout. For facts, prefer live project docs over memory.
+
+## Read first (in order)
+
+1. `docs/SESSION.md` — runbook, commands, open todos, analysis notes  
+2. `README.md` — folder layout and common commands  
+3. `docs/agents/README.md` — Orchestrator → Legal → Mapper → Extractor → Reviewer → Formatter
+
+Root `.session_SAMA_KnowledgeBase.md` is only a **pointer** to `docs/SESSION.md`.
+
+## Source-of-truth hierarchy (avoid contradictions)
+
+| Topic | Authoritative location |
+|---|---|
+| Folder layout & commands | `README.md` |
+| Session state / todos / analysis | `docs/SESSION.md` |
+| Agent personas | `docs/agents/00_*.md` … `03_*.md` + `01a_*.md` + `query_config.md` |
+| Regulatory text | `corpus/markdown/*.md` |
+| Graph navigation | `graphify-out/` (map only) |
+| Conversion QA | `reports/conversion/` |
+| Graph QA | `reports/graph/` |
+
+If two docs disagree on **paths or counts**, trust `README.md` + on-disk folders, then update `docs/SESSION.md` — do not invent a third layout.
+
+**Corpus text wins** over Graphify enrichment or Obsidian paraphrases when quoting law.
+
+## How this repo is used
+
+- PDFs live outside the repo (`SAMA_DOCS` / batch folders like `SAMA_DOCS2`).
+- Graphify ingest root is **`corpus/`** (markdown only) — do not ingest `assets/page-images/` alongside MD (double-count risk).
+- After `graphify export obsidian`, enrichment is `python tools/enrich_graph_notes.py` (compliance/legal analyst persona in that script).
+- Regulatory questions: use Orchestrator workflow in `docs/agents/README.md` / `query_config.md` (Legal Map→Dig → Reviewer → Formatter).
+
+## Do not
+
+- Hardcode stale node/edge counts in new rules or replies when `graphify-out/graph.json` exists — read it or say “see GRAPH_REPORT”.
+- Put secrets/API keys in docs or rules.
+- Re-run full OCR/Graphify wipe unless the user asks.
+- Rewrite agent personas in-chat as a parallel source; edit `docs/agents/` instead.

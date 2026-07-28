@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "95a8b20eaf1f550a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7ea699739830d14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77a875c3bf587886",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35dc1a4c1a29d610",
+    "type": "split",
+    "children": [
+      {
+        "id": "af21afbce45d16c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea4b02c098fe85c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1d46b463fb018943",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6a85225df86b3bc2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "9f07e5522a862c48",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0c3c9513f1a2165",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41b58b1a4d3910c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 3.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled 3"
+            }
+          },
+          {
+            "id": "9085711ca0825361",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled 3.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled 3"
+            }
+          },
+          {
+            "id": "b0a82f80c6203dd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c2475c3a2f0b28f8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f8925bfa95ecb2bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled 3.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled 3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "77a875c3bf587886",
+  "lastOpenFiles": [
+    "_COMMUNITY_AMLCTF BNPL Finance Rules.md",
+    "Anti-Money Laundering Law.md",
+    "SAMA (Saudi Central Bank).md",
+    "Protection and Safeguarding of Protected Funds.md",
+    "Saudi Central Bank (SAMA)_1.md",
+    "_COMMUNITY_AML Due Diligence & Accounts.md",
+    "Ongoing Capital Requirements.md",
+    "Licensee Change Notification Obligations.md",
+    "Law of Systemically Important Financial Institutions.md",
+    "Business Risk Assessment Guide (AML/CFT/PF).md",
+    "Business Risk Assessment Guide (AML/CFT",
+    "Business Risk Assessment Guide (AML",
+    "AML/CTF/CPF Business Risk Assessment Guide.md",
+    "AML/CTF",
+    "AML",
+    "Preauthorization/Notification POS Fraud Circular.md",
+    "Preauthorization",
+    "ML/TF Risk Assessment.md",
+    "AML/CTF Guide.md",
+    "AML/CTF Compliance Requirements.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "ML",
+    "Private Associations Accounts.md",
+    "Cash and Deposit Controls (ATM/CAM).md",
+    "Cash and Deposit Controls (ATM",
+    "General Instructions for Opening Bank Accounts.md",
+    "Untitled 1.canvas",
+    "Untitled 3.canvas",
+    "Untitled 9.canvas",
+    "Untitled 8.canvas",
+    "Untitled 7.canvas",
+    "Untitled 6.canvas",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Untitled 2.canvas"
+  ]
+}

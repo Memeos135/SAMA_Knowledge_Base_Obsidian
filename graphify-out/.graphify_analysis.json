@@ -1,0 +1,2976 @@
+{
+  "communities": {
+    "0": [
+      "markdown_sama_en_3689_ver1_aggregation_instructions",
+      "markdown_sama_en_3689_ver1_bcm_framework",
+      "markdown_sama_en_3689_ver1_consumer",
+      "markdown_sama_en_3689_ver1_cyber_security_framework",
+      "markdown_sama_en_3689_ver1_entity",
+      "markdown_sama_en_3689_ver1_financier",
+      "markdown_sama_en_3689_ver1_platform",
+      "markdown_sama_en_3689_ver1_sama",
+      "markdown_sama_en_3709_ver1_bcm_framework",
+      "markdown_sama_en_3709_ver1_bcm_governance",
+      "markdown_sama_en_3709_ver1_bcm_strategy",
+      "markdown_sama_en_3709_ver1_bcp",
+      "markdown_sama_en_3709_ver1_bia_ra",
+      "markdown_sama_en_3709_ver1_crisis_management_plan",
+      "markdown_sama_en_3709_ver1_csf_reference",
+      "markdown_sama_en_3709_ver1_cyber_resilience",
+      "markdown_sama_en_3709_ver1_drp",
+      "markdown_sama_en_3709_ver1_iso_22301",
+      "markdown_sama_en_3709_ver1_member_organization",
+      "markdown_sama_en_3709_ver1_sama",
+      "markdown_sama_en_3709_ver1_testing",
+      "markdown_sama_en_3726_ver1_bcmf_reference",
+      "markdown_sama_en_3726_ver1_crfr",
+      "markdown_sama_en_3726_ver1_csf_reference",
+      "markdown_sama_en_3726_ver1_entities",
+      "markdown_sama_en_3726_ver1_leadership_governance",
+      "markdown_sama_en_3726_ver1_nistir_7298r3",
+      "markdown_sama_en_3726_ver1_operations_technology",
+      "markdown_sama_en_3726_ver1_regulatory_sandbox",
+      "markdown_sama_en_3726_ver1_resilience",
+      "markdown_sama_en_3837_ver1_bcm_reference",
+      "markdown_sama_en_3837_ver1_ciso",
+      "markdown_sama_en_3837_ver1_csf",
+      "markdown_sama_en_3837_ver1_cyber_security_committee",
+      "markdown_sama_en_3837_ver1_leadership_governance",
+      "markdown_sama_en_3837_ver1_maturity_model",
+      "markdown_sama_en_3837_ver1_member_organization",
+      "markdown_sama_en_3837_ver1_operations_technology",
+      "markdown_sama_en_3837_ver1_pci_dss",
+      "markdown_sama_en_3837_ver1_risk_management_compliance",
+      "markdown_sama_en_3837_ver1_risk_management_process",
+      "markdown_sama_en_3837_ver1_sama",
+      "markdown_sama_en_3837_ver1_sdlc",
+      "markdown_sama_en_3837_ver1_siem",
+      "markdown_sama_en_3837_ver1_soc",
+      "markdown_sama_en_3837_ver1_swift_cscf",
+      "markdown_sama_en_3837_ver1_third_party_security"
+    ],
+    "1": [
+      "markdown_sama_en_2340_ver1",
+      "markdown_sama_en_2340_ver1_banking_control_law",
+      "markdown_sama_en_2340_ver1_basel_framework",
+      "markdown_sama_en_2340_ver1_bcbs_lex",
+      "markdown_sama_en_2340_ver1_covered_bonds",
+      "markdown_sama_en_2340_ver1_crm",
+      "markdown_sama_en_2340_ver1_exposure_limits",
+      "markdown_sama_en_2340_ver1_exposure_value",
+      "markdown_sama_en_2340_ver1_group_connected_counterparties",
+      "markdown_sama_en_2340_ver1_gsib",
+      "markdown_sama_en_2340_ver1_lta",
+      "markdown_sama_en_2340_ver1_qccp",
+      "markdown_sama_en_2340_ver1_saccr",
+      "markdown_sama_en_2340_ver1_trading_book",
+      "markdown_sama_en_2788_ver1",
+      "markdown_sama_en_2788_ver1_ala",
+      "markdown_sama_en_2788_ver1_basel3_lcr",
+      "markdown_sama_en_2788_ver1_bcbs_lcr",
+      "markdown_sama_en_2788_ver1_hqla",
+      "markdown_sama_en_2788_ver1_lcr",
+      "markdown_sama_en_2788_ver1_level1",
+      "markdown_sama_en_2788_ver1_level2",
+      "markdown_sama_en_2788_ver1_net_cash_outflows",
+      "markdown_sama_en_2788_ver1_operational_deposits",
+      "markdown_sama_en_2788_ver1_retail_deposit_runoff",
+      "markdown_sama_en_2788_ver1_secured_funding",
+      "markdown_sama_en_2788_ver1_shariah_treatment",
+      "markdown_sama_en_2788_ver1_wholesale_funding",
+      "markdown_sama_en_2797_ver1_basel2",
+      "markdown_sama_en_2797_ver1_capital_convergence",
+      "markdown_sama_en_2797_ver1_icaap",
+      "markdown_sama_en_2797_ver1_pillar1",
+      "markdown_sama_en_2797_ver1_pillar2",
+      "markdown_sama_en_2797_ver1_stress_testing",
+      "markdown_sama_en_2797_ver1_supervisory_review",
+      "markdown_sama_en_3417_ver1",
+      "markdown_sama_en_3417_ver1_basel_iii_lcr",
+      "markdown_sama_en_3417_ver1_collateral_swaps",
+      "markdown_sama_en_3417_ver1_hqla",
+      "markdown_sama_en_3417_ver1_inflows",
+      "markdown_sama_en_3417_ver1_lcr",
+      "markdown_sama_en_3417_ver1_level1_assets",
+      "markdown_sama_en_3417_ver1_level2b_assets",
+      "markdown_sama_en_3417_ver1_maturity_mismatch",
+      "markdown_sama_en_3417_ver1_monitoring_tools",
+      "markdown_sama_en_3417_ver1_outflows"
+    ],
+    "2": [
+      "markdown_sama_en_791_ver1",
+      "markdown_sama_en_791_ver1_confiscation",
+      "markdown_sama_en_791_ver1_due_diligence",
+      "markdown_sama_en_791_ver1_gdfi",
+      "markdown_sama_en_791_ver1_implementing_regulation",
+      "markdown_sama_en_791_ver1_money_laundering_offence",
+      "markdown_sama_en_791_ver1_preventive_measures",
+      "markdown_sama_en_791_ver1_supervisory_authority",
+      "markdown_sama_en_8294_ver1",
+      "markdown_sama_en_8294_ver1_director_aml",
+      "markdown_sama_en_8294_ver1_fit_and_proper",
+      "markdown_sama_en_8294_ver1_sama",
+      "markdown_sama_en_8294_ver1_senior_positions",
+      "markdown_sama_en_8320_ver1_0",
+      "markdown_sama_en_8320_ver1_0_aml_rules",
+      "markdown_sama_en_8320_ver1_0_fit_proper_forms",
+      "markdown_sama_en_8320_ver1_0_operational_readiness",
+      "markdown_sama_en_8320_ver1_0_regulatory_sandbox",
+      "markdown_sama_en_8357_ver1",
+      "markdown_sama_en_8357_ver1_collateral",
+      "markdown_sama_en_8357_ver1_default",
+      "markdown_sama_en_8357_ver1_ecl",
+      "markdown_sama_en_8357_ver1_finance_companies_law",
+      "markdown_sama_en_8357_ver1_forbearance",
+      "markdown_sama_en_8357_ver1_ifrs9",
+      "markdown_sama_en_8357_ver1_stage_classification",
+      "markdown_sama_en_8357_ver1_write_off",
+      "markdown_sama_en_8383_ver1",
+      "markdown_sama_en_8383_ver1_account_opening",
+      "markdown_sama_en_8383_ver1_asset_quality",
+      "markdown_sama_en_8383_ver1_capital_requirements",
+      "markdown_sama_en_8383_ver1_corp_governance",
+      "markdown_sama_en_8383_ver1_dtfc",
+      "markdown_sama_en_8383_ver1_fit_proper",
+      "markdown_sama_en_8383_ver1_fiu",
+      "markdown_sama_en_8383_ver1_kyc",
+      "markdown_sama_en_8383_ver1_liquidity_requirements",
+      "markdown_sama_en_853_ver1_aml_law",
+      "markdown_sama_en_853_ver1_ctf_law",
+      "markdown_sama_en_853_ver1_gd_financial_intelligence",
+      "markdown_sama_en_853_ver1_permanent_committee",
+      "markdown_sama_en_853_ver1_preventive_measures",
+      "markdown_sama_en_853_ver1_supervision"
+    ],
+    "3": [
+      "concept_aml_ctf",
+      "concept_aml_law",
+      "concept_banking_control_law",
+      "concept_beneficial_owner",
+      "concept_consumer_protection",
+      "concept_customer_protection",
+      "concept_finance_companies_control_law",
+      "concept_outsourcing",
+      "concept_real_estate_finance_law",
+      "concept_sama_central_bank_law",
+      "concept_saudi_real_estate_refinance_company",
+      "concept_vision_2030",
+      "markdown_sama_en_10959_ver1",
+      "markdown_sama_en_10971_ver1",
+      "markdown_sama_en_10973_ver1",
+      "markdown_sama_en_11005_ver1",
+      "markdown_sama_en_11009_ver1",
+      "markdown_sama_en_11010_ver1",
+      "markdown_sama_en_11011_ver1",
+      "markdown_sama_en_11015_ver1",
+      "markdown_sama_en_11017_ver1",
+      "markdown_sama_en_11021_ver1",
+      "markdown_sama_en_11022_ver1",
+      "markdown_sama_en_4878_ver1",
+      "markdown_sama_en_4897_ver1",
+      "markdown_sama_en_4923_ver1",
+      "markdown_sama_en_4926_ver1",
+      "markdown_sama_en_4929_ver1",
+      "markdown_sama_en_4939_ver1",
+      "markdown_sama_en_4957_ver1",
+      "markdown_sama_en_4962_ver1",
+      "markdown_sama_en_5028_ver1",
+      "markdown_sama_en_5081_ver1",
+      "markdown_sama_en_5085_ver1",
+      "markdown_sama_en_5096_ver1",
+      "markdown_sama_en_5379_ver1",
+      "markdown_sama_en_5384_ver1",
+      "markdown_sama_en_5392_ver1",
+      "markdown_sama_en_5403_ver1",
+      "markdown_sama_en_5404_ver1",
+      "markdown_sama_en_5409_ver1",
+      "markdown_sama_en_5410_ver1"
+    ],
+    "4": [
+      "banking_control_law",
+      "consumer_finance_controls",
+      "contract_registry_sijil",
+      "cooperative_insurance_control_law",
+      "finance_companies_control_law",
+      "finance_companies_control_law_implementing_regulation",
+      "finance_lease_law",
+      "finance_lease_law_implementing_regulation",
+      "markdown_sama_en_5885_ver1_acceptance_certificate",
+      "markdown_sama_en_5885_ver1_assignment",
+      "markdown_sama_en_5885_ver1_contracts_register",
+      "markdown_sama_en_5885_ver1_finance_lease_law",
+      "markdown_sama_en_5885_ver1_ijara_contract",
+      "markdown_sama_en_5885_ver1_insurance",
+      "markdown_sama_en_5885_ver1_maintenance",
+      "markdown_sama_en_5885_ver1_total_partial_loss",
+      "markdown_sama_en_6324_ver1",
+      "markdown_sama_en_6324_ver1_board_responsibilities",
+      "markdown_sama_en_6324_ver1_shariah_committee",
+      "markdown_sama_en_6324_ver1_shariah_oversight",
+      "markdown_sama_en_6398_ver1",
+      "markdown_sama_en_6505_ver1_1",
+      "markdown_sama_en_6505_ver1_1_executive_committee",
+      "markdown_sama_en_6505_ver1_1_general_committee",
+      "markdown_sama_en_6505_ver1_1_subcommittees",
+      "markdown_sama_en_6523_ver1",
+      "markdown_sama_en_6523_ver1_bnpl_activity",
+      "markdown_sama_en_6523_ver1_consumer_protection",
+      "markdown_sama_en_6523_ver1_licensing",
+      "markdown_sama_en_6561_ver1",
+      "markdown_sama_en_6561_ver1_declining_balance",
+      "markdown_sama_en_7136_ver1",
+      "markdown_sama_en_7136_ver1_default_breach",
+      "markdown_sama_en_7136_ver1_early_ownership",
+      "markdown_sama_en_7136_ver1_ownership_transfer_cert",
+      "markdown_sama_en_7908_ver1",
+      "markdown_sama_en_7908_ver1_bancassurance_activity",
+      "markdown_sama_en_7908_ver1_bank_obligations",
+      "markdown_sama_en_7908_ver1_company_obligations"
+    ],
+    "5": [
+      "markdown_sama_en_3487_ver1_asset_classes",
+      "markdown_sama_en_3487_ver1_commodities_finance",
+      "markdown_sama_en_3487_ver1_comprehensive_approach",
+      "markdown_sama_en_3487_ver1_corporate_exposures",
+      "markdown_sama_en_3487_ver1_crm",
+      "markdown_sama_en_3487_ver1_currency_mismatch_hfx",
+      "markdown_sama_en_3487_ver1_default_definition",
+      "markdown_sama_en_3487_ver1_disclosure_requirements",
+      "markdown_sama_en_3487_ver1_effective_maturity",
+      "markdown_sama_en_3487_ver1_equity_exposures",
+      "markdown_sama_en_3487_ver1_expected_loss",
+      "markdown_sama_en_3487_ver1_foundation_advanced",
+      "markdown_sama_en_3487_ver1_guarantees_credit_derivatives",
+      "markdown_sama_en_3487_ver1_holding_periods",
+      "markdown_sama_en_3487_ver1_hvcre",
+      "markdown_sama_en_3487_ver1_ipre",
+      "markdown_sama_en_3487_ver1_lgd",
+      "markdown_sama_en_3487_ver1_minimum_requirements",
+      "markdown_sama_en_3487_ver1_object_finance",
+      "markdown_sama_en_3487_ver1_on_balance_netting",
+      "markdown_sama_en_3487_ver1_pd",
+      "markdown_sama_en_3487_ver1_pd_estimation",
+      "markdown_sama_en_3487_ver1_project_finance",
+      "markdown_sama_en_3487_ver1_purchased_receivables",
+      "markdown_sama_en_3487_ver1_qrre",
+      "markdown_sama_en_3487_ver1_rating_system",
+      "markdown_sama_en_3487_ver1_reageing_overdrafts",
+      "markdown_sama_en_3487_ver1_retail_exposures",
+      "markdown_sama_en_3487_ver1_risk_components",
+      "markdown_sama_en_3487_ver1_risk_weight_functions",
+      "markdown_sama_en_3487_ver1_rwa_purchased_receivables",
+      "markdown_sama_en_3487_ver1_simple_approach",
+      "markdown_sama_en_3487_ver1_sovereign_guarantees",
+      "markdown_sama_en_3487_ver1_specialized_lending",
+      "markdown_sama_en_3487_ver1_supervisory_haircuts",
+      "markdown_sama_en_3487_ver1_supervisory_slotting",
+      "markdown_sama_en_3487_ver1_validation"
+    ],
+    "6": [
+      "markdown_sama_en_3487_ver1_ccr1",
+      "markdown_sama_en_3487_ver1_ccr3",
+      "markdown_sama_en_3487_ver1_ccr4",
+      "markdown_sama_en_3487_ver1_ccr5",
+      "markdown_sama_en_3487_ver1_ccr8",
+      "markdown_sama_en_3487_ver1_ccyb1",
+      "markdown_sama_en_3487_ver1_cms1",
+      "markdown_sama_en_3487_ver1_cva1",
+      "markdown_sama_en_3487_ver1_cva2",
+      "markdown_sama_en_3487_ver1_cva3",
+      "markdown_sama_en_3487_ver1_cva4",
+      "markdown_sama_en_3487_ver1_km1",
+      "markdown_sama_en_3487_ver1_lr1",
+      "markdown_sama_en_3487_ver1_lr2",
+      "markdown_sama_en_3487_ver1_mr1",
+      "markdown_sama_en_3487_ver1_mr2",
+      "markdown_sama_en_3487_ver1_mr3",
+      "markdown_sama_en_3487_ver1_ov1",
+      "markdown_sama_en_3487_ver1_regulatory_capital",
+      "markdown_sama_en_3487_ver1_sacap",
+      "markdown_sama_en_3487_ver1_template_cc1",
+      "markdown_sama_en_3487_ver1_template_cc2",
+      "markdown_sama_en_3487_ver1_template_cca",
+      "markdown_sama_en_3487_ver1_template_cdc",
+      "markdown_sama_en_3487_ver1_template_cms1",
+      "markdown_sama_en_3487_ver1_template_cms2",
+      "markdown_sama_en_3487_ver1_template_km2",
+      "markdown_sama_en_3487_ver1_template_pv1",
+      "markdown_sama_en_3487_ver1_template_tlac1",
+      "markdown_sama_en_3487_ver1_template_tlac2",
+      "markdown_sama_en_3487_ver1_template_tlac3",
+      "markdown_sama_en_3487_ver1_tlac",
+      "sccr_counterparty_credit_risk",
+      "slev_leverage_ratio_standard",
+      "smar_market_risk_framework"
+    ],
+    "7": [
+      "markdown_sama_en_3623_ver1_ala",
+      "markdown_sama_en_3623_ver1_ala_option1",
+      "markdown_sama_en_3623_ver1_ala_option2",
+      "markdown_sama_en_3623_ver1_ala_option3",
+      "markdown_sama_en_3623_ver1_ala_options",
+      "markdown_sama_en_3623_ver1_basel_committee",
+      "markdown_sama_en_3623_ver1_basel_ii",
+      "markdown_sama_en_3623_ver1_basel_iii",
+      "markdown_sama_en_3623_ver1_cash_inflows",
+      "markdown_sama_en_3623_ver1_cash_outflows",
+      "markdown_sama_en_3623_ver1_funding_concentration",
+      "markdown_sama_en_3623_ver1_hqla",
+      "markdown_sama_en_3623_ver1_lcr",
+      "markdown_sama_en_3623_ver1_lcr_by_currency",
+      "markdown_sama_en_3623_ver1_level1_assets",
+      "markdown_sama_en_3623_ver1_level2a_assets",
+      "markdown_sama_en_3623_ver1_level2b_assets",
+      "markdown_sama_en_3623_ver1_ltv_ratio",
+      "markdown_sama_en_3623_ver1_market_monitoring_tools",
+      "markdown_sama_en_3623_ver1_maturity_mismatch",
+      "markdown_sama_en_3623_ver1_monitoring_tools",
+      "markdown_sama_en_3623_ver1_net_cash_outflows",
+      "markdown_sama_en_3623_ver1_nsfr",
+      "markdown_sama_en_3623_ver1_operational_deposits",
+      "markdown_sama_en_3623_ver1_option1",
+      "markdown_sama_en_3623_ver1_option2",
+      "markdown_sama_en_3623_ver1_option3",
+      "markdown_sama_en_3623_ver1_peer_review",
+      "markdown_sama_en_3623_ver1_retail_deposit_runoff",
+      "markdown_sama_en_3623_ver1_secured_funding_runoff",
+      "markdown_sama_en_3623_ver1_shariah_treatment",
+      "markdown_sama_en_3623_ver1_sound_principles",
+      "markdown_sama_en_3623_ver1_unencumbered_assets",
+      "markdown_sama_en_3623_ver1_wholesale_funding_runoff"
+    ],
+    "8": [
+      "markdown_sama_en_5888_ver1",
+      "markdown_sama_en_5888_ver1_board",
+      "markdown_sama_en_5888_ver1_ciso",
+      "markdown_sama_en_5888_ver1_cloud_computing",
+      "markdown_sama_en_5888_ver1_cyber_committee",
+      "markdown_sama_en_5888_ver1_electronic_banking",
+      "markdown_sama_en_5888_ver1_event_management",
+      "markdown_sama_en_5888_ver1_framework",
+      "markdown_sama_en_5888_ver1_governance",
+      "markdown_sama_en_5888_ver1_hard_token",
+      "markdown_sama_en_5888_ver1_incident_management",
+      "markdown_sama_en_5888_ver1_indicator_of_compromise",
+      "markdown_sama_en_5888_ver1_industry_standards",
+      "markdown_sama_en_5888_ver1_leadership_governance",
+      "markdown_sama_en_5888_ver1_maturity_model",
+      "markdown_sama_en_5888_ver1_mfa",
+      "markdown_sama_en_5888_ver1_operations_technology",
+      "markdown_sama_en_5888_ver1_outsourcing",
+      "markdown_sama_en_5888_ver1_payment_systems",
+      "markdown_sama_en_5888_ver1_pci_dss",
+      "markdown_sama_en_5888_ver1_policy",
+      "markdown_sama_en_5888_ver1_regulatory_compliance",
+      "markdown_sama_en_5888_ver1_risk_management_process",
+      "markdown_sama_en_5888_ver1_risk_mgmt_compliance",
+      "markdown_sama_en_5888_ver1_roles_responsibilities",
+      "markdown_sama_en_5888_ver1_sama",
+      "markdown_sama_en_5888_ver1_soc",
+      "markdown_sama_en_5888_ver1_soft_token",
+      "markdown_sama_en_5888_ver1_strategy",
+      "markdown_sama_en_5888_ver1_swift",
+      "markdown_sama_en_5888_ver1_third_party",
+      "markdown_sama_en_5888_ver1_threat_management",
+      "markdown_sama_en_5888_ver1_vulnerability",
+      "markdown_sama_en_5888_ver1_vulnerability_management"
+    ],
+    "9": [
+      "markdown_sama_en_3487_ver1_commodities_risk",
+      "markdown_sama_en_3487_ver1_commodity_risk",
+      "markdown_sama_en_3487_ver1_cs01",
+      "markdown_sama_en_3487_ver1_csr",
+      "markdown_sama_en_3487_ver1_ctp",
+      "markdown_sama_en_3487_ver1_curvature_risk",
+      "markdown_sama_en_3487_ver1_delta_plus_method",
+      "markdown_sama_en_3487_ver1_delta_risk",
+      "markdown_sama_en_3487_ver1_duration_method",
+      "markdown_sama_en_3487_ver1_equity_risk",
+      "markdown_sama_en_3487_ver1_fx_risk",
+      "markdown_sama_en_3487_ver1_gamma_risk",
+      "markdown_sama_en_3487_ver1_general_market_risk",
+      "markdown_sama_en_3487_ver1_girr",
+      "markdown_sama_en_3487_ver1_interest_rate_risk",
+      "markdown_sama_en_3487_ver1_maturity_method",
+      "markdown_sama_en_3487_ver1_pv01",
+      "markdown_sama_en_3487_ver1_scenario_approach",
+      "markdown_sama_en_3487_ver1_sensitivities_based_method",
+      "markdown_sama_en_3487_ver1_simplified_approach_options",
+      "markdown_sama_en_3487_ver1_simplified_sa",
+      "markdown_sama_en_3487_ver1_specific_risk",
+      "markdown_sama_en_3487_ver1_supervisory_delta",
+      "markdown_sama_en_3487_ver1_vega_risk",
+      "markdown_sama_en_3553_ver1_commodities_risk",
+      "markdown_sama_en_3553_ver1_duration_method",
+      "markdown_sama_en_3553_ver1_equity_risk",
+      "markdown_sama_en_3553_ver1_general_market_risk",
+      "markdown_sama_en_3553_ver1_interest_rate_risk",
+      "markdown_sama_en_3553_ver1_maturity_method",
+      "markdown_sama_en_3553_ver1_simplified_sa",
+      "markdown_sama_en_3553_ver1_specific_risk"
+    ],
+    "10": [
+      "markdown_sama_en_3502_ver1_calc_expected_losses",
+      "markdown_sama_en_3502_ver1_corporate_governance",
+      "markdown_sama_en_3502_ver1_credit_derivative_effect",
+      "markdown_sama_en_3502_ver1_credit_risk_control",
+      "markdown_sama_en_3502_ver1_definition_of_default",
+      "markdown_sama_en_3502_ver1_disclosure_requirements",
+      "markdown_sama_en_3502_ver1_ead_estimation",
+      "markdown_sama_en_3502_ver1_el_provisions",
+      "markdown_sama_en_3502_ver1_eligible_provisions",
+      "markdown_sama_en_3502_ver1_financial_receivables_collateral",
+      "markdown_sama_en_3502_ver1_guarantee_effect_estimation",
+      "markdown_sama_en_3502_ver1_hvcre",
+      "markdown_sama_en_3502_ver1_irb_min_requirements",
+      "markdown_sama_en_3502_ver1_leasing_recognition",
+      "markdown_sama_en_3502_ver1_lgd_estimation",
+      "markdown_sama_en_3502_ver1_other_physical_collateral",
+      "markdown_sama_en_3502_ver1_pd_estimation",
+      "markdown_sama_en_3502_ver1_rating_criteria",
+      "markdown_sama_en_3502_ver1_rating_dimensions",
+      "markdown_sama_en_3502_ver1_rating_system_design",
+      "markdown_sama_en_3502_ver1_real_estate_collateral",
+      "markdown_sama_en_3502_ver1_risk_quantification",
+      "markdown_sama_en_3502_ver1_slotting_approach",
+      "markdown_sama_en_3502_ver1_slotting_criteria_cf",
+      "markdown_sama_en_3502_ver1_slotting_criteria_ipre",
+      "markdown_sama_en_3502_ver1_slotting_criteria_of",
+      "markdown_sama_en_3502_ver1_slotting_criteria_pf",
+      "markdown_sama_en_3502_ver1_slotting_el",
+      "markdown_sama_en_3502_ver1_supervisory_lgd_ead",
+      "markdown_sama_en_3502_ver1_use_of_internal_ratings",
+      "markdown_sama_en_3502_ver1_use_of_models",
+      "markdown_sama_en_3502_ver1_validation_internal_estimates"
+    ],
+    "11": [
+      "markdown_sama_en_3487_ver1_abcp_conduit",
+      "markdown_sama_en_3487_ver1_attachment_detachment_points",
+      "markdown_sama_en_3487_ver1_caps_securitization",
+      "markdown_sama_en_3487_ver1_clean_up_call",
+      "markdown_sama_en_3487_ver1_crm_securitization",
+      "markdown_sama_en_3487_ver1_dilution_risk",
+      "markdown_sama_en_3487_ver1_ecai",
+      "markdown_sama_en_3487_ver1_hierarchy_approaches",
+      "markdown_sama_en_3487_ver1_kirb",
+      "markdown_sama_en_3487_ver1_ksa",
+      "markdown_sama_en_3487_ver1_npl_securitization",
+      "markdown_sama_en_3487_ver1_resecuritization",
+      "markdown_sama_en_3487_ver1_risk_transference",
+      "markdown_sama_en_3487_ver1_sec_erba",
+      "markdown_sama_en_3487_ver1_sec_iaa",
+      "markdown_sama_en_3487_ver1_sec_irba",
+      "markdown_sama_en_3487_ver1_sec_sa",
+      "markdown_sama_en_3487_ver1_securitization_framework",
+      "markdown_sama_en_3487_ver1_spe",
+      "markdown_sama_en_3487_ver1_stc_criteria",
+      "markdown_sama_en_3487_ver1_stc_securitization",
+      "markdown_sama_en_3487_ver1_supervisory_parameter_p",
+      "markdown_sama_en_3487_ver1_synthetic_securitization",
+      "markdown_sama_en_3487_ver1_traditional_securitization",
+      "markdown_sama_en_3502_ver1_early_amortization",
+      "markdown_sama_en_3502_ver1_purchase_price_discount",
+      "markdown_sama_en_3502_ver1_risk_transference",
+      "markdown_sama_en_3502_ver1_securitization_framework",
+      "markdown_sama_en_3502_ver1_synthetic_securitization",
+      "markdown_sama_en_3502_ver1_traditional_securitization",
+      "markdown_sama_en_3502_ver1_tranche_maturity"
+    ],
+    "12": [
+      "markdown_sama_en_4234_ver1_cc1",
+      "markdown_sama_en_4234_ver1_cc2",
+      "markdown_sama_en_4234_ver1_ccr1",
+      "markdown_sama_en_4234_ver1_ccr8",
+      "markdown_sama_en_4234_ver1_ccyb1",
+      "markdown_sama_en_4234_ver1_cdc",
+      "markdown_sama_en_4234_ver1_cms1",
+      "markdown_sama_en_4234_ver1_cms2",
+      "markdown_sama_en_4234_ver1_cr4",
+      "markdown_sama_en_4234_ver1_cr5",
+      "markdown_sama_en_4234_ver1_cr6",
+      "markdown_sama_en_4234_ver1_cr9",
+      "markdown_sama_en_4234_ver1_cva2",
+      "markdown_sama_en_4234_ver1_cva4",
+      "markdown_sama_en_4234_ver1_km1",
+      "markdown_sama_en_4234_ver1_km2",
+      "markdown_sama_en_4234_ver1_li1",
+      "markdown_sama_en_4234_ver1_li2",
+      "markdown_sama_en_4234_ver1_lia",
+      "markdown_sama_en_4234_ver1_liq1",
+      "markdown_sama_en_4234_ver1_liq2",
+      "markdown_sama_en_4234_ver1_lr1",
+      "markdown_sama_en_4234_ver1_lr2",
+      "markdown_sama_en_4234_ver1_mr1",
+      "markdown_sama_en_4234_ver1_mr2",
+      "markdown_sama_en_4234_ver1_ov1",
+      "markdown_sama_en_4234_ver1_pv1",
+      "markdown_sama_en_4234_ver1_sec1",
+      "markdown_sama_en_4234_ver1_sec3",
+      "markdown_sama_en_4234_ver1_sec4",
+      "markdown_sama_en_4234_ver1_tlac1"
+    ],
+    "13": [
+      "markdown_sama_en_3502_ver1_abcp_conduit",
+      "markdown_sama_en_3502_ver1_attachment_detachment",
+      "markdown_sama_en_3502_ver1_capital_calculation",
+      "markdown_sama_en_3502_ver1_caps",
+      "markdown_sama_en_3502_ver1_clean_up_call",
+      "markdown_sama_en_3502_ver1_crm_treatment",
+      "markdown_sama_en_3502_ver1_dilution_risk",
+      "markdown_sama_en_3502_ver1_equity_funds",
+      "markdown_sama_en_3502_ver1_fba",
+      "markdown_sama_en_3502_ver1_hierarchy_approaches",
+      "markdown_sama_en_3502_ver1_kirb",
+      "markdown_sama_en_3502_ver1_ksa",
+      "markdown_sama_en_3502_ver1_look_through",
+      "markdown_sama_en_3502_ver1_lta",
+      "markdown_sama_en_3502_ver1_maturity_mismatch",
+      "markdown_sama_en_3502_ver1_mba",
+      "markdown_sama_en_3502_ver1_mixed_pools",
+      "markdown_sama_en_3502_ver1_npl_securitization",
+      "markdown_sama_en_3502_ver1_resecuritization",
+      "markdown_sama_en_3502_ver1_sec_iaa",
+      "markdown_sama_en_3502_ver1_sec_irba",
+      "markdown_sama_en_3502_ver1_sec_sa",
+      "markdown_sama_en_3502_ver1_stc_framework",
+      "markdown_sama_en_3502_ver1_stc_shortterm_criteria",
+      "markdown_sama_en_3502_ver1_stc_term_criteria",
+      "markdown_sama_en_3502_ver1_supervisory_p",
+      "markdown_sama_en_3502_ver1_tranched_protection",
+      "sama_circular_341000015689",
+      "sama_circular_bcs242"
+    ],
+    "14": [
+      "markdown_sama_en_5709_ver1",
+      "markdown_sama_en_5709_ver1_mortgage_law",
+      "markdown_sama_en_5765_ver1",
+      "markdown_sama_en_5765_ver1_finance_law",
+      "markdown_sama_en_5765_ver1_fit_proper",
+      "markdown_sama_en_5765_ver1_lei",
+      "markdown_sama_en_5863_ver1",
+      "markdown_sama_en_5879_ver1",
+      "markdown_sama_en_5879_ver1_lei",
+      "markdown_sama_en_5879_ver1_support_rules",
+      "markdown_sama_en_5885_ver1",
+      "markdown_sama_en_5885_ver1_apr",
+      "markdown_sama_en_5885_ver1_breach_termination",
+      "markdown_sama_en_5885_ver1_credit_bureau",
+      "markdown_sama_en_5885_ver1_default_notice",
+      "markdown_sama_en_5885_ver1_delay_notice",
+      "markdown_sama_en_5885_ver1_early_ownership",
+      "markdown_sama_en_5885_ver1_finance_companies_law",
+      "markdown_sama_en_5885_ver1_ijarah_law",
+      "markdown_sama_en_5885_ver1_index_rate",
+      "markdown_sama_en_5885_ver1_late_payment_provisions",
+      "markdown_sama_en_5885_ver1_mortgage_pledge",
+      "markdown_sama_en_5885_ver1_murabaha_contract",
+      "markdown_sama_en_5885_ver1_notifications",
+      "markdown_sama_en_5885_ver1_ownership_transfer_certificate",
+      "markdown_sama_en_5885_ver1_real_estate_finance_law",
+      "markdown_sama_en_5885_ver1_receipt_certificate",
+      "markdown_sama_en_5885_ver1_registered_mortgage_law",
+      "markdown_sama_en_5885_ver1_variable_payment_calc"
+    ],
+    "15": [
+      "markdown_sama_en_2217_ver1_authentication",
+      "markdown_sama_en_2217_ver1_case_management_system",
+      "markdown_sama_en_2217_ver1_cfgc",
+      "markdown_sama_en_2217_ver1_counter_fraud_department",
+      "markdown_sama_en_2217_ver1_counter_fraud_framework",
+      "markdown_sama_en_2217_ver1_counter_fraud_policy",
+      "markdown_sama_en_2217_ver1_counter_fraud_strategy",
+      "markdown_sama_en_2217_ver1_cyber_security_framework",
+      "markdown_sama_en_2217_ver1_detect",
+      "markdown_sama_en_2217_ver1_due_diligence",
+      "markdown_sama_en_2217_ver1_fraud_detection_systems",
+      "markdown_sama_en_2217_ver1_fraud_investigation",
+      "markdown_sama_en_2217_ver1_fraud_remediation",
+      "markdown_sama_en_2217_ver1_fraud_response_plan",
+      "markdown_sama_en_2217_ver1_fraud_risk_appetite",
+      "markdown_sama_en_2217_ver1_fraud_risk_assessment",
+      "markdown_sama_en_2217_ver1_fraud_risk_management_framework",
+      "markdown_sama_en_2217_ver1_governance",
+      "markdown_sama_en_2217_ver1_head_of_counter_fraud",
+      "markdown_sama_en_2217_ver1_intelligence_monitoring",
+      "markdown_sama_en_2217_ver1_it_governance_framework",
+      "markdown_sama_en_2217_ver1_kri",
+      "markdown_sama_en_2217_ver1_maturity_model",
+      "markdown_sama_en_2217_ver1_prevent",
+      "markdown_sama_en_2217_ver1_respond",
+      "markdown_sama_en_2217_ver1_sama",
+      "markdown_sama_en_2217_ver1_supervisory_notification",
+      "markdown_sama_en_2217_ver1_whistle_blowing"
+    ],
+    "16": [
+      "markdown_sama_en_1822_ver1",
+      "markdown_sama_en_1822_ver1_amlcft",
+      "markdown_sama_en_1822_ver1_cdd",
+      "markdown_sama_en_1822_ver1_fatf",
+      "markdown_sama_en_1822_ver1_kyc",
+      "markdown_sama_en_1822_ver1_safiu",
+      "markdown_sama_en_1822_ver1_sarie",
+      "markdown_sama_en_1868_ver1",
+      "markdown_sama_en_1868_ver1_bcl",
+      "markdown_sama_en_1868_ver1_corpgov",
+      "markdown_sama_en_1868_ver1_cybersec",
+      "markdown_sama_en_1897_ver1",
+      "markdown_sama_en_190_ver1",
+      "markdown_sama_en_190_ver1_realestate_finance_law",
+      "markdown_sama_en_190_ver1_refinance_company",
+      "markdown_sama_en_1948_ver1",
+      "markdown_sama_en_1948_ver1_deductible_ratio",
+      "markdown_sama_en_1949_ver1",
+      "markdown_sama_en_1949_ver1_fcc_law",
+      "markdown_sama_en_1949_ver1_material_functions",
+      "markdown_sama_en_1989_ver1",
+      "markdown_sama_en_1989_ver1_consumer_protection",
+      "markdown_sama_en_1997_ver1",
+      "markdown_sama_en_1997_ver1_fit_proper",
+      "markdown_sama_en_2081_ver1",
+      "markdown_sama_en_2081_ver1_secondary_market",
+      "markdown_sama_en_2125_ver1"
+    ],
+    "17": [
+      "markdown_sama_en_4041_ver1",
+      "markdown_sama_en_4041_ver1_basel_iii",
+      "markdown_sama_en_4041_ver1_business_indicator",
+      "markdown_sama_en_4041_ver1_business_indicator_component",
+      "markdown_sama_en_4041_ver1_internal_loss_multiplier",
+      "markdown_sama_en_4041_ver1_loss_component",
+      "markdown_sama_en_4041_ver1_loss_data_set",
+      "markdown_sama_en_4041_ver1_loss_event_type_classification",
+      "markdown_sama_en_4041_ver1_operational_risk_capital",
+      "markdown_sama_en_4041_ver1_standardized_approach",
+      "markdown_sama_en_4226_ver1",
+      "markdown_sama_en_4226_ver1_bcbs_principles",
+      "markdown_sama_en_4226_ver1_icaap",
+      "markdown_sama_en_4226_ver1_operational_risk",
+      "markdown_sama_en_4226_ver1_reverse_stress_testing",
+      "markdown_sama_en_4226_ver1_scenario_analysis",
+      "markdown_sama_en_4226_ver1_sensitivity_analysis",
+      "markdown_sama_en_4226_ver1_stress_testing",
+      "markdown_sama_en_4226_ver1_top_down_stress_testing",
+      "markdown_sama_en_4234_ver1",
+      "markdown_sama_en_4234_ver1_basel_iii",
+      "markdown_sama_en_4234_ver1_pillar3",
+      "markdown_sama_en_4234_ver1_sope"
+    ],
+    "18": [
+      "markdown_sama_en_11081_ver1_account_opening_juristic",
+      "markdown_sama_en_11081_ver1_account_operating_rules",
+      "markdown_sama_en_11081_ver1_appendix_a_capital",
+      "markdown_sama_en_11081_ver1_appendix_b_liquidity",
+      "markdown_sama_en_11081_ver1_appendix_c_asset_quality",
+      "markdown_sama_en_11081_ver1_deposit_account",
+      "markdown_sama_en_11081_ver1_dormant_accounts",
+      "markdown_sama_en_11081_ver1_dtfc",
+      "markdown_sama_en_11081_ver1_freezing_account",
+      "markdown_sama_en_11081_ver1_general_account",
+      "markdown_sama_en_11081_ver1_kyc",
+      "markdown_sama_en_11081_ver1_loan_classification",
+      "markdown_sama_en_11081_ver1_loan_review",
+      "markdown_sama_en_11081_ver1_sama",
+      "markdown_sama_en_11081_ver1_term_deposit_account",
+      "markdown_sama_en_11104_ver1_beneficiary_verification",
+      "markdown_sama_en_132_ver1_0_beneficial_owner",
+      "markdown_sama_en_132_ver1_0_ct_financing_regulation",
+      "markdown_sama_en_132_ver1_0_due_diligence",
+      "markdown_sama_en_1428_ver1_aml_regulation",
+      "markdown_sama_en_1428_ver1_due_diligence",
+      "markdown_sama_en_1428_ver1_supervisory_authority"
+    ],
+    "19": [
+      "markdown_sama_en_3575_ver1_banking_control_law",
+      "markdown_sama_en_3575_ver1_business_viability_analysis",
+      "markdown_sama_en_3575_ver1_conditional_loan_forgiveness",
+      "markdown_sama_en_3575_ver1_credit_risk_provisioning",
+      "markdown_sama_en_3575_ver1_dscr",
+      "markdown_sama_en_3575_ver1_ews",
+      "markdown_sama_en_3575_ver1_financial_viability_analysis",
+      "markdown_sama_en_3575_ver1_kpis",
+      "markdown_sama_en_3575_ver1_llcr",
+      "markdown_sama_en_3575_ver1_long_term_measures",
+      "markdown_sama_en_3575_ver1_monitoring_restructuring",
+      "markdown_sama_en_3575_ver1_negotiating_strategy",
+      "markdown_sama_en_3575_ver1_npl_strategy",
+      "markdown_sama_en_3575_ver1_npv_analysis",
+      "markdown_sama_en_3575_ver1_portfolio_segmentation",
+      "markdown_sama_en_3575_ver1_restructuring_options",
+      "markdown_sama_en_3575_ver1_short_term_measures",
+      "markdown_sama_en_3575_ver1_swot_analysis",
+      "markdown_sama_en_3575_ver1_viability_assessment",
+      "markdown_sama_en_3575_ver1_watch_list",
+      "markdown_sama_en_3575_ver1_workout_plan",
+      "markdown_sama_en_3575_ver1_workout_unit"
+    ],
+    "20": [
+      "markdown_sama_en_1713_ver1",
+      "markdown_sama_en_1713_ver1_attachment_a",
+      "markdown_sama_en_1713_ver1_attachment_b",
+      "markdown_sama_en_1713_ver1_attachment_d",
+      "markdown_sama_en_1713_ver1_banking_control_law",
+      "markdown_sama_en_1713_ver1_cfp",
+      "markdown_sama_en_1713_ver1_corporate_governance",
+      "markdown_sama_en_1713_ver1_funding_ratio",
+      "markdown_sama_en_1713_ver1_lcr",
+      "markdown_sama_en_1713_ver1_liquidity",
+      "markdown_sama_en_1713_ver1_nsfr",
+      "markdown_sama_en_1713_ver1_smf",
+      "markdown_sama_en_1734_ver1",
+      "markdown_sama_en_1734_ver1_agent",
+      "markdown_sama_en_1734_ver1_aml_cft",
+      "markdown_sama_en_1734_ver1_bank",
+      "markdown_sama_en_1734_ver1_banking_control_law",
+      "markdown_sama_en_1734_ver1_consumer_protection",
+      "markdown_sama_en_1734_ver1_fit_proper"
+    ],
+    "21": [
+      "markdown_sama_en_2948_ver1",
+      "markdown_sama_en_2948_ver1_lcr_nsfr",
+      "markdown_sama_en_2948_ver1_mudarabah",
+      "markdown_sama_en_2948_ver1_per_irr",
+      "markdown_sama_en_2948_ver1_psia",
+      "markdown_sama_en_3144_ver1",
+      "markdown_sama_en_3144_ver1_cfp",
+      "markdown_sama_en_3144_ver1_early_warning",
+      "markdown_sama_en_3144_ver1_ilaap",
+      "markdown_sama_en_3144_ver1_lcr_nsfr",
+      "markdown_sama_en_3144_ver1_liquidity_risk_drivers",
+      "markdown_sama_en_3144_ver1_stress_testing",
+      "markdown_sama_en_3276_ver1",
+      "markdown_sama_en_3276_ver1_reporting_categories",
+      "markdown_sama_en_3276_ver1_wa_rates",
+      "markdown_sama_en_3343_ver1",
+      "markdown_sama_en_3343_ver1_ldr",
+      "markdown_sama_en_3343_ver1_weighted_denominator"
+    ],
+    "22": [
+      "markdown_sama_en_3417_ver1_bcbs_lcr_2013",
+      "markdown_sama_en_3417_ver1_concentration_of_funding",
+      "markdown_sama_en_3417_ver1_hqla_cap_calculation",
+      "markdown_sama_en_3417_ver1_lcr_by_significant_currency",
+      "markdown_sama_en_3417_ver1_market_related_monitoring_tools",
+      "markdown_sama_en_3417_ver1_significant_counterparty",
+      "markdown_sama_en_3417_ver1_stock_of_hqla_formula",
+      "markdown_sama_en_3467_ver1_asf",
+      "markdown_sama_en_3467_ver1_bcbs_nsfr_2014",
+      "markdown_sama_en_3467_ver1_circular_351000133367",
+      "markdown_sama_en_3467_ver1_circular_bcs771",
+      "markdown_sama_en_3467_ver1_derivative_assets",
+      "markdown_sama_en_3467_ver1_derivative_liabilities",
+      "markdown_sama_en_3467_ver1_interdependent_assets_liabilities",
+      "markdown_sama_en_3467_ver1_lcr",
+      "markdown_sama_en_3467_ver1_nsfr",
+      "markdown_sama_en_3467_ver1_obs_exposures",
+      "markdown_sama_en_3467_ver1_rsf"
+    ],
+    "23": [
+      "markdown_sama_en_3487_ver1_ba_cva",
+      "markdown_sama_en_3487_ver1_ccr_framework",
+      "markdown_sama_en_3487_ver1_cva_framework",
+      "markdown_sama_en_3487_ver1_ead",
+      "markdown_sama_en_3487_ver1_ead_formula",
+      "markdown_sama_en_3487_ver1_eligible_cva_hedges",
+      "markdown_sama_en_3487_ver1_full_ba_cva",
+      "markdown_sama_en_3487_ver1_margin_agreements",
+      "markdown_sama_en_3487_ver1_market_risk_framework",
+      "markdown_sama_en_3487_ver1_master_netting_sft",
+      "markdown_sama_en_3487_ver1_netting_set",
+      "markdown_sama_en_3487_ver1_nica",
+      "markdown_sama_en_3487_ver1_reduced_ba_cva",
+      "markdown_sama_en_3487_ver1_regulatory_cva",
+      "markdown_sama_en_3487_ver1_replacement_cost",
+      "markdown_sama_en_3487_ver1_sa_ccr",
+      "markdown_sama_en_3487_ver1_sa_ccr_examples",
+      "markdown_sama_en_3487_ver1_sa_cva_risk_classes"
+    ],
+    "24": [
+      "markdown_sama_en_11026_ver1",
+      "markdown_sama_en_11043_ver1",
+      "markdown_sama_en_11044_ver1",
+      "markdown_sama_en_11045_ver1",
+      "markdown_sama_en_11051_ver1",
+      "markdown_sama_en_11051_ver1_bcm_framework",
+      "markdown_sama_en_11051_ver1_change_governance",
+      "markdown_sama_en_11051_ver1_cyber_security_framework",
+      "markdown_sama_en_11051_ver1_data_backup_recoverability",
+      "markdown_sama_en_11051_ver1_it_incident_management",
+      "markdown_sama_en_11051_ver1_it_project_management",
+      "markdown_sama_en_11051_ver1_maturity_model",
+      "markdown_sama_en_11051_ver1_patch_management",
+      "markdown_sama_en_11051_ver1_quality_assurance",
+      "markdown_sama_en_11051_ver1_system_change_management",
+      "markdown_sama_en_11051_ver1_system_development",
+      "markdown_sama_en_11051_ver1_testing"
+    ],
+    "25": [
+      "markdown_sama_en_1429_ver1",
+      "markdown_sama_en_1429_ver1_bank_data_reporting",
+      "markdown_sama_en_1429_ver1_banking_control_law",
+      "markdown_sama_en_1429_ver1_sama_supervision",
+      "markdown_sama_en_1430_ver1",
+      "markdown_sama_en_1430_ver1_complaints_disputes",
+      "markdown_sama_en_1430_ver1_customer_protection",
+      "markdown_sama_en_1430_ver1_licensing",
+      "markdown_sama_en_1430_ver1_payment_services",
+      "markdown_sama_en_1430_ver1_risk_management",
+      "markdown_sama_en_1608_ver1",
+      "markdown_sama_en_1608_ver1_credit_information_law",
+      "markdown_sama_en_1611_ver1",
+      "markdown_sama_en_1611_ver1_apr",
+      "markdown_sama_en_1611_ver1_consumer_protection",
+      "markdown_sama_en_1611_ver1_early_repayment",
+      "markdown_sama_en_1611_ver1_finance_companies_law"
+    ],
+    "26": [
+      "markdown_sama_en_5419_ver1",
+      "markdown_sama_en_5419_ver1_apr_calculator",
+      "markdown_sama_en_5419_ver1_apr_method",
+      "markdown_sama_en_5419_ver1_circular_381000095091",
+      "markdown_sama_en_5419_ver1_consumer_financing_regs",
+      "markdown_sama_en_5419_ver1_finance_companies_control_law",
+      "markdown_sama_en_5448_ver1",
+      "markdown_sama_en_5448_ver1_consumer_financing_regs",
+      "markdown_sama_en_5448_ver1_finance_companies_regulation",
+      "markdown_sama_en_5491_ver1",
+      "markdown_sama_en_5491_ver1_apr_annex",
+      "markdown_sama_en_5491_ver1_banking_control_law",
+      "markdown_sama_en_5491_ver1_dispute_resolution",
+      "markdown_sama_en_5491_ver1_licensed_credit_bureau",
+      "markdown_sama_en_5491_ver1_max_credit_limit",
+      "markdown_sama_en_5491_ver1_outsourcing_rules",
+      "markdown_sama_en_5526_ver1"
+    ],
+    "27": [
+      "markdown_sama_en_5565_ver1",
+      "markdown_sama_en_5565_ver1_aml_law",
+      "markdown_sama_en_5565_ver1_cdd",
+      "markdown_sama_en_5565_ver1_correspondent_banking",
+      "markdown_sama_en_5565_ver1_currency_transport",
+      "markdown_sama_en_5565_ver1_exchange_rules",
+      "markdown_sama_en_5565_ver1_fatf",
+      "markdown_sama_en_5565_ver1_fiu",
+      "markdown_sama_en_5565_ver1_kyc",
+      "markdown_sama_en_5565_ver1_suspicious_reporting",
+      "markdown_sama_en_5594_ver1",
+      "markdown_sama_en_5594_ver1_bank_accounts_rules",
+      "markdown_sama_en_5594_ver1_instant_payments",
+      "markdown_sama_en_5645_ver1",
+      "markdown_sama_en_5708_ver1",
+      "markdown_sama_en_5708_ver1_banking_secrecy",
+      "markdown_sama_en_5712_ver1"
+    ],
+    "28": [
+      "markdown_sama_en_3487_ver1_apl",
+      "markdown_sama_en_3487_ver1_backtesting",
+      "markdown_sama_en_3487_ver1_backtesting_zones",
+      "markdown_sama_en_3487_ver1_drc_model",
+      "markdown_sama_en_3487_ver1_expected_shortfall",
+      "markdown_sama_en_3487_ver1_hpl",
+      "markdown_sama_en_3487_ver1_ima",
+      "markdown_sama_en_3487_ver1_imcc",
+      "markdown_sama_en_3487_ver1_ks_metric",
+      "markdown_sama_en_3487_ver1_liquidity_horizon",
+      "markdown_sama_en_3487_ver1_nmrf",
+      "markdown_sama_en_3487_ver1_pla_test",
+      "markdown_sama_en_3487_ver1_rfet",
+      "markdown_sama_en_3487_ver1_rtpl",
+      "markdown_sama_en_3487_ver1_spearman_metric",
+      "markdown_sama_en_3487_ver1_sves"
+    ],
+    "29": [
+      "markdown_sama_en_3487_ver1_basel_iii",
+      "markdown_sama_en_3487_ver1_ccr",
+      "markdown_sama_en_3487_ver1_cva",
+      "markdown_sama_en_3487_ver1_dvp",
+      "markdown_sama_en_3487_ver1_equity_investments_funds",
+      "markdown_sama_en_3487_ver1_fba",
+      "markdown_sama_en_3487_ver1_irb_approach",
+      "markdown_sama_en_3487_ver1_leverage_adjustment",
+      "markdown_sama_en_3487_ver1_look_through_approach_indices",
+      "markdown_sama_en_3487_ver1_lta",
+      "markdown_sama_en_3487_ver1_mba",
+      "markdown_sama_en_3487_ver1_non_dvp",
+      "markdown_sama_en_3487_ver1_output_floor",
+      "markdown_sama_en_3487_ver1_pillar3",
+      "markdown_sama_en_3487_ver1_unsettled_transactions",
+      "markdown_sama_en_3502_ver1_unsettled_transactions"
+    ],
+    "30": [
+      "markdown_sama_en_4234_ver1_ccr5",
+      "markdown_sama_en_4234_ver1_cva3",
+      "markdown_sama_en_4283_ver1_backtesting",
+      "markdown_sama_en_4283_ver1_ccr",
+      "markdown_sama_en_4283_ver1_ccr_framework",
+      "markdown_sama_en_4283_ver1_cross_product_netting",
+      "markdown_sama_en_4283_ver1_cva_framework",
+      "markdown_sama_en_4283_ver1_haircut_floors",
+      "markdown_sama_en_4283_ver1_imm",
+      "markdown_sama_en_4283_ver1_netting_set",
+      "markdown_sama_en_4283_ver1_regulatory_cva",
+      "markdown_sama_en_4283_ver1_sa_cva",
+      "markdown_sama_en_4283_ver1_sa_cva_sensitivities",
+      "markdown_sama_en_4283_ver1_sama",
+      "markdown_sama_en_4283_ver1_stress_testing",
+      "markdown_sama_en_4283_ver1_wrong_way_risk"
+    ],
+    "31": [
+      "markdown_sama_en_4283_ver1",
+      "markdown_sama_en_4283_ver1_margin_period_of_risk",
+      "markdown_sama_en_4283_ver1_maturity_factor",
+      "markdown_sama_en_4283_ver1_pfe_addon",
+      "markdown_sama_en_4283_ver1_sa_ccr",
+      "markdown_sama_en_4303_ver1",
+      "markdown_sama_en_4303_ver1_derivative_exposures",
+      "markdown_sama_en_4303_ver1_exposure_measure",
+      "markdown_sama_en_4303_ver1_obs_items",
+      "markdown_sama_en_4303_ver1_sft_exposures",
+      "markdown_sama_en_4303_ver1_written_credit_derivatives",
+      "markdown_sama_en_4376_ver1",
+      "markdown_sama_en_4376_ver1_output_floor",
+      "markdown_sama_en_4376_ver1_rwa_ccr_cva",
+      "markdown_sama_en_4376_ver1_rwa_credit",
+      "markdown_sama_en_4376_ver1_rwa_market"
+    ],
+    "32": [
+      "markdown_sama_en_10681_ver1_admin_fees",
+      "markdown_sama_en_10681_ver1_consumer_finance_controls",
+      "markdown_sama_en_10681_ver1_fee_guide",
+      "markdown_sama_en_10697_ver1_fee_guide",
+      "markdown_sama_en_10698_ver1_apr_formula",
+      "markdown_sama_en_10698_ver1_capital_adequacy",
+      "markdown_sama_en_10698_ver1_compliance",
+      "markdown_sama_en_10698_ver1_exposure_limits",
+      "markdown_sama_en_10698_ver1_finance_companies_regulation",
+      "markdown_sama_en_10698_ver1_finance_contract",
+      "markdown_sama_en_10698_ver1_financing_policies",
+      "markdown_sama_en_10698_ver1_governance",
+      "markdown_sama_en_10698_ver1_licensing",
+      "markdown_sama_en_10698_ver1_risk_management"
+    ],
+    "33": [
+      "markdown_sama_en_10721_ver1",
+      "markdown_sama_en_1073_ver1",
+      "markdown_sama_en_10831_ver1",
+      "markdown_sama_en_10832_ver1",
+      "markdown_sama_en_10865_ver1",
+      "markdown_sama_en_10866_ver1",
+      "markdown_sama_en_10888_ver1",
+      "markdown_sama_en_10908_ver1",
+      "markdown_sama_en_10910_ver1",
+      "markdown_sama_en_10911_ver1",
+      "markdown_sama_en_10912_ver1",
+      "markdown_sama_en_10928_ver1",
+      "markdown_sama_en_10950_ver1",
+      "markdown_sama_en_10951_ver1"
+    ],
+    "34": [
+      "markdown_sama_en_3366_ver1",
+      "markdown_sama_en_3366_ver1_approval_requirements",
+      "markdown_sama_en_3366_ver1_banking_control_law",
+      "markdown_sama_en_3366_ver1_central_bank_law",
+      "markdown_sama_en_3366_ver1_governance",
+      "markdown_sama_en_3366_ver1_investment_policy",
+      "markdown_sama_en_3366_ver1_risk_management",
+      "markdown_sama_en_3372_ver1",
+      "markdown_sama_en_3372_ver1_aml_ctf",
+      "markdown_sama_en_3372_ver1_aml_law",
+      "markdown_sama_en_3372_ver1_customer_protection",
+      "markdown_sama_en_3372_ver1_licensing",
+      "markdown_sama_en_3372_ver1_money_changer",
+      "markdown_sama_en_3372_ver1_outsourcing"
+    ],
+    "35": [
+      "markdown_sama_en_3487_ver1_drc",
+      "markdown_sama_en_3487_ver1_drc_non_securitisation",
+      "markdown_sama_en_3487_ver1_drc_securitisation_ctp",
+      "markdown_sama_en_3487_ver1_hedge_benefit_ratio",
+      "markdown_sama_en_3487_ver1_jtd_risk",
+      "markdown_sama_en_3487_ver1_rrao",
+      "markdown_sama_en_3487_ver1_rwa_market_risk",
+      "markdown_sama_en_3487_ver1_smar",
+      "markdown_sama_en_3487_ver1_standardised_approach",
+      "markdown_sama_en_3553_ver1_ctp",
+      "markdown_sama_en_3553_ver1_drc_non_securitisation",
+      "markdown_sama_en_3553_ver1_drc_securitisation_ctp",
+      "markdown_sama_en_3553_ver1_drc_securitisation_non_ctp",
+      "markdown_sama_en_3553_ver1_hedge_benefit_ratio"
+    ],
+    "36": [
+      "markdown_sama_en_1644_ver1",
+      "markdown_sama_en_1644_ver1_account_operation",
+      "markdown_sama_en_1644_ver1_amlcft_form",
+      "markdown_sama_en_1644_ver1_bankruptcy_law",
+      "markdown_sama_en_1644_ver1_companies_law",
+      "markdown_sama_en_1644_ver1_correspondent_banks",
+      "markdown_sama_en_1644_ver1_definitions",
+      "markdown_sama_en_1644_ver1_government_accounts",
+      "markdown_sama_en_1644_ver1_kyc",
+      "markdown_sama_en_1644_ver1_liquidation_accounts",
+      "markdown_sama_en_1644_ver1_nonresident_juristic",
+      "markdown_sama_en_1644_ver1_wamy_accounts",
+      "markdown_sama_en_1704_ver1_correspondence_relationship"
+    ],
+    "37": [
+      "markdown_sama_en_2898_ver1_blue_team",
+      "markdown_sama_en_2898_ver1_btr",
+      "markdown_sama_en_2898_ver1_cyber_kill_chain",
+      "markdown_sama_en_2898_ver1_feer",
+      "markdown_sama_en_2898_ver1_green_team",
+      "markdown_sama_en_2898_ver1_penetration_test",
+      "markdown_sama_en_2898_ver1_red_team",
+      "markdown_sama_en_2898_ver1_red_team_provider",
+      "markdown_sama_en_2898_ver1_remediation_plan",
+      "markdown_sama_en_2898_ver1_rter",
+      "markdown_sama_en_2898_ver1_sama_csf",
+      "markdown_sama_en_2898_ver1_threat_intelligence",
+      "markdown_sama_en_2898_ver1_white_team"
+    ],
+    "38": [
+      "markdown_sama_en_3487_ver1_addon_commodity",
+      "markdown_sama_en_3487_ver1_addon_credit",
+      "markdown_sama_en_3487_ver1_addon_equity",
+      "markdown_sama_en_3487_ver1_addon_fx",
+      "markdown_sama_en_3487_ver1_addon_ir",
+      "markdown_sama_en_3487_ver1_effective_epe",
+      "markdown_sama_en_3487_ver1_effective_notional",
+      "markdown_sama_en_3487_ver1_hedging_set",
+      "markdown_sama_en_3487_ver1_imm",
+      "markdown_sama_en_3487_ver1_margin_period_of_risk",
+      "markdown_sama_en_3487_ver1_maturity_factor",
+      "markdown_sama_en_3487_ver1_pfe_addon",
+      "markdown_sama_en_3487_ver1_supervisory_factor"
+    ],
+    "39": [
+      "markdown_sama_en_4283_ver1_addon_commodity",
+      "markdown_sama_en_4283_ver1_addon_credit",
+      "markdown_sama_en_4283_ver1_addon_equity",
+      "markdown_sama_en_4283_ver1_addon_fx",
+      "markdown_sama_en_4283_ver1_addon_ir",
+      "markdown_sama_en_4283_ver1_adjusted_notional",
+      "markdown_sama_en_4283_ver1_effective_notional",
+      "markdown_sama_en_4283_ver1_hedging_set",
+      "markdown_sama_en_4283_ver1_sample_portfolios",
+      "markdown_sama_en_4283_ver1_supervisory_correlation",
+      "markdown_sama_en_4283_ver1_supervisory_delta",
+      "markdown_sama_en_4283_ver1_supervisory_factor",
+      "markdown_sama_en_4283_ver1_table2_supervisory_params"
+    ],
+    "40": [
+      "markdown_sama_en_1644_ver1_awqaf",
+      "markdown_sama_en_1644_ver1_diplomatic_accounts",
+      "markdown_sama_en_1644_ver1_endowments_bequests",
+      "markdown_sama_en_1644_ver1_escrow_account",
+      "markdown_sama_en_1644_ver1_foreign_investment",
+      "markdown_sama_en_1644_ver1_hajj_umrah",
+      "markdown_sama_en_1644_ver1_juristic_persons",
+      "markdown_sama_en_1644_ver1_mhrsd",
+      "markdown_sama_en_1644_ver1_muslim_world_league",
+      "markdown_sama_en_1644_ver1_private_associations",
+      "markdown_sama_en_1644_ver1_private_foundations",
+      "markdown_sama_en_1644_ver1_resident_companies"
+    ],
+    "41": [
+      "markdown_sama_en_3487_ver1_basel_framework",
+      "markdown_sama_en_3487_ver1_basel_ii_bcs290",
+      "markdown_sama_en_3487_ver1_ccp_exposures",
+      "markdown_sama_en_3487_ver1_ccr_trading_book",
+      "markdown_sama_en_3487_ver1_credit_risk_reqs",
+      "markdown_sama_en_3487_ver1_cross_product_netting",
+      "markdown_sama_en_3487_ver1_default_fund",
+      "markdown_sama_en_3487_ver1_epe_model",
+      "markdown_sama_en_3487_ver1_haircut_floors",
+      "markdown_sama_en_3487_ver1_kccp",
+      "markdown_sama_en_3487_ver1_sama",
+      "markdown_sama_en_3487_ver1_scope_guidance_note"
+    ],
+    "42": [
+      "markdown_sama_en_11055_ver1_credit_risk_classification",
+      "markdown_sama_en_11055_ver1_credit_risk_management",
+      "markdown_sama_en_11055_ver1_default",
+      "markdown_sama_en_11055_ver1_ecl_provisioning",
+      "markdown_sama_en_11055_ver1_finance_companies_control_law",
+      "markdown_sama_en_11055_ver1_forbearance",
+      "markdown_sama_en_11055_ver1_governance",
+      "markdown_sama_en_11055_ver1_ifrs9",
+      "markdown_sama_en_11055_ver1_restructuring",
+      "markdown_sama_en_11055_ver1_stage_classification",
+      "markdown_sama_en_11055_ver1_writeoff"
+    ],
+    "43": [
+      "markdown_sama_en_3487_ver1_cash_variation_margin",
+      "markdown_sama_en_3487_ver1_ccr_stress_testing",
+      "markdown_sama_en_3487_ver1_derivative_exposures",
+      "markdown_sama_en_3487_ver1_exposure_measure",
+      "markdown_sama_en_3487_ver1_leverage_ratio",
+      "markdown_sama_en_3487_ver1_qccp",
+      "markdown_sama_en_3487_ver1_qualifying_mna",
+      "markdown_sama_en_3487_ver1_sft_exposure",
+      "markdown_sama_en_3487_ver1_sft_exposures",
+      "markdown_sama_en_3487_ver1_written_credit_derivatives",
+      "markdown_sama_en_3487_ver1_wrong_way_risk"
+    ],
+    "44": [
+      "markdown_sama_en_3502_ver1_a_irb",
+      "markdown_sama_en_3502_ver1_corporate_exposures",
+      "markdown_sama_en_3502_ver1_f_irb",
+      "markdown_sama_en_3502_ver1_irb_approach",
+      "markdown_sama_en_3502_ver1_msme",
+      "markdown_sama_en_3502_ver1_qrre",
+      "markdown_sama_en_3502_ver1_retail_exposures",
+      "markdown_sama_en_3502_ver1_risk_components",
+      "markdown_sama_en_3502_ver1_risk_weight_functions",
+      "markdown_sama_en_3502_ver1_specialized_lending",
+      "markdown_sama_en_3502_ver1_supervisory_slotting"
+    ],
+    "45": [
+      "markdown_sama_en_3502_ver1_ccr_framework",
+      "markdown_sama_en_3502_ver1_collateralized_transactions",
+      "markdown_sama_en_3502_ver1_comprehensive_approach",
+      "markdown_sama_en_3502_ver1_credit_derivatives",
+      "markdown_sama_en_3502_ver1_leverage_adjustment",
+      "markdown_sama_en_3502_ver1_lta_example",
+      "markdown_sama_en_3502_ver1_master_netting",
+      "markdown_sama_en_3502_ver1_off_balance_sheet",
+      "markdown_sama_en_3502_ver1_sa_ccr",
+      "markdown_sama_en_3502_ver1_simple_approach",
+      "markdown_sama_en_3502_ver1_supervisory_haircuts"
+    ],
+    "46": [
+      "markdown_sama_en_3502_ver1_crm_advanced_approach",
+      "markdown_sama_en_3502_ver1_crm_foundation_approach",
+      "markdown_sama_en_3502_ver1_default_risk",
+      "markdown_sama_en_3502_ver1_ead",
+      "markdown_sama_en_3502_ver1_ead_advanced",
+      "markdown_sama_en_3502_ver1_effective_maturity",
+      "markdown_sama_en_3502_ver1_guarantees_credit_derivatives",
+      "markdown_sama_en_3502_ver1_purchased_receivables",
+      "markdown_sama_en_3502_ver1_repo_style_netting",
+      "markdown_sama_en_3502_ver1_top_down_approach",
+      "markdown_sama_en_3502_ver1_var_models_sft"
+    ],
+    "47": [
+      "markdown_sama_en_6073_ver1",
+      "markdown_sama_en_6073_ver1_confirmation",
+      "markdown_sama_en_6073_ver1_custodian",
+      "markdown_sama_en_6073_ver1_eligible_security",
+      "markdown_sama_en_6073_ver1_gmra",
+      "markdown_sama_en_6073_ver1_mra",
+      "markdown_sama_en_6073_ver1_repo",
+      "markdown_sama_en_6073_ver1_reverse_repo",
+      "markdown_sama_en_6073_ver1_sarie",
+      "markdown_sama_en_6073_ver1_shariah_compliance",
+      "markdown_sama_en_6073_ver1_tadawul"
+    ],
+    "48": [
+      "markdown_sama_en_9618_ver1_basel_framework",
+      "markdown_sama_en_9618_ver1_credit_risk",
+      "markdown_sama_en_9618_ver1_ijarah",
+      "markdown_sama_en_9618_ver1_istisna",
+      "markdown_sama_en_9618_ver1_market_risk",
+      "markdown_sama_en_9618_ver1_mudarabah",
+      "markdown_sama_en_9618_ver1_murabahah",
+      "markdown_sama_en_9618_ver1_musharakah",
+      "markdown_sama_en_9618_ver1_salam",
+      "markdown_sama_en_9618_ver1_shariah_capital_requirements",
+      "markdown_sama_en_9618_ver1_tawarruq_cmt"
+    ],
+    "49": [
+      "markdown_sama_en_1428_ver1",
+      "markdown_sama_en_1428_ver1_cross_border_declaration",
+      "markdown_sama_en_1428_ver1_customer_due_diligence",
+      "markdown_sama_en_1428_ver1_directorate_financial_intelligence",
+      "markdown_sama_en_1428_ver1_mutual_legal_assistance",
+      "markdown_sama_en_1428_ver1_politically_exposed_persons",
+      "markdown_sama_en_1428_ver1_reliance_on_third_party",
+      "markdown_sama_en_1428_ver1_suspicious_transaction_report",
+      "markdown_sama_en_1428_ver1_wire_transfers",
+      "markdown_sama_en_1430_ver1_aml_compliance"
+    ],
+    "50": [
+      "markdown_sama_en_3487_ver1_cr10",
+      "markdown_sama_en_3487_ver1_cr4",
+      "markdown_sama_en_3487_ver1_cr5",
+      "markdown_sama_en_3487_ver1_cr6",
+      "markdown_sama_en_3487_ver1_cr9",
+      "markdown_sama_en_3487_ver1_sec1",
+      "markdown_sama_en_3487_ver1_sec3",
+      "markdown_sama_en_3487_ver1_sec4",
+      "markdown_sama_en_3502_ver1",
+      "scre_credit_risk_framework"
+    ],
+    "51": [
+      "markdown_sama_en_3526_ver1_bcbs_403",
+      "markdown_sama_en_3526_ver1_code_of_conduct",
+      "markdown_sama_en_3526_ver1_collateral",
+      "markdown_sama_en_3526_ver1_credit_risk_classification",
+      "markdown_sama_en_3526_ver1_early_warning_signals",
+      "markdown_sama_en_3526_ver1_npl_strategy",
+      "markdown_sama_en_3526_ver1_problem_loans_rules",
+      "markdown_sama_en_3526_ver1_restructuring_viability",
+      "markdown_sama_en_3526_ver1_workout_plan",
+      "markdown_sama_en_3526_ver1_workout_unit"
+    ],
+    "52": [
+      "markdown_sama_en_3553_ver1_apl",
+      "markdown_sama_en_3553_ver1_backtesting",
+      "markdown_sama_en_3553_ver1_backtesting_zones",
+      "markdown_sama_en_3553_ver1_hpl",
+      "markdown_sama_en_3553_ver1_internal_models_approach",
+      "markdown_sama_en_3553_ver1_ks_metric",
+      "markdown_sama_en_3553_ver1_pla_test",
+      "markdown_sama_en_3553_ver1_risk_factor_modellability",
+      "markdown_sama_en_3553_ver1_rtpl",
+      "markdown_sama_en_3553_ver1_spearman_metric"
+    ],
+    "53": [
+      "markdown_sama_en_4283_ver1_alpha",
+      "markdown_sama_en_4283_ver1_ccp_exposures",
+      "markdown_sama_en_4283_ver1_default_fund",
+      "markdown_sama_en_4283_ver1_ead",
+      "markdown_sama_en_4283_ver1_margin_agreement",
+      "markdown_sama_en_4283_ver1_nica",
+      "markdown_sama_en_4283_ver1_pfe",
+      "markdown_sama_en_4283_ver1_qccp",
+      "markdown_sama_en_4283_ver1_replacement_cost",
+      "markdown_sama_en_4283_ver1_saccr"
+    ],
+    "54": [
+      "markdown_sama_en_10577_ver1_credit_risk",
+      "markdown_sama_en_10577_ver1_equity_investment_risk",
+      "markdown_sama_en_10577_ver1_liquidity_risk",
+      "markdown_sama_en_10577_ver1_market_risk",
+      "markdown_sama_en_10577_ver1_operational_risk",
+      "markdown_sama_en_10577_ver1_psia_rules",
+      "markdown_sama_en_10577_ver1_rmf_shariah",
+      "markdown_sama_en_10577_ver1_shariah_governance_framework",
+      "markdown_sama_en_10577_ver1_sncr"
+    ],
+    "55": [
+      "markdown_sama_en_10592_ver1_lifecycle_events",
+      "markdown_sama_en_10592_ver1_otc_requirements",
+      "markdown_sama_en_10592_ver1_section_a_reporting",
+      "markdown_sama_en_10592_ver1_section_b_risk_mitigation",
+      "markdown_sama_en_10592_ver1_superseded_circular",
+      "markdown_sama_en_10592_ver1_trade_repository",
+      "markdown_sama_en_10592_ver1_upi",
+      "markdown_sama_en_10592_ver1_uti",
+      "markdown_sama_en_10593_ver1_0_otc_requirements"
+    ],
+    "56": [
+      "markdown_sama_en_10667_ver1_alert_handling",
+      "markdown_sama_en_10667_ver1_aml_law",
+      "markdown_sama_en_10667_ver1_freezing_procedures",
+      "markdown_sama_en_10667_ver1_recordkeeping",
+      "markdown_sama_en_10667_ver1_sanctions_list_management",
+      "markdown_sama_en_10667_ver1_screening_procedures",
+      "markdown_sama_en_10667_ver1_tfs_rules",
+      "markdown_sama_en_10667_ver1_training_awareness",
+      "markdown_sama_en_10668_ver1_tfs_rules"
+    ],
+    "57": [
+      "markdown_sama_en_2348_ver1",
+      "markdown_sama_en_2348_ver1_fit_proper",
+      "markdown_sama_en_2675_ver1_0",
+      "markdown_sama_en_2675_ver1_0_credit_limits",
+      "markdown_sama_en_2675_ver1_0_dbc_company",
+      "markdown_sama_en_2675_ver1_0_institutional_beneficiary",
+      "markdown_sama_en_2675_ver1_0_participant",
+      "markdown_sama_en_2675_ver1_0_platform",
+      "markdown_sama_en_2675_ver1_0_risk_management"
+    ],
+    "58": [
+      "markdown_sama_en_3487_ver1_business_indicator",
+      "markdown_sama_en_3487_ver1_business_indicator_component",
+      "markdown_sama_en_3487_ver1_internal_loss_multiplier",
+      "markdown_sama_en_3487_ver1_loss_component",
+      "markdown_sama_en_3487_ver1_loss_data_criteria",
+      "markdown_sama_en_3487_ver1_loss_event_classification",
+      "markdown_sama_en_3487_ver1_operational_risk",
+      "markdown_sama_en_3487_ver1_orc",
+      "markdown_sama_en_3487_ver1_standardized_approach_or"
+    ],
+    "59": [
+      "markdown_sama_en_3487_ver1_ecra",
+      "markdown_sama_en_3487_ver1_ltv",
+      "markdown_sama_en_3487_ver1_real_estate_exposure",
+      "markdown_sama_en_3487_ver1_scra",
+      "markdown_sama_en_3487_ver1_standardized_approach",
+      "markdown_sama_en_3487_ver1_template_cr4",
+      "markdown_sama_en_3553_ver1_exotic_underlying",
+      "markdown_sama_en_3553_ver1_other_residual_risks",
+      "markdown_sama_en_3553_ver1_rrao"
+    ],
+    "60": [
+      "markdown_sama_en_3553_ver1_drc_model",
+      "markdown_sama_en_3553_ver1_gross_jtd",
+      "markdown_sama_en_3553_ver1_ima",
+      "markdown_sama_en_3553_ver1_jtd_risk",
+      "markdown_sama_en_3553_ver1_lgd",
+      "markdown_sama_en_3553_ver1_net_jtd",
+      "markdown_sama_en_3553_ver1_sama",
+      "markdown_sama_en_3553_ver1_stress_testing",
+      "markdown_sama_en_3553_ver1_var"
+    ],
+    "61": [
+      "markdown_sama_en_4066_ver1",
+      "markdown_sama_en_4066_ver1_bcm_framework",
+      "markdown_sama_en_4066_ver1_cyber_security_framework",
+      "markdown_sama_en_4066_ver1_it_governance",
+      "markdown_sama_en_4066_ver1_it_risk_management",
+      "markdown_sama_en_4066_ver1_itsc",
+      "markdown_sama_en_4066_ver1_maturity_model",
+      "markdown_sama_en_4066_ver1_operations_management",
+      "markdown_sama_en_4066_ver1_system_change_management"
+    ],
+    "62": [
+      "markdown_sama_en_9492_ver1_bbb_fib",
+      "markdown_sama_en_9492_ver1_counterfeit_currency",
+      "markdown_sama_en_9492_ver1_criminal_risk",
+      "markdown_sama_en_9492_ver1_ecc_coverage",
+      "markdown_sama_en_9492_ver1_electronic_crime",
+      "markdown_sama_en_9492_ver1_forgery",
+      "markdown_sama_en_9492_ver1_fraud",
+      "markdown_sama_en_9492_ver1_overview_operational_risk",
+      "markdown_sama_en_9492_ver1_robbery_burglary"
+    ],
+    "63": [
+      "markdown_sama_en_11101_ver1_bank_account_rules",
+      "markdown_sama_en_11101_ver1_nonresident_realestate_accounts",
+      "markdown_sama_en_123_ver1_contracts_register",
+      "markdown_sama_en_123_ver1_finance_lease_law",
+      "markdown_sama_en_123_ver1_finance_lease_regulation",
+      "markdown_sama_en_123_ver1_securitization",
+      "markdown_sama_en_1272_ver1_real_estate_finance_law",
+      "markdown_sama_en_1272_ver1_secondary_market"
+    ],
+    "64": [
+      "markdown_sama_en_1717_ver1",
+      "markdown_sama_en_1717_ver1_audit_committee",
+      "markdown_sama_en_1717_ver1_board",
+      "markdown_sama_en_1717_ver1_executive_committee",
+      "markdown_sama_en_1717_ver1_executive_management",
+      "markdown_sama_en_1717_ver1_nomination_remuneration_committee",
+      "markdown_sama_en_1717_ver1_risk_committee",
+      "markdown_sama_en_1717_ver1_saudi_central_bank_law"
+    ],
+    "65": [
+      "markdown_sama_en_3487_ver1_ccf",
+      "markdown_sama_en_3487_ver1_cr3",
+      "markdown_sama_en_3487_ver1_ead_estimation",
+      "markdown_sama_en_3487_ver1_obs_items",
+      "markdown_sama_en_3487_ver1_scre",
+      "markdown_sama_en_3487_ver1_template_cr1",
+      "markdown_sama_en_3487_ver1_template_cr2",
+      "markdown_sama_en_3502_ver1_ead_foundation"
+    ],
+    "66": [
+      "markdown_sama_en_3502_ver1_adc_exposures",
+      "markdown_sama_en_3502_ver1_crm",
+      "markdown_sama_en_3502_ver1_defaulted_exposures",
+      "markdown_sama_en_3502_ver1_guarantees",
+      "markdown_sama_en_3502_ver1_loan_splitting",
+      "markdown_sama_en_3502_ver1_ltv",
+      "markdown_sama_en_3502_ver1_on_balance_netting",
+      "markdown_sama_en_3502_ver1_real_estate_exposures"
+    ],
+    "67": [
+      "markdown_sama_en_3502_ver1_bank_exposures",
+      "markdown_sama_en_3502_ver1_covered_bonds",
+      "markdown_sama_en_3502_ver1_due_diligence",
+      "markdown_sama_en_3502_ver1_ecai",
+      "markdown_sama_en_3502_ver1_ecai_mapping",
+      "markdown_sama_en_3502_ver1_ecra",
+      "markdown_sama_en_3502_ver1_external_ratings",
+      "markdown_sama_en_3502_ver1_scra"
+    ],
+    "68": [
+      "markdown_sama_en_3553_ver1_book_boundary",
+      "markdown_sama_en_3553_ver1_credit_risk_framework",
+      "markdown_sama_en_3553_ver1_cva",
+      "markdown_sama_en_3553_ver1_internal_risk_transfer",
+      "markdown_sama_en_3553_ver1_look_through_approach",
+      "markdown_sama_en_3553_ver1_market_risk",
+      "markdown_sama_en_3553_ver1_trading_book_policy",
+      "markdown_sama_en_3553_ver1_trading_desk"
+    ],
+    "69": [
+      "markdown_sama_en_3553_ver1_curvature_risk",
+      "markdown_sama_en_3553_ver1_delta_plus_method",
+      "markdown_sama_en_3553_ver1_delta_risk",
+      "markdown_sama_en_3553_ver1_gamma_risk",
+      "markdown_sama_en_3553_ver1_scenario_approach",
+      "markdown_sama_en_3553_ver1_sensitivities_based_method",
+      "markdown_sama_en_3553_ver1_simplified_approach_options",
+      "markdown_sama_en_3553_ver1_vega_risk"
+    ],
+    "70": [
+      "annual_regulatory_data_form",
+      "financial_statements_comparison_form",
+      "monthly_sales_purchases_form",
+      "quarterly_currency_form",
+      "rms_guidance_manual",
+      "sama_circular_gdbc_341000107020_1434h_en",
+      "sama_circular_gdbc_361000009335_1436h"
+    ],
+    "71": [
+      "markdown_sama_en_1195_ver1_law_payments",
+      "markdown_sama_en_1195_ver1_payment_systems",
+      "markdown_sama_en_1195_ver1_settlement_finality",
+      "markdown_sama_en_1195_ver1_sips",
+      "markdown_sama_en_1293_ver1_bank",
+      "markdown_sama_en_1293_ver1_board",
+      "markdown_sama_en_1293_ver1_saudi_central_bank_law"
+    ],
+    "72": [
+      "markdown_sama_en_1704_ver1",
+      "markdown_sama_en_1704_ver1_aml_law",
+      "markdown_sama_en_1704_ver1_board_directors",
+      "markdown_sama_en_1704_ver1_ctf_law",
+      "markdown_sama_en_1704_ver1_fatf",
+      "markdown_sama_en_1704_ver1_risk_assessment",
+      "markdown_sama_en_1704_ver1_risk_based_approach"
+    ],
+    "73": [
+      "markdown_sama_en_2274_ver1_board",
+      "markdown_sama_en_2274_ver1_executive_management",
+      "markdown_sama_en_2274_ver1_product_development",
+      "markdown_sama_en_2274_ver1_shariah_audit",
+      "markdown_sama_en_2274_ver1_shariah_committee",
+      "markdown_sama_en_2274_ver1_shariah_compliance",
+      "markdown_sama_en_2274_ver1_shariah_governance_framework"
+    ],
+    "74": [
+      "markdown_sama_en_2389_ver1",
+      "markdown_sama_en_2389_ver1_bcp",
+      "markdown_sama_en_2389_ver1_fbb_outsourcing",
+      "markdown_sama_en_2389_ver1_material_outsourcing",
+      "markdown_sama_en_2389_ver1_no_objection",
+      "markdown_sama_en_2389_ver1_tpsp",
+      "markdown_sama_en_2675_ver1_0_outsourcing"
+    ],
+    "75": [
+      "markdown_sama_en_2864_ver1_awareness_unit",
+      "markdown_sama_en_2864_ver1_complaints_unit",
+      "markdown_sama_en_2864_ver1_consumer_protection",
+      "markdown_sama_en_2864_ver1_customer_care_dept",
+      "markdown_sama_en_2864_ver1_quality_unit",
+      "markdown_sama_en_2885_ver1_credit_advisor_cert",
+      "markdown_sama_en_2885_ver1_professional_certs"
+    ],
+    "76": [
+      "markdown_sama_en_2883_ver1_biometric_auth",
+      "markdown_sama_en_2888_ver1_cyber_requirements",
+      "markdown_sama_en_2888_ver1_ewallet_controls",
+      "markdown_sama_en_2888_ver1_lending_controls",
+      "markdown_sama_en_2888_ver1_mfa",
+      "markdown_sama_en_2888_ver1_min_verification",
+      "markdown_sama_en_2888_ver1_otp"
+    ],
+    "77": [
+      "markdown_sama_en_3575_ver1_covenants",
+      "markdown_sama_en_3575_ver1_early_warning_signals",
+      "markdown_sama_en_3575_ver1_glossary",
+      "markdown_sama_en_3575_ver1_restructuring_agreement",
+      "markdown_sama_en_3575_ver1_restructuring_principles",
+      "markdown_sama_en_3575_ver1_standstill_agreement",
+      "markdown_sama_en_3575_ver1_term_sheet"
+    ],
+    "78": [
+      "markdown_fit_and_proper_form",
+      "markdown_gdbc_000042007671_1442h",
+      "markdown_gdbc_381000095091_1438h",
+      "markdown_sama_en_10528_ver",
+      "markdown_sama_en_10555_ver",
+      "markdown_sama_en_996_ver1"
+    ],
+    "79": [
+      "markdown_sama_en_1644_ver1_disclosure_enforcement",
+      "markdown_sama_en_1644_ver1_electronic_record",
+      "markdown_sama_en_1644_ver1_freezing_accounts",
+      "markdown_sama_en_1644_ver1_kyc_aml",
+      "markdown_sama_en_1644_ver1_sama",
+      "markdown_sama_en_1644_ver1_supervisory_rules"
+    ],
+    "80": [
+      "markdown_sama_en_1644_ver1_expatriates_accounts",
+      "markdown_sama_en_1644_ver1_general_instructions",
+      "markdown_sama_en_1644_ver1_minors_accounts",
+      "markdown_sama_en_1644_ver1_natural_persons",
+      "markdown_sama_en_1644_ver1_procedural_rules",
+      "markdown_sama_en_1644_ver1_remote_opening"
+    ],
+    "81": [
+      "markdown_sama_en_2757_ver1",
+      "markdown_sama_en_2757_ver1_bcbs_iosco",
+      "markdown_sama_en_2757_ver1_eligible_collateral",
+      "markdown_sama_en_2757_ver1_initial_margin",
+      "markdown_sama_en_2757_ver1_rehypothecation",
+      "markdown_sama_en_2757_ver1_variation_margin"
+    ],
+    "82": [
+      "markdown_sama_en_3553_ver1_expected_shortfall",
+      "markdown_sama_en_3553_ver1_imcc",
+      "markdown_sama_en_3553_ver1_liquidity_horizon",
+      "markdown_sama_en_3553_ver1_nmrf",
+      "markdown_sama_en_3553_ver1_rfet",
+      "markdown_sama_en_3553_ver1_ses"
+    ],
+    "83": [
+      "markdown_sama_en_8383_ver1_closing_account",
+      "markdown_sama_en_8383_ver1_dtfc_general_account",
+      "markdown_sama_en_8383_ver1_freezing_updating",
+      "markdown_sama_en_8383_ver1_inactive_dormant",
+      "markdown_sama_en_8383_ver1_operating_rules",
+      "markdown_sama_en_8383_ver1_term_deposit_account"
+    ],
+    "84": [
+      "markdown_sama_en_10400_ver1",
+      "markdown_sama_en_10417_ver1",
+      "markdown_sama_en_10465_ver1",
+      "markdown_sama_en_10529_ver1",
+      "markdown_sama_en_10530_ver1"
+    ],
+    "85": [
+      "markdown_sama_en_10621_ver1_irrbb_shock_scenarios",
+      "markdown_sama_en_10621_ver1_long_rate_shock",
+      "markdown_sama_en_10621_ver1_parallel_shock",
+      "markdown_sama_en_10621_ver1_rotation_shocks",
+      "markdown_sama_en_10621_ver1_short_rate_shock"
+    ],
+    "86": [
+      "markdown_sama_en_11081_ver1_capital_requirements",
+      "markdown_sama_en_11081_ver1_corporate_governance",
+      "markdown_sama_en_11081_ver1_dtfc_regulations",
+      "markdown_sama_en_11081_ver1_finance_companies_control_law",
+      "markdown_sama_en_11081_ver1_liquidity_requirements"
+    ],
+    "87": [
+      "markdown_sama_en_1644_ver1_abandoned_accounts",
+      "markdown_sama_en_1644_ver1_communication_policy",
+      "markdown_sama_en_1644_ver1_dormant_accounts",
+      "markdown_sama_en_1644_ver1_inoperative_accounts",
+      "markdown_sama_en_1644_ver1_unclaimed_accounts"
+    ],
+    "88": [
+      "markdown_sama_en_1704_ver1_beneficial_owner",
+      "markdown_sama_en_1704_ver1_due_diligence",
+      "markdown_sama_en_1704_ver1_enhanced_dd",
+      "markdown_sama_en_1704_ver1_pep",
+      "markdown_sama_en_1704_ver1_simplified_dd"
+    ],
+    "89": [
+      "markdown_sama_en_1704_ver1_compliance_function",
+      "markdown_sama_en_1704_ver1_monitoring",
+      "markdown_sama_en_1704_ver1_safiu",
+      "markdown_sama_en_1704_ver1_senior_management",
+      "markdown_sama_en_1704_ver1_suspicious_reporting"
+    ],
+    "90": [
+      "markdown_sama_en_2926_ver1",
+      "markdown_sama_en_2926_ver1_board_responsibilities",
+      "markdown_sama_en_2926_ver1_compliance_report",
+      "markdown_sama_en_2926_ver1_nrc",
+      "markdown_sama_en_2926_ver1_remuneration_adjustment"
+    ],
+    "91": [
+      "markdown_sama_en_3032_ver1",
+      "markdown_sama_en_3032_ver1_banking_control_law",
+      "markdown_sama_en_3032_ver1_exposure_limits",
+      "markdown_sama_en_3032_ver1_large_exposures",
+      "markdown_sama_en_3032_ver1_related_party"
+    ],
+    "92": [
+      "markdown_sama_en_3468_ver1_assessment_methodology",
+      "markdown_sama_en_3468_ver1_bucketing",
+      "markdown_sama_en_3468_ver1_dsib_framework",
+      "markdown_sama_en_3468_ver1_gsib_framework",
+      "markdown_sama_en_3468_ver1_hla"
+    ],
+    "93": [
+      "markdown_sama_en_3487_ver1_banking_book",
+      "markdown_sama_en_3487_ver1_internal_risk_transfer",
+      "markdown_sama_en_3487_ver1_tps",
+      "markdown_sama_en_3487_ver1_trading_book",
+      "markdown_sama_en_3487_ver1_trading_desk"
+    ],
+    "94": [
+      "markdown_sama_en_3487_ver1_financial_receivables",
+      "markdown_sama_en_3487_ver1_leasing",
+      "markdown_sama_en_3487_ver1_physical_collateral",
+      "markdown_sama_en_3487_ver1_real_estate_collateral",
+      "markdown_sama_en_3487_ver1_supervisory_lgd_ead"
+    ],
+    "95": [
+      "markdown_sama_en_3487_ver1_rwa",
+      "markdown_sama_en_3487_ver1_rwa_credit_risk",
+      "markdown_sama_en_3487_ver1_rwa_operational_risk",
+      "markdown_sama_en_3487_ver1_sccr",
+      "markdown_sama_en_3487_ver1_sope"
+    ],
+    "96": [
+      "markdown_sama_en_4234_ver1_cr1",
+      "markdown_sama_en_4234_ver1_cr2",
+      "markdown_sama_en_4234_ver1_cr3",
+      "markdown_sama_en_4234_ver1_crb",
+      "markdown_sama_en_4234_ver1_crb_a"
+    ],
+    "97": [
+      "markdown_sama_en_4234_ver1_cva1",
+      "markdown_sama_en_4283_ver1_ba_cva",
+      "markdown_sama_en_4283_ver1_cva_hedges",
+      "markdown_sama_en_4283_ver1_cva_risk_weights",
+      "markdown_sama_en_4283_ver1_scva"
+    ],
+    "98": [
+      "markdown_sama_en_5437_ver1",
+      "markdown_sama_en_5437_ver1_banking_control_law",
+      "markdown_sama_en_5437_ver1_cash_transport_law",
+      "markdown_sama_en_5513_ver1",
+      "markdown_sama_en_5513_ver1_cash_transport_law"
+    ],
+    "99": [
+      "markdown_sama_en_5840_ver1",
+      "markdown_sama_en_5840_ver1_exchange_rules",
+      "markdown_sama_en_5840_ver1_rms",
+      "markdown_sama_en_5860_ver1",
+      "markdown_sama_en_5866_ver1"
+    ],
+    "100": [
+      "markdown_sama_en_6314_ver1",
+      "markdown_sama_en_6314_ver1_gleif",
+      "markdown_sama_en_6314_ver1_lei",
+      "markdown_sama_en_6314_ver1_local_operating_unit",
+      "markdown_sama_en_6314_ver1_simah"
+    ],
+    "101": [
+      "sama_en_10593_ver1_action_type",
+      "sama_en_10593_ver1_counterparty_rules",
+      "sama_en_10593_ver1_internal_unique_trade_id",
+      "sama_en_10593_ver1_lifecycle_events",
+      "sama_en_10593_ver1_reporting_scenarios"
+    ],
+    "102": [
+      "cash_transport_law",
+      "markdown_sama_en_6493_ver1",
+      "markdown_sama_en_6734_ver1",
+      "markdown_sama_en_7278_ver1"
+    ],
+    "103": [
+      "markdown_sama_en_1023_ver1",
+      "markdown_sama_en_10335_ver1",
+      "markdown_sama_en_10356_ver1",
+      "markdown_sama_en_10426_ver1"
+    ],
+    "104": [
+      "markdown_sama_en_11067_ver1_finance_lease_law",
+      "markdown_sama_en_11067_ver1_lease_executive_deed_extract",
+      "markdown_sama_en_11079_ver1_1_contract_registration_controls",
+      "markdown_sama_en_11079_ver1_1_finance_lease_law"
+    ],
+    "105": [
+      "markdown_sama_en_11078_ver1_apr_calculation_method",
+      "markdown_sama_en_11078_ver1_apr_calculator",
+      "markdown_sama_en_11078_ver1_apr_rules",
+      "markdown_sama_en_11078_ver1_consumer_financing_regulation"
+    ],
+    "106": [
+      "markdown_sama_en_1715_ver1",
+      "markdown_sama_en_1715_ver1_compliance_department",
+      "markdown_sama_en_1715_ver1_saudi_central_bank_law",
+      "markdown_sama_en_1722_ver1"
+    ],
+    "107": [
+      "markdown_sama_en_2659_ver1",
+      "markdown_sama_en_2659_ver1_branch_network_policy",
+      "markdown_sama_en_2659_ver1_financial_inclusion",
+      "markdown_sama_en_2659_ver1_zones"
+    ],
+    "108": [
+      "markdown_sama_en_3487_ver1_liq1",
+      "markdown_sama_en_3487_ver1_liq2",
+      "slcr_liquidity_coverage_standard",
+      "snsf_net_stable_funding_standard"
+    ],
+    "109": [
+      "markdown_sama_en_3487_ver1_or1",
+      "markdown_sama_en_3487_ver1_or2",
+      "markdown_sama_en_3487_ver1_or3",
+      "sope_operational_risk_standard"
+    ],
+    "110": [
+      "markdown_sama_en_3502_ver1_lgd_floor_partial_secured",
+      "markdown_sama_en_3502_ver1_lgd_parameter_floors_retail",
+      "markdown_sama_en_3502_ver1_pd_lgd_retail",
+      "markdown_sama_en_3502_ver1_retail_risk_components"
+    ],
+    "111": [
+      "markdown_sama_en_4234_ver1_rem1",
+      "markdown_sama_en_4234_ver1_rem2",
+      "markdown_sama_en_4234_ver1_rem3",
+      "markdown_sama_en_4234_ver1_rema"
+    ],
+    "112": [
+      "markdown_sama_en_4736_ver1",
+      "markdown_sama_en_4736_ver1_audit_independence",
+      "markdown_sama_en_4736_ver1_risk_based_audit_plan",
+      "markdown_sama_en_4736_ver1_three_lines_defense"
+    ],
+    "113": [
+      "markdown_sama_en_5455_ver1",
+      "markdown_sama_en_5455_ver1_finance_companies_regulation",
+      "markdown_sama_en_5477_ver1",
+      "markdown_sama_en_5477_ver1_ifrs9"
+    ],
+    "114": [
+      "markdown_sama_en_6073_ver1_default_market_value",
+      "markdown_sama_en_6073_ver1_event_of_default",
+      "markdown_sama_en_6073_ver1_exercise_notice",
+      "markdown_sama_en_6073_ver1_margin_maintenance"
+    ],
+    "115": [
+      "markdown_sama_en_6306_ver1",
+      "markdown_sama_en_6306_ver1_credit_advisor",
+      "markdown_sama_en_6306_ver1_finance_offer",
+      "markdown_sama_en_6306_ver1_variable_rate_risk_acknowledgement"
+    ],
+    "116": [
+      "markdown_sama_en_9451_ver1_derivatives",
+      "markdown_sama_en_9451_ver1_new_products_regulation",
+      "markdown_sama_en_9451_ver1_notification_nonobjection",
+      "markdown_sama_en_9451_ver1_risk_assessment"
+    ],
+    "117": [
+      "markdown_sama_en_9492_ver1_deductibles",
+      "markdown_sama_en_9492_ver1_finite_risk_insurance",
+      "markdown_sama_en_9492_ver1_regular_insurance",
+      "markdown_sama_en_9492_ver1_self_insurance"
+    ],
+    "118": [
+      "markdown_sama_en_9492_ver1_internal_controls_guidelines",
+      "markdown_sama_en_9492_ver1_operational_risk_guide",
+      "markdown_sama_en_9492_ver1_physical_security_standards",
+      "markdown_sama_en_9492_ver1_risk_mgmt_questionnaire"
+    ],
+    "119": [
+      "markdown_sama_en_961_ver1_credit_information_company",
+      "markdown_sama_en_961_ver1_credit_information_law",
+      "markdown_sama_en_961_ver1_credit_record",
+      "markdown_sama_en_961_ver1_implementing_regulations"
+    ],
+    "120": [
+      "markdown_sama_en_10175_ver1",
+      "markdown_sama_en_10245_ver1",
+      "markdown_sama_en_10320_ver1"
+    ],
+    "121": [
+      "markdown_sama_en_10530_ver1_counter_fraud_programme",
+      "markdown_sama_en_10530_ver1_fraud_risk_assessment",
+      "markdown_sama_en_10530_ver1_supervisor_notification"
+    ],
+    "122": [
+      "markdown_sama_en_11039_ver1",
+      "markdown_sama_en_11039_ver1_cyber_security_framework",
+      "markdown_sama_en_11039_ver1_red_teaming_framework"
+    ],
+    "123": [
+      "markdown_sama_en_11076_ver1_atm_receipts_initiative",
+      "markdown_sama_en_11076_ver1_cash_withdrawal_stream",
+      "markdown_sama_en_11076_ver1_noncash_stream"
+    ],
+    "124": [
+      "markdown_sama_en_1430_ver1_agents_distributors",
+      "markdown_sama_en_1430_ver1_electronic_money",
+      "markdown_sama_en_1430_ver1_safeguarded_funds"
+    ],
+    "125": [
+      "markdown_sama_en_1430_ver1_fmi_principles",
+      "markdown_sama_en_1430_ver1_payment_systems",
+      "markdown_sama_en_1430_ver1_settlement_finality"
+    ],
+    "126": [
+      "markdown_sama_en_2327_ver1_finance_companies_control_law",
+      "markdown_sama_en_2327_ver1_fit_and_proper_form",
+      "markdown_sama_en_2327_ver1_license_guidelines"
+    ],
+    "127": [
+      "markdown_sama_en_3487_ver1_ccr7",
+      "markdown_sama_en_3487_ver1_cr7",
+      "markdown_sama_en_3487_ver1_cr8"
+    ],
+    "128": [
+      "markdown_sama_en_3502_ver1_data_maintenance",
+      "markdown_sama_en_3502_ver1_risk_rating_operations",
+      "markdown_sama_en_3502_ver1_stress_tests"
+    ],
+    "129": [
+      "markdown_sama_en_4234_ver1_or1",
+      "markdown_sama_en_4234_ver1_or2",
+      "markdown_sama_en_4234_ver1_or3"
+    ],
+    "130": [
+      "markdown_sama_en_4778_ver1",
+      "markdown_sama_en_4790_ver1",
+      "markdown_sama_en_4834_ver1"
+    ],
+    "131": [
+      "markdown_sama_en_5525_ver1",
+      "markdown_sama_en_5525_ver1_accredited_valuers_law",
+      "markdown_sama_en_5525_ver1_saudi_valuers_authority"
+    ],
+    "132": [
+      "markdown_sama_en_5547_ver1",
+      "markdown_sama_en_5547_ver1_aml_cft",
+      "markdown_sama_en_5547_ver1_conflict_of_interest"
+    ],
+    "133": [
+      "markdown_sama_en_5630_ver1",
+      "markdown_sama_en_5838_ver1",
+      "markdown_sama_en_5838_ver1_security_containers"
+    ],
+    "134": [
+      "markdown_sama_en_5888_ver1_risk",
+      "markdown_sama_en_5888_ver1_risk_appetite",
+      "markdown_sama_en_5888_ver1_risk_tolerance"
+    ],
+    "135": [
+      "markdown_sama_en_8724_ver1_pos_4g",
+      "markdown_sama_en_8725_ver1_pos_kyc",
+      "markdown_sama_en_8731_ver1_epayment_ngo"
+    ],
+    "136": [
+      "markdown_sama_en_9068_ver1_hli_practices",
+      "markdown_sama_en_9068_ver1_internal_control_guidelines",
+      "markdown_sama_en_9068_ver1_pfe"
+    ],
+    "137": [
+      "markdown_sama_en_9492_ver1_do_liability",
+      "markdown_sama_en_9492_ver1_professional_indemnity",
+      "markdown_sama_en_9492_ver1_professional_risk"
+    ],
+    "138": [
+      "basel_committee_guidance",
+      "markdown_sama_en_6738_ver1"
+    ],
+    "139": [
+      "concept_unified_number",
+      "markdown_sama_en_4843_ver1"
+    ],
+    "140": [
+      "lei_issuance_agreement",
+      "pdpl_amendment_m148"
+    ],
+    "141": [
+      "markdown_sama_en_10398_ver1",
+      "markdown_sama_en_10399_ver1"
+    ],
+    "142": [
+      "markdown_sama_en_10530_ver1_glossary",
+      "markdown_sama_en_10530_ver1_sama_cff"
+    ],
+    "143": [
+      "markdown_sama_en_10575_ver1_credit_card_faq",
+      "markdown_sama_en_10575_ver1_credit_card_rules"
+    ],
+    "144": [
+      "markdown_sama_en_10646_ver1_events_rules",
+      "markdown_sama_en_10647_ver1_events_rules"
+    ],
+    "145": [
+      "markdown_sama_en_11037_ver1",
+      "markdown_sama_en_11037_ver1_cctv_surveillance_objectives"
+    ],
+    "146": [
+      "markdown_sama_en_11055_ver1_eligible_collateral",
+      "markdown_sama_en_11055_ver1_lgd"
+    ],
+    "147": [
+      "markdown_sama_en_1652_ver1",
+      "markdown_sama_en_1657_ver1"
+    ],
+    "148": [
+      "markdown_sama_en_1704_ver1_record_keeping",
+      "markdown_sama_en_1704_ver1_wire_transfer"
+    ],
+    "149": [
+      "markdown_sama_en_3080_ver1",
+      "markdown_sama_en_3245_ver1"
+    ],
+    "150": [
+      "markdown_sama_en_3244_ver1",
+      "markdown_sama_en_3365_ver1_0"
+    ],
+    "151": [
+      "markdown_sama_en_3487_ver1_irrbb1",
+      "markdown_sama_en_3487_ver1_irrbba"
+    ],
+    "152": [
+      "markdown_sama_en_3487_ver1_template_li1",
+      "markdown_sama_en_3487_ver1_template_li2"
+    ],
+    "153": [
+      "markdown_sama_en_4234_ver1_irrbb1",
+      "markdown_sama_en_4234_ver1_irrbba"
+    ],
+    "154": [
+      "markdown_sama_en_4234_ver1_tlac2",
+      "markdown_sama_en_4234_ver1_tlac3"
+    ],
+    "155": [
+      "markdown_sama_en_4437_ver1",
+      "markdown_sama_en_4827_ver1"
+    ],
+    "156": [
+      "markdown_sama_en_4809_ver1",
+      "markdown_sama_en_4826_ver1"
+    ],
+    "157": [
+      "markdown_sama_en_4830_ver1",
+      "markdown_sama_en_4833_ver1"
+    ],
+    "158": [
+      "markdown_sama_en_4969_ver1",
+      "markdown_sama_en_5021_ver1"
+    ],
+    "159": [
+      "markdown_sama_en_4983_ver1",
+      "markdown_sama_en_5031_ver1"
+    ],
+    "160": [
+      "markdown_sama_en_5425_ver1",
+      "markdown_sama_en_5425_ver1_money_changing_rules"
+    ],
+    "161": [
+      "markdown_sama_en_5438_ver1",
+      "markdown_sama_en_5438_ver1_finance_lease_law"
+    ],
+    "162": [
+      "markdown_sama_en_5441_ver1",
+      "markdown_sama_en_5441_ver1_finance_companies_control_law"
+    ],
+    "163": [
+      "markdown_sama_en_5452_ver1",
+      "markdown_sama_en_5452_ver1_real_estate_finance_law"
+    ],
+    "164": [
+      "markdown_sama_en_5464_ver1",
+      "markdown_sama_en_5464_ver1_registered_mortgage_law"
+    ],
+    "165": [
+      "markdown_sama_en_5467_ver1",
+      "markdown_sama_en_5467_ver1_white_land_fees_law"
+    ],
+    "166": [
+      "markdown_sama_en_5480_ver1",
+      "markdown_sama_en_5480_ver1_sama_net"
+    ],
+    "167": [
+      "markdown_sama_en_5530_ver1",
+      "markdown_sama_en_5530_ver1_labor_law"
+    ],
+    "168": [
+      "markdown_sama_en_5544_ver1",
+      "markdown_sama_en_5544_ver1_violation_classification"
+    ],
+    "169": [
+      "markdown_sama_en_5636_ver1",
+      "markdown_sama_en_5636_ver1_finance_law"
+    ],
+    "170": [
+      "markdown_sama_en_5858_ver1",
+      "markdown_sama_en_5858_ver1_dmo"
+    ],
+    "171": [
+      "markdown_sama_en_5888_ver1_secure_disposal",
+      "markdown_sama_en_5888_ver1_secure_erase"
+    ],
+    "172": [
+      "markdown_sama_en_8356_ver1",
+      "markdown_sama_en_8356_ver1_ifrs_adopted"
+    ],
+    "173": [
+      "markdown_sama_en_8673_ver1_bcbs_liquidity_doc",
+      "markdown_sama_en_8673_ver1_liquidity_risk_circular"
+    ],
+    "174": [
+      "markdown_sama_en_8684_ver1_basel_iii",
+      "markdown_sama_en_8684_ver1_ccyb"
+    ],
+    "175": [
+      "markdown_sama_en_8984_ver1_basel_irrbb_doc",
+      "markdown_sama_en_8984_ver1_irrbb"
+    ],
+    "176": [
+      "markdown_sama_en_9381_ver1_bnpl_license",
+      "markdown_sama_en_9381_ver1_finance_companies_law"
+    ],
+    "177": [
+      "markdown_sama_en_9492_ver1_operational_risk_committee",
+      "markdown_sama_en_9492_ver1_operational_risk_manager"
+    ],
+    "178": [
+      "markdown_sama_en_9538_ver1_aer",
+      "markdown_sama_en_9538_ver1_savings_products_rules"
+    ],
+    "179": [
+      "markdown_sama_en_9660_ver1_qr_code_payments",
+      "markdown_sama_en_9667_ver1_unified_pricing_model"
+    ],
+    "180": [
+      "markdown_sama_en_9663_ver1_sms_sender_names",
+      "markdown_sama_en_9665_ver1_sms_notifications"
+    ],
+    "181": [
+      "markdown_sama_en_9669_ver1_data_cyber_controls",
+      "sama_en_9662_ver1_cyber_security_controls"
+    ],
+    "182": [
+      "markdown_sama_en_9671_ver1_banking_control_law",
+      "markdown_sama_en_9671_ver1_judicial_decisions_enforcement"
+    ],
+    "183": [
+      "markdown_sama_rd_637_en",
+      "markdown_sama_rd_m142_en"
+    ],
+    "184": [
+      "board_remunerations_report"
+    ],
+    "185": [
+      "markdown_sama_en_10211_ver1"
+    ],
+    "186": [
+      "markdown_sama_en_10212_ver1"
+    ],
+    "187": [
+      "markdown_sama_en_10220_ver1"
+    ],
+    "188": [
+      "markdown_sama_en_10227_ver1"
+    ],
+    "189": [
+      "markdown_sama_en_10241_ver1"
+    ],
+    "190": [
+      "markdown_sama_en_10244_ver1"
+    ],
+    "191": [
+      "markdown_sama_en_10319_ver1"
+    ],
+    "192": [
+      "markdown_sama_en_10322_ver1"
+    ],
+    "193": [
+      "markdown_sama_en_10372_ver1"
+    ],
+    "194": [
+      "markdown_sama_en_10394_ver1"
+    ],
+    "195": [
+      "markdown_sama_en_10395_ver1"
+    ],
+    "196": [
+      "markdown_sama_en_10397_ver"
+    ],
+    "197": [
+      "markdown_sama_en_10419_ver1"
+    ],
+    "198": [
+      "markdown_sama_en_10427_ver1"
+    ],
+    "199": [
+      "markdown_sama_en_10464_ver1"
+    ],
+    "200": [
+      "markdown_sama_en_10556_ver"
+    ],
+    "201": [
+      "markdown_sama_en_10559_ver1_fund_distribution"
+    ],
+    "202": [
+      "markdown_sama_en_10623_ver1_national_address"
+    ],
+    "203": [
+      "markdown_sama_en_10640_ver1_mortgage_data_sharing"
+    ],
+    "204": [
+      "markdown_sama_en_10941_ver1"
+    ],
+    "205": [
+      "markdown_sama_en_10944_ver1"
+    ],
+    "206": [
+      "markdown_sama_en_10949_ver1"
+    ],
+    "207": [
+      "markdown_sama_en_10967_ver1"
+    ],
+    "208": [
+      "markdown_sama_en_10969_ver1"
+    ],
+    "209": [
+      "markdown_sama_en_11008_ver1"
+    ],
+    "210": [
+      "markdown_sama_en_11025_ver1"
+    ],
+    "211": [
+      "markdown_sama_en_11027_ver1"
+    ],
+    "212": [
+      "markdown_sama_en_11038_ver1"
+    ],
+    "213": [
+      "markdown_sama_en_11051_ver1_batch_processing"
+    ],
+    "214": [
+      "markdown_sama_en_11051_ver1_change_release_management"
+    ],
+    "215": [
+      "markdown_sama_en_11051_ver1_network_architecture_controls"
+    ],
+    "216": [
+      "markdown_sama_en_11051_ver1_problem_management"
+    ],
+    "217": [
+      "markdown_sama_en_11051_ver1_system_acquisition"
+    ],
+    "218": [
+      "markdown_sama_en_11051_ver1_virtualization"
+    ],
+    "219": [
+      "markdown_sama_en_11065_ver1_timeframes_instructions"
+    ],
+    "220": [
+      "markdown_sama_en_1648_ver1"
+    ],
+    "221": [
+      "markdown_sama_en_1653_ver1"
+    ],
+    "222": [
+      "markdown_sama_en_1654_ver1"
+    ],
+    "223": [
+      "markdown_sama_en_2572_ver1"
+    ],
+    "224": [
+      "markdown_sama_en_2875_ver1_circular_compliance"
+    ],
+    "225": [
+      "markdown_sama_en_2879_ver1_data_protection"
+    ],
+    "226": [
+      "markdown_sama_en_2880_ver1_ifrs_amendments"
+    ],
+    "227": [
+      "markdown_sama_en_2883_ver1_nafath"
+    ],
+    "228": [
+      "markdown_sama_en_2884_ver1_exchange_centers"
+    ],
+    "229": [
+      "markdown_sama_en_3081_ver1"
+    ],
+    "230": [
+      "markdown_sama_en_3154_ver1"
+    ],
+    "231": [
+      "markdown_sama_en_3165_ver1"
+    ],
+    "232": [
+      "markdown_sama_en_3169_ver1"
+    ],
+    "233": [
+      "markdown_sama_en_3178_ver1"
+    ],
+    "234": [
+      "markdown_sama_en_3193_ver1"
+    ],
+    "235": [
+      "markdown_sama_en_3214_ver1"
+    ],
+    "236": [
+      "markdown_sama_en_3223_ver1"
+    ],
+    "237": [
+      "markdown_sama_en_3243_ver1"
+    ],
+    "238": [
+      "markdown_sama_en_3246_ver1"
+    ],
+    "239": [
+      "markdown_sama_en_3417_ver1_available_unencumbered_assets"
+    ],
+    "240": [
+      "markdown_sama_en_3487_ver1_ccr6"
+    ],
+    "241": [
+      "markdown_sama_en_3487_ver1_ccra"
+    ],
+    "242": [
+      "markdown_sama_en_3487_ver1_cre"
+    ],
+    "243": [
+      "markdown_sama_en_3487_ver1_cvaa"
+    ],
+    "244": [
+      "markdown_sama_en_3487_ver1_cvab"
+    ],
+    "245": [
+      "markdown_sama_en_3487_ver1_due_diligence"
+    ],
+    "246": [
+      "markdown_sama_en_3487_ver1_gsib1"
+    ],
+    "247": [
+      "markdown_sama_en_3487_ver1_liqa"
+    ],
+    "248": [
+      "markdown_sama_en_3487_ver1_mra"
+    ],
+    "249": [
+      "markdown_sama_en_3487_ver1_mrb"
+    ],
+    "250": [
+      "markdown_sama_en_3487_ver1_ora"
+    ],
+    "251": [
+      "markdown_sama_en_3487_ver1_risk_factor_modellability"
+    ],
+    "252": [
+      "markdown_sama_en_3487_ver1_sec2"
+    ],
+    "253": [
+      "markdown_sama_en_3487_ver1_seca"
+    ],
+    "254": [
+      "markdown_sama_en_3487_ver1_template_enc"
+    ],
+    "255": [
+      "markdown_sama_en_3487_ver1_template_rema"
+    ],
+    "256": [
+      "markdown_sama_en_3487_ver1_transition"
+    ],
+    "257": [
+      "markdown_sama_en_3490_ver1"
+    ],
+    "258": [
+      "markdown_sama_en_3502_ver1_mdb_exposures"
+    ],
+    "259": [
+      "markdown_sama_en_3502_ver1_overlapping_exposures"
+    ],
+    "260": [
+      "markdown_sama_en_3502_ver1_pse_exposures"
+    ],
+    "261": [
+      "markdown_sama_en_3502_ver1_sovereign_exposures"
+    ],
+    "262": [
+      "markdown_sama_en_3502_ver1_subordinated_debt_equity"
+    ],
+    "263": [
+      "markdown_sama_en_3502_ver1_transition_equity"
+    ],
+    "264": [
+      "markdown_sama_en_3517_ver1_circular"
+    ],
+    "265": [
+      "markdown_sama_en_3519_ver1_circular"
+    ],
+    "266": [
+      "markdown_sama_en_3521_ver1_circular"
+    ],
+    "267": [
+      "markdown_sama_en_3522_ver1_circular"
+    ],
+    "268": [
+      "markdown_sama_en_4128_ver1"
+    ],
+    "269": [
+      "markdown_sama_en_4234_ver1_cca"
+    ],
+    "270": [
+      "markdown_sama_en_4234_ver1_ccr3"
+    ],
+    "271": [
+      "markdown_sama_en_4234_ver1_ccr4"
+    ],
+    "272": [
+      "markdown_sama_en_4234_ver1_ccr6"
+    ],
+    "273": [
+      "markdown_sama_en_4234_ver1_ccr7"
+    ],
+    "274": [
+      "markdown_sama_en_4234_ver1_ccra"
+    ],
+    "275": [
+      "markdown_sama_en_4234_ver1_cr10"
+    ],
+    "276": [
+      "markdown_sama_en_4234_ver1_cr7"
+    ],
+    "277": [
+      "markdown_sama_en_4234_ver1_cr8"
+    ],
+    "278": [
+      "markdown_sama_en_4234_ver1_cra"
+    ],
+    "279": [
+      "markdown_sama_en_4234_ver1_crc"
+    ],
+    "280": [
+      "markdown_sama_en_4234_ver1_crd"
+    ],
+    "281": [
+      "markdown_sama_en_4234_ver1_cre"
+    ],
+    "282": [
+      "markdown_sama_en_4234_ver1_cvaa"
+    ],
+    "283": [
+      "markdown_sama_en_4234_ver1_cvab"
+    ],
+    "284": [
+      "markdown_sama_en_4234_ver1_enc"
+    ],
+    "285": [
+      "markdown_sama_en_4234_ver1_gsib1"
+    ],
+    "286": [
+      "markdown_sama_en_4234_ver1_liqa"
+    ],
+    "287": [
+      "markdown_sama_en_4234_ver1_mr3"
+    ],
+    "288": [
+      "markdown_sama_en_4234_ver1_mra"
+    ],
+    "289": [
+      "markdown_sama_en_4234_ver1_mrb"
+    ],
+    "290": [
+      "markdown_sama_en_4234_ver1_ora"
+    ],
+    "291": [
+      "markdown_sama_en_4234_ver1_ova"
+    ],
+    "292": [
+      "markdown_sama_en_4234_ver1_sec2"
+    ],
+    "293": [
+      "markdown_sama_en_4234_ver1_seca"
+    ],
+    "294": [
+      "markdown_sama_en_4721_ver1"
+    ],
+    "295": [
+      "markdown_sama_en_4725_ver1"
+    ],
+    "296": [
+      "markdown_sama_en_4824_ver1"
+    ],
+    "297": [
+      "markdown_sama_en_4829_ver1"
+    ],
+    "298": [
+      "markdown_sama_en_4838_ver1"
+    ],
+    "299": [
+      "markdown_sama_en_4924_ver1"
+    ],
+    "300": [
+      "markdown_sama_en_4949_ver1"
+    ],
+    "301": [
+      "markdown_sama_en_4987_ver1"
+    ],
+    "302": [
+      "markdown_sama_en_5030_ver1"
+    ],
+    "303": [
+      "markdown_sama_en_5393_ver1"
+    ],
+    "304": [
+      "markdown_sama_en_5408_ver1"
+    ],
+    "305": [
+      "markdown_sama_en_5454_ver1"
+    ],
+    "306": [
+      "markdown_sama_en_5471_ver1"
+    ],
+    "307": [
+      "markdown_sama_en_5473_ver1"
+    ],
+    "308": [
+      "markdown_sama_en_5475_ver1_1"
+    ],
+    "309": [
+      "markdown_sama_en_5476_ver1"
+    ],
+    "310": [
+      "markdown_sama_en_5536_ver1"
+    ],
+    "311": [
+      "markdown_sama_en_5783_ver1"
+    ],
+    "312": [
+      "markdown_sama_en_5856_ver1"
+    ],
+    "313": [
+      "markdown_sama_en_5864_ver1"
+    ],
+    "314": [
+      "markdown_sama_en_5888_ver1_siem"
+    ],
+    "315": [
+      "markdown_sama_en_6595_ver1"
+    ],
+    "316": [
+      "markdown_sama_en_6713_ver1"
+    ],
+    "317": [
+      "markdown_sama_en_6865_ver1"
+    ],
+    "318": [
+      "markdown_sama_en_7355_ver1"
+    ],
+    "319": [
+      "markdown_sama_en_8359_ver1"
+    ],
+    "320": [
+      "markdown_sama_en_8383_ver1_disclosing_blocking"
+    ],
+    "321": [
+      "markdown_sama_en_8679_ver1_icaap"
+    ],
+    "322": [
+      "markdown_sama_en_8722_ver1_local_tech_products"
+    ],
+    "323": [
+      "markdown_sama_en_8726_ver1_ewallet_fees"
+    ],
+    "324": [
+      "markdown_sama_en_8727_ver1_real_estate_broker"
+    ],
+    "325": [
+      "markdown_sama_en_8729_ver1_epayment_retail"
+    ],
+    "326": [
+      "markdown_sama_en_8732_ver1_pdpl"
+    ],
+    "327": [
+      "markdown_sama_en_9492_ver1_political_risk"
+    ],
+    "328": [
+      "markdown_sama_en_9666_ver1_company_contracts"
+    ],
+    "329": [
+      "markdown_sama_en_9668_ver1_mudad_wage_protection"
+    ],
+    "330": [
+      "markdown_sama_en_9670_ver1_struck_commercial_registers"
+    ],
+    "331": [
+      "markdown_sama_en_9672_ver1"
+    ],
+    "332": [
+      "markdown_sama_en_9673_ver1"
+    ],
+    "333": [
+      "markdown_sama_en_9799_ver1"
+    ],
+    "334": [
+      "markdown_sama_en_9809_ver1"
+    ],
+    "335": [
+      "ministerial_decision_112203"
+    ]
+  },
+  "cohesion": {
+    "0": 0.05550416281221091,
+    "1": 0.04927536231884058,
+    "2": 0.058693244739756366,
+    "3": 0.0627177700348432,
+    "4": 0.06477732793522267,
+    "5": 0.06306306306306306,
+    "6": 0.06386554621848739,
+    "7": 0.06417112299465241,
+    "8": 0.0766488413547237,
+    "9": 0.07862903225806452,
+    "10": 0.06451612903225806,
+    "11": 0.08602150537634409,
+    "12": 0.07526881720430108,
+    "13": 0.09852216748768473,
+    "14": 0.07635467980295567,
+    "15": 0.10052910052910052,
+    "16": 0.09401709401709402,
+    "17": 0.09881422924901186,
+    "18": 0.1038961038961039,
+    "19": 0.09523809523809523,
+    "20": 0.11695906432748537,
+    "21": 0.1111111111111111,
+    "22": 0.12418300653594772,
+    "23": 0.16339869281045752,
+    "24": 0.1323529411764706,
+    "25": 0.13970588235294118,
+    "26": 0.13970588235294118,
+    "27": 0.13970588235294118,
+    "28": 0.15,
+    "29": 0.16666666666666666,
+    "30": 0.14166666666666666,
+    "31": 0.14166666666666666,
+    "32": 0.14285714285714285,
+    "33": 0.18681318681318682,
+    "34": 0.16483516483516483,
+    "35": 0.2087912087912088,
+    "36": 0.16666666666666666,
+    "37": 0.19230769230769232,
+    "38": 0.15384615384615385,
+    "39": 0.23076923076923078,
+    "40": 0.18181818181818182,
+    "41": 0.19696969696969696,
+    "42": 0.18181818181818182,
+    "43": 0.21818181818181817,
+    "44": 0.23636363636363636,
+    "45": 0.18181818181818182,
+    "46": 0.18181818181818182,
+    "47": 0.2,
+    "48": 0.2,
+    "49": 0.2,
+    "50": 0.2222222222222222,
+    "51": 0.26666666666666666,
+    "52": 0.28888888888888886,
+    "53": 0.26666666666666666,
+    "54": 0.2222222222222222,
+    "55": 0.2222222222222222,
+    "56": 0.2777777777777778,
+    "57": 0.25,
+    "58": 0.25,
+    "59": 0.25,
+    "60": 0.2222222222222222,
+    "61": 0.2777777777777778,
+    "62": 0.25,
+    "63": 0.2857142857142857,
+    "64": 0.2857142857142857,
+    "65": 0.25,
+    "66": 0.2857142857142857,
+    "67": 0.2857142857142857,
+    "68": 0.2857142857142857,
+    "69": 0.25,
+    "70": 0.2857142857142857,
+    "71": 0.3333333333333333,
+    "72": 0.2857142857142857,
+    "73": 0.38095238095238093,
+    "74": 0.2857142857142857,
+    "75": 0.2857142857142857,
+    "76": 0.2857142857142857,
+    "77": 0.2857142857142857,
+    "78": 0.3333333333333333,
+    "79": 0.4,
+    "80": 0.3333333333333333,
+    "81": 0.4,
+    "82": 0.4,
+    "83": 0.4,
+    "84": 0.4,
+    "85": 0.5,
+    "86": 0.4,
+    "87": 0.7,
+    "88": 0.5,
+    "89": 0.4,
+    "90": 0.5,
+    "91": 0.4,
+    "92": 0.5,
+    "93": 0.5,
+    "94": 0.5,
+    "95": 0.4,
+    "96": 0.4,
+    "97": 0.5,
+    "98": 0.4,
+    "99": 0.4,
+    "100": 0.5,
+    "101": 0.4,
+    "102": 0.6666666666666666,
+    "103": 0.6666666666666666,
+    "104": 0.5,
+    "105": 0.5,
+    "106": 0.6666666666666666,
+    "107": 0.6666666666666666,
+    "108": 0.5,
+    "109": 0.5,
+    "110": 0.5,
+    "111": 0.5,
+    "112": 0.8333333333333334,
+    "113": 0.5,
+    "114": 0.5,
+    "115": 0.6666666666666666,
+    "116": 0.5,
+    "117": 0.5,
+    "118": 0.5,
+    "119": 0.6666666666666666,
+    "120": 0.6666666666666666,
+    "121": 0.6666666666666666,
+    "122": 0.6666666666666666,
+    "123": 0.6666666666666666,
+    "124": 0.6666666666666666,
+    "125": 0.6666666666666666,
+    "126": 0.6666666666666666,
+    "127": 0.6666666666666666,
+    "128": 0.6666666666666666,
+    "129": 0.6666666666666666,
+    "130": 0.6666666666666666,
+    "131": 0.6666666666666666,
+    "132": 0.6666666666666666,
+    "133": 0.6666666666666666,
+    "134": 0.6666666666666666,
+    "135": 0.6666666666666666,
+    "136": 0.6666666666666666,
+    "137": 0.6666666666666666,
+    "138": 1.0,
+    "139": 1.0,
+    "140": 1.0,
+    "141": 1.0,
+    "142": 1.0,
+    "143": 1.0,
+    "144": 1.0,
+    "145": 1.0,
+    "146": 1.0,
+    "147": 1.0,
+    "148": 1.0,
+    "149": 1.0,
+    "150": 1.0,
+    "151": 1.0,
+    "152": 1.0,
+    "153": 1.0,
+    "154": 1.0,
+    "155": 1.0,
+    "156": 1.0,
+    "157": 1.0,
+    "158": 1.0,
+    "159": 1.0,
+    "160": 1.0,
+    "161": 1.0,
+    "162": 1.0,
+    "163": 1.0,
+    "164": 1.0,
+    "165": 1.0,
+    "166": 1.0,
+    "167": 1.0,
+    "168": 1.0,
+    "169": 1.0,
+    "170": 1.0,
+    "171": 1.0,
+    "172": 1.0,
+    "173": 1.0,
+    "174": 1.0,
+    "175": 1.0,
+    "176": 1.0,
+    "177": 1.0,
+    "178": 1.0,
+    "179": 1.0,
+    "180": 1.0,
+    "181": 1.0,
+    "182": 1.0,
+    "183": 1.0,
+    "184": 1.0,
+    "185": 1.0,
+    "186": 1.0,
+    "187": 1.0,
+    "188": 1.0,
+    "189": 1.0,
+    "190": 1.0,
+    "191": 1.0,
+    "192": 1.0,
+    "193": 1.0,
+    "194": 1.0,
+    "195": 1.0,
+    "196": 1.0,
+    "197": 1.0,
+    "198": 1.0,
+    "199": 1.0,
+    "200": 1.0,
+    "201": 1.0,
+    "202": 1.0,
+    "203": 1.0,
+    "204": 1.0,
+    "205": 1.0,
+    "206": 1.0,
+    "207": 1.0,
+    "208": 1.0,
+    "209": 1.0,
+    "210": 1.0,
+    "211": 1.0,
+    "212": 1.0,
+    "213": 1.0,
+    "214": 1.0,
+    "215": 1.0,
+    "216": 1.0,
+    "217": 1.0,
+    "218": 1.0,
+    "219": 1.0,
+    "220": 1.0,
+    "221": 1.0,
+    "222": 1.0,
+    "223": 1.0,
+    "224": 1.0,
+    "225": 1.0,
+    "226": 1.0,
+    "227": 1.0,
+    "228": 1.0,
+    "229": 1.0,
+    "230": 1.0,
+    "231": 1.0,
+    "232": 1.0,
+    "233": 1.0,
+    "234": 1.0,
+    "235": 1.0,
+    "236": 1.0,
+    "237": 1.0,
+    "238": 1.0,
+    "239": 1.0,
+    "240": 1.0,
+    "241": 1.0,
+    "242": 1.0,
+    "243": 1.0,
+    "244": 1.0,
+    "245": 1.0,
+    "246": 1.0,
+    "247": 1.0,
+    "248": 1.0,
+    "249": 1.0,
+    "250": 1.0,
+    "251": 1.0,
+    "252": 1.0,
+    "253": 1.0,
+    "254": 1.0,
+    "255": 1.0,
+    "256": 1.0,
+    "257": 1.0,
+    "258": 1.0,
+    "259": 1.0,
+    "260": 1.0,
+    "261": 1.0,
+    "262": 1.0,
+    "263": 1.0,
+    "264": 1.0,
+    "265": 1.0,
+    "266": 1.0,
+    "267": 1.0,
+    "268": 1.0,
+    "269": 1.0,
+    "270": 1.0,
+    "271": 1.0,
+    "272": 1.0,
+    "273": 1.0,
+    "274": 1.0,
+    "275": 1.0,
+    "276": 1.0,
+    "277": 1.0,
+    "278": 1.0,
+    "279": 1.0,
+    "280": 1.0,
+    "281": 1.0,
+    "282": 1.0,
+    "283": 1.0,
+    "284": 1.0,
+    "285": 1.0,
+    "286": 1.0,
+    "287": 1.0,
+    "288": 1.0,
+    "289": 1.0,
+    "290": 1.0,
+    "291": 1.0,
+    "292": 1.0,
+    "293": 1.0,
+    "294": 1.0,
+    "295": 1.0,
+    "296": 1.0,
+    "297": 1.0,
+    "298": 1.0,
+    "299": 1.0,
+    "300": 1.0,
+    "301": 1.0,
+    "302": 1.0,
+    "303": 1.0,
+    "304": 1.0,
+    "305": 1.0,
+    "306": 1.0,
+    "307": 1.0,
+    "308": 1.0,
+    "309": 1.0,
+    "310": 1.0,
+    "311": 1.0,
+    "312": 1.0,
+    "313": 1.0,
+    "314": 1.0,
+    "315": 1.0,
+    "316": 1.0,
+    "317": 1.0,
+    "318": 1.0,
+    "319": 1.0,
+    "320": 1.0,
+    "321": 1.0,
+    "322": 1.0,
+    "323": 1.0,
+    "324": 1.0,
+    "325": 1.0,
+    "326": 1.0,
+    "327": 1.0,
+    "328": 1.0,
+    "329": 1.0,
+    "330": 1.0,
+    "331": 1.0,
+    "332": 1.0,
+    "333": 1.0,
+    "334": 1.0,
+    "335": 1.0
+  },
+  "gods": [
+    {
+      "id": "markdown_sama_en_3487_ver1_sa_ccr",
+      "label": "Standardized Approach for CCR (SA-CCR)",
+      "degree": 17
+    },
+    {
+      "id": "markdown_sama_en_3487_ver1_standardized_approach",
+      "label": "Standardized Approach",
+      "degree": 14
+    },
+    {
+      "id": "markdown_sama_en_3487_ver1_drc",
+      "label": "Default Risk Capital (DRC) Requirement",
+      "degree": 14
+    },
+    {
+      "id": "markdown_sama_en_3487_ver1_credit_risk_reqs",
+      "label": "Minimum Capital Requirements for Credit Risk",
+      "degree": 14
+    },
+    {
+      "id": "markdown_sama_en_3709_ver1_bcm_framework",
+      "label": "Business Continuity Management Framework",
+      "degree": 14
+    },
+    {
+      "id": "markdown_sama_en_4234_ver1_ov1",
+      "label": "Template OV1: Overview of RWA",
+      "degree": 14
+    },
+    {
+      "id": "markdown_sama_en_3487_ver1_irb_approach",
+      "label": "IRB Approach",
+      "degree": 13
+    },
+    {
+      "id": "concept_finance_companies_control_law",
+      "label": "Finance Companies Control Law (M/51)",
+      "degree": 12
+    },
+    {
+      "id": "markdown_sama_en_3502_ver1_sec_irba",
+      "label": "Securitization Internal Ratings-Based Approach (SEC-IRBA)",
+      "degree": 11
+    },
+    {
+      "id": "markdown_sama_en_3837_ver1_csf",
+      "label": "Cyber Security Framework (CSF)",
+      "degree": 11
+    }
+  ],
+  "surprises": [
+    {
+      "source": "Targeted Financial Sanctions Rules (Copy)",
+      "target": "Targeted Financial Sanctions Rules",
+      "source_files": [
+        "markdown/SAMA_EN_10668_VER1.md",
+        "markdown/SAMA_EN_10667_VER1.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; semantically similar concepts with no structural link; peripheral node `Targeted Financial Sanctions Rules (Copy)` unexpectedly reaches hub `Targeted Financial Sanctions Rules`"
+    },
+    {
+      "source": "Due Diligence Measures",
+      "target": "KYC Principle",
+      "source_files": [
+        "markdown/SAMA_EN_1704_VER1.md",
+        "markdown/SAMA_EN_1644_VER1.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "conceptually_related_to",
+      "why": "inferred connection - not explicitly stated in source; bridges separate communities; peripheral node `KYC Principle` unexpectedly reaches hub `Due Diligence Measures`"
+    },
+    {
+      "source": "Look-Through Approach for Funds",
+      "target": "Equity Investment in Funds LTA Example",
+      "source_files": [
+        "markdown/SAMA_EN_3553_VER1.md",
+        "markdown/SAMA_EN_3502_VER1.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; bridges separate communities; semantically similar concepts with no structural link"
+    },
+    {
+      "source": "Cyber Security Operations and Technology",
+      "target": "Cyber Security Operations and Technology Domain",
+      "source_files": [
+        "markdown/SAMA_EN_3726_VER1.md",
+        "markdown/SAMA_EN_3837_VER1.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; semantically similar concepts with no structural link; peripheral node `Cyber Security Operations and Technology` unexpectedly reaches hub `Cyber Security Operations and Technology Domain`"
+    },
+    {
+      "source": "Consumer Financing Regulations",
+      "target": "Regulations for Consumer Financing",
+      "source_files": [
+        "markdown/SAMA_EN_5448_VER1.md",
+        "markdown/SAMA_EN_5491_VER1.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; semantically similar concepts with no structural link; peripheral node `Consumer Financing Regulations` unexpectedly reaches hub `Regulations for Consumer Financing`"
+    }
+  ],
+  "questions": [
+    {
+      "type": "ambiguous_edge",
+      "question": "What is the exact relationship between `Assets and Liabilities Reporting Categories` and `Weighted Denominator Calculation`?",
+      "why": "Edge tagged AMBIGUOUS (relation: shares_data_with) - confidence is low."
+    },
+    {
+      "type": "ambiguous_edge",
+      "question": "What is the exact relationship between `CCR Stress Testing Program` and `Derivative Exposures (Leverage Ratio)`?",
+      "why": "Edge tagged AMBIGUOUS (relation: references) - confidence is low."
+    },
+    {
+      "type": "ambiguous_edge",
+      "question": "What is the exact relationship between `Prohibition on Using SAMA Logo` and `Banking Control Law (M/5)`?",
+      "why": "Edge tagged AMBIGUOUS (relation: conceptually_related_to) - confidence is low."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `Internal Models Method (IMM)` connect `SA-CCR Derivative Add-ons` to `Credit Risk & CCP Capital`, `Leverage Ratio Exposures`, `SA-CCR & CVA Framework`, `Market Risk Backtesting`, `Counterparty Credit Risk Approaches`?",
+      "why": "High betweenness centrality (0.029) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `Effective Expected Positive Exposure (Effective EPE)` connect `SA-CCR Derivative Add-ons` to `CCP Exposure Calculation`, `CCR & CVA Capital Requirements`?",
+      "why": "High betweenness centrality (0.027) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `Minimum Capital Requirements for Credit Risk` connect `Credit Risk & CCP Capital` to `Default Risk Capital`, `SA-CCR Derivative Add-ons`, `Market Risk Sensitivities`, `SA-CCR & CVA Framework`, `Standardized Credit Risk Approach`, `Market Risk Backtesting`, `Counterparty Credit Risk Approaches`?",
+      "why": "High betweenness centrality (0.027) - this node is a cross-community bridge."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 2 inferred relationships involving `Minimum Capital Requirements for Credit Risk` (e.g. with `SAMA Basel Framework` and `Minimum Haircut Floors for SFTs`) actually correct?",
+      "why": "`Minimum Capital Requirements for Credit Risk` has 2 INFERRED edges - model-reasoned connections that need verification."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+
+# Logs / local
+*.log
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+
+# Optional large local OCR data (keep if you want it versioned)
+# tools/tessdata/
+
+# Rulebook scanner downloads (large PDFs; manifest in reports/rulebook/)
+scanner-sama-docs/*.pdf

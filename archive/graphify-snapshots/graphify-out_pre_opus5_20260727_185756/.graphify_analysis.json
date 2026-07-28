@@ -1,0 +1,428 @@
+{
+  "communities": {
+    "0": [
+      "markdown_sama_en_1644_ver1_foreign_investors",
+      "markdown_sama_en_1644_ver1_gcc_companies",
+      "markdown_sama_en_1644_ver1_kyc_principle",
+      "markdown_sama_en_1644_ver1_liquidation_accounts",
+      "markdown_sama_en_1644_ver1_nonresident_juristic",
+      "markdown_sama_en_1704_ver1_aml_law",
+      "markdown_sama_en_1704_ver1_amlctf_compliance",
+      "markdown_sama_en_1704_ver1_amlctf_guide",
+      "markdown_sama_en_1704_ver1_amlctf_training",
+      "markdown_sama_en_1704_ver1_beneficial_owner",
+      "markdown_sama_en_1704_ver1_board_of_directors",
+      "markdown_sama_en_1704_ver1_correspondent_relationship",
+      "markdown_sama_en_1704_ver1_ctf_law",
+      "markdown_sama_en_1704_ver1_due_diligence",
+      "markdown_sama_en_1704_ver1_enhanced_due_diligence",
+      "markdown_sama_en_1704_ver1_fatf",
+      "markdown_sama_en_1704_ver1_independent_audit",
+      "markdown_sama_en_1704_ver1_monitoring_transactions",
+      "markdown_sama_en_1704_ver1_peps",
+      "markdown_sama_en_1704_ver1_record_keeping",
+      "markdown_sama_en_1704_ver1_recruitment_criteria",
+      "markdown_sama_en_1704_ver1_reporting_suspicious",
+      "markdown_sama_en_1704_ver1_risk_assessment",
+      "markdown_sama_en_1704_ver1_risk_based_approach",
+      "markdown_sama_en_1704_ver1_safiu",
+      "markdown_sama_en_1704_ver1_sama",
+      "markdown_sama_en_1704_ver1_senior_management",
+      "markdown_sama_en_1704_ver1_simplified_due_diligence",
+      "markdown_sama_en_1704_ver1_third_party_reliance",
+      "markdown_sama_en_1704_ver1_wire_transfer"
+    ],
+    "1": [
+      "markdown_sama_en_1644_ver1_account_closure",
+      "markdown_sama_en_1644_ver1_account_operation_rules",
+      "markdown_sama_en_1644_ver1_bank_accounts_rules",
+      "markdown_sama_en_1644_ver1_cash_deposit_controls",
+      "markdown_sama_en_1644_ver1_clearance_accounts",
+      "markdown_sama_en_1644_ver1_compliance_department",
+      "markdown_sama_en_1644_ver1_cooperative_associations",
+      "markdown_sama_en_1644_ver1_definitions",
+      "markdown_sama_en_1644_ver1_disclosure_enforcement",
+      "markdown_sama_en_1644_ver1_dual_control",
+      "markdown_sama_en_1644_ver1_endowments_bequests",
+      "markdown_sama_en_1644_ver1_government_entities",
+      "markdown_sama_en_1644_ver1_hajj_organizer_account",
+      "markdown_sama_en_1644_ver1_mhrsd",
+      "markdown_sama_en_1644_ver1_ministry_hajj_umrah",
+      "markdown_sama_en_1644_ver1_multilateral_orgs",
+      "markdown_sama_en_1644_ver1_pilgrim_affairs_account",
+      "markdown_sama_en_1644_ver1_private_associations",
+      "markdown_sama_en_1644_ver1_private_foundations",
+      "markdown_sama_en_1644_ver1_sama"
+    ],
+    "2": [
+      "markdown_sama_en_2217_ver1_authentication",
+      "markdown_sama_en_2217_ver1_cfgc",
+      "markdown_sama_en_2217_ver1_cyber_security_framework",
+      "markdown_sama_en_2217_ver1_detect",
+      "markdown_sama_en_2217_ver1_due_diligence",
+      "markdown_sama_en_2217_ver1_framework",
+      "markdown_sama_en_2217_ver1_fraud_detection_systems",
+      "markdown_sama_en_2217_ver1_fraud_response_plan",
+      "markdown_sama_en_2217_ver1_fraud_risk_assessment",
+      "markdown_sama_en_2217_ver1_governance",
+      "markdown_sama_en_2217_ver1_intelligence_monitoring",
+      "markdown_sama_en_2217_ver1_maturity_model",
+      "markdown_sama_en_2217_ver1_prevent",
+      "markdown_sama_en_2217_ver1_respond",
+      "markdown_sama_en_2217_ver1_risk_appetite",
+      "markdown_sama_en_2217_ver1_sama",
+      "markdown_sama_en_2217_ver1_sectorial_anti_fraud_committee",
+      "markdown_sama_en_4830_ver1_preauth_fraud",
+      "markdown_sama_en_4833_ver1_identity_verification",
+      "markdown_sama_en_4833_ver1_tahaqaq"
+    ],
+    "3": [
+      "markdown_sama_en_6523_ver1_amlctf_requirements",
+      "markdown_sama_en_6523_ver1_bnpl_company",
+      "markdown_sama_en_6523_ver1_bnpl_rules",
+      "markdown_sama_en_6523_ver1_consumer_due_diligence",
+      "markdown_sama_en_6523_ver1_credit_info_registration",
+      "markdown_sama_en_6523_ver1_finance_companies_control_law",
+      "markdown_sama_en_791_ver1_aml_law",
+      "markdown_sama_en_791_ver1_confiscation",
+      "markdown_sama_en_791_ver1_due_diligence",
+      "markdown_sama_en_791_ver1_financial_intelligence_directorate",
+      "markdown_sama_en_791_ver1_predicate_offense",
+      "markdown_sama_en_791_ver1_supervisory_authority",
+      "markdown_sama_en_853_ver1_ctf_law",
+      "markdown_sama_en_853_ver1_financial_intelligence_directorate",
+      "markdown_sama_en_853_ver1_permanent_committee",
+      "markdown_sama_en_853_ver1_preventive_measures",
+      "markdown_sama_en_853_ver1_terrorism_financing_crime"
+    ],
+    "4": [
+      "markdown_document3_accredited_valuer",
+      "markdown_document3_amendment_of_rights",
+      "markdown_document3_asset_management_entity",
+      "markdown_document3_capital_market_authority",
+      "markdown_document3_competent_authority",
+      "markdown_document3_council_economic_development",
+      "markdown_document3_financial_group",
+      "markdown_document3_recovery_plan",
+      "markdown_document3_resolution_funds",
+      "markdown_document3_resolution_plan",
+      "markdown_document3_resolution_procedures",
+      "markdown_document3_sale_of_sifi",
+      "markdown_document3_saudi_central_bank",
+      "markdown_document3_sifi",
+      "markdown_document3_transitional_entity"
+    ],
+    "5": [
+      "markdown_document2_committee_disputes",
+      "markdown_document2_consumer",
+      "markdown_document2_consumer_consent",
+      "markdown_document2_credit_information_company",
+      "markdown_document2_credit_information_law",
+      "markdown_document2_credit_record",
+      "markdown_document2_implementing_regulations",
+      "markdown_document2_license",
+      "markdown_document2_member",
+      "markdown_document2_membership_agreement",
+      "markdown_document2_negative_decision",
+      "markdown_document2_negative_information",
+      "markdown_document2_objection_procedure",
+      "markdown_document2_sama"
+    ],
+    "6": [
+      "markdown_sama_en_1430_ver1_emoney_company",
+      "markdown_sama_en_1430_ver1_initial_capital",
+      "markdown_sama_en_1430_ver1_ongoing_capital",
+      "markdown_sama_en_1430_ver1_safeguarded_funds",
+      "markdown_sama_en_1430_ver1_small_payment_company",
+      "markdown_sama_en_1644_ver1_crowdfunding_collection_account",
+      "markdown_sama_en_1644_ver1_escrow_account",
+      "markdown_sama_en_1644_ver1_general_opening_instructions",
+      "markdown_sama_en_1644_ver1_juristic_persons",
+      "markdown_sama_en_1644_ver1_kyc_aml",
+      "markdown_sama_en_1644_ver1_natural_persons",
+      "markdown_sama_en_1644_ver1_payment_company_collection_account",
+      "markdown_sama_en_1644_ver1_remote_opening",
+      "markdown_sama_en_1644_ver1_updating_account_data"
+    ],
+    "7": [
+      "markdown_document_competent_authority",
+      "markdown_document_controller",
+      "markdown_document_credit_data",
+      "markdown_document_data_subject",
+      "markdown_document_pdpl",
+      "markdown_document_processor",
+      "markdown_document_saudi_central_bank",
+      "markdown_sama_en_961_ver1_credit_information_company",
+      "markdown_sama_en_961_ver1_credit_information_law",
+      "markdown_sama_en_961_ver1_credit_record",
+      "markdown_sama_en_961_ver1_sama"
+    ],
+    "8": [
+      "markdown_sama_en_5696_ver1_aml_law_ref",
+      "markdown_sama_en_5696_ver1_banking_control_law_ref",
+      "markdown_sama_en_5696_ver1_financial_fraud_guide",
+      "markdown_sama_en_5696_ver1_fraud_unit",
+      "markdown_sama_en_5696_ver1_governance",
+      "markdown_sama_en_8725_ver1_payment_services_rules",
+      "markdown_sama_en_8725_ver1_pos_kyc_circular",
+      "markdown_sama_en_996_ver1_bank",
+      "markdown_sama_en_996_ver1_banking_control_law",
+      "markdown_sama_en_996_ver1_licensing",
+      "markdown_sama_en_996_ver1_sama"
+    ],
+    "9": [
+      "markdown_sama_en_10912_ver1",
+      "markdown_sama_en_10959_ver1",
+      "markdown_sama_en_11005_ver1",
+      "markdown_sama_en_11104_ver1",
+      "markdown_sama_en_1195_ver1",
+      "markdown_sama_en_132_ver1_0",
+      "markdown_sama_en_1428_ver1",
+      "markdown_sama_en_1429_ver1",
+      "markdown_sama_en_1430_ver1"
+    ],
+    "10": [
+      "markdown_sama_ar_10698_ver1_0",
+      "markdown_sama_en_1023_ver1",
+      "markdown_sama_en_1023_ver1_capital_market_law",
+      "markdown_sama_en_1023_ver1_companies_law",
+      "markdown_sama_en_10888_ver1",
+      "markdown_sama_en_10888_ver1_bnpl_rules"
+    ],
+    "11": [
+      "markdown_sama_en_10667_ver1",
+      "markdown_sama_en_10667_ver1_aml_ctf_guide",
+      "markdown_sama_en_10667_ver1_aml_law",
+      "markdown_sama_en_10667_ver1_ctf_law",
+      "markdown_sama_en_10668_ver1",
+      "markdown_sama_en_10911_ver1"
+    ],
+    "12": [
+      "markdown_sama_en_1430_ver1_complaints_disputes",
+      "markdown_sama_en_1430_ver1_licensee_change_notification",
+      "markdown_sama_en_1430_ver1_open_banking",
+      "markdown_sama_en_1430_ver1_payment_order_execution",
+      "markdown_sama_en_1430_ver1_refund_rights",
+      "markdown_sama_en_1430_ver1_unauthorized_payment_liability"
+    ],
+    "13": [
+      "markdown_sama_en_1430_ver1_psp_licensing",
+      "markdown_sama_en_1644_ver1_electronic_record",
+      "markdown_sama_en_1644_ver1_freezing_accounts",
+      "markdown_sama_en_1644_ver1_inoperative_accounts",
+      "markdown_sama_en_1644_ver1_prepaid_services"
+    ],
+    "14": [
+      "markdown_sama_en_10529_ver1",
+      "markdown_sama_en_10530_ver1",
+      "markdown_sama_en_10530_ver1_anti_fraud_rules_finance",
+      "markdown_sama_en_10530_ver1_counter_fraud_framework"
+    ],
+    "15": [
+      "markdown_sama_en_1430_ver1_cpmi_iosco",
+      "markdown_sama_en_1430_ver1_important_payment_systems",
+      "markdown_sama_en_1430_ver1_pfmi",
+      "markdown_sama_en_1430_ver1_settlement_finality"
+    ],
+    "16": [
+      "markdown_document3_sifi_implementing_regulations",
+      "markdown_document3_sifi_law"
+    ],
+    "17": [
+      "markdown_sama_en_1430_ver1_customer_protection",
+      "markdown_sama_en_1430_ver1_framework_contract"
+    ],
+    "18": [
+      "markdown_sama_en_1430_ver1_sama",
+      "markdown_sama_en_1430_ver1_supervision_enforcement"
+    ],
+    "19": [
+      "markdown_sama_en_2082_ver1_debt_purchase",
+      "markdown_sama_en_2082_ver1_sarie"
+    ],
+    "20": [
+      "markdown_sama_en_1430_ver1_controller_register"
+    ],
+    "21": [
+      "markdown_sama_en_1430_ver1_financial_inclusion"
+    ],
+    "22": [
+      "markdown_sama_en_1430_ver1_limited_network"
+    ],
+    "23": [
+      "markdown_sama_en_1430_ver1_professional_indemnity_insurance"
+    ]
+  },
+  "cohesion": {
+    "0": 0.12413793103448276,
+    "1": 0.1368421052631579,
+    "2": 0.12105263157894737,
+    "3": 0.1323529411764706,
+    "4": 0.14285714285714285,
+    "5": 0.15384615384615385,
+    "6": 0.14285714285714285,
+    "7": 0.23636363636363636,
+    "8": 0.21818181818181817,
+    "9": 0.3055555555555556,
+    "10": 0.4,
+    "11": 0.6,
+    "12": 0.3333333333333333,
+    "13": 0.4,
+    "14": 0.6666666666666666,
+    "15": 0.5,
+    "16": 1.0,
+    "17": 1.0,
+    "18": 1.0,
+    "19": 1.0,
+    "20": 1.0,
+    "21": 1.0,
+    "22": 1.0,
+    "23": 1.0
+  },
+  "gods": [
+    {
+      "id": "markdown_sama_en_1704_ver1_aml_law",
+      "label": "Anti-Money Laundering Law",
+      "degree": 15
+    },
+    {
+      "id": "markdown_sama_en_1644_ver1_sama",
+      "label": "SAMA (Saudi Central Bank)",
+      "degree": 11
+    },
+    {
+      "id": "markdown_sama_en_2217_ver1_framework",
+      "label": "Counter-Fraud Framework",
+      "degree": 8
+    },
+    {
+      "id": "markdown_sama_en_791_ver1_aml_law",
+      "label": "Anti-Money Laundering Law",
+      "degree": 8
+    },
+    {
+      "id": "markdown_document3_competent_authority",
+      "label": "Competent Authority",
+      "degree": 7
+    },
+    {
+      "id": "markdown_sama_en_1428_ver1",
+      "label": "Implementing Regulation to the AML Law",
+      "degree": 6
+    },
+    {
+      "id": "markdown_sama_en_1704_ver1_due_diligence",
+      "label": "Due Diligence Measures",
+      "degree": 6
+    },
+    {
+      "id": "markdown_sama_en_1704_ver1_monitoring_transactions",
+      "label": "Monitoring of Transactions and Activities",
+      "degree": 6
+    },
+    {
+      "id": "markdown_sama_en_2217_ver1_prevent",
+      "label": "Prevent Domain",
+      "degree": 6
+    },
+    {
+      "id": "markdown_sama_en_853_ver1_ctf_law",
+      "label": "Law on Combating the Financing of Terrorism",
+      "degree": 6
+    }
+  ],
+  "surprises": [
+    {
+      "source": "Anti-Money Laundering Law (referenced)",
+      "target": "Anti-Money Laundering Law",
+      "source_files": [
+        "markdown/SAMA_EN_5696_VER1.md",
+        "markdown/SAMA_EN_791_VER1.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "references",
+      "why": "inferred connection - not explicitly stated in source; bridges separate communities; peripheral node `Anti-Money Laundering Law (referenced)` unexpectedly reaches hub `Anti-Money Laundering Law`"
+    },
+    {
+      "source": "Credit Information Registration",
+      "target": "Credit Information Law",
+      "source_files": [
+        "markdown/SAMA_EN_6523_VER1.md",
+        "markdown/SAMA_EN_961_VER1.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "references",
+      "why": "inferred connection - not explicitly stated in source; bridges separate communities; peripheral node `Credit Information Registration` unexpectedly reaches hub `Credit Information Law`"
+    },
+    {
+      "source": "SAMA (Monetary Authority)",
+      "target": "SAMA (Saudi Central Bank)",
+      "source_files": [
+        "markdown/SAMA_EN_996_VER1.md",
+        "markdown/SAMA_EN_961_VER1.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; bridges separate communities; semantically similar concepts with no structural link"
+    },
+    {
+      "source": "Saudi Central Bank",
+      "target": "Saudi Central Bank (SAMA)",
+      "source_files": [
+        "markdown/document3.md",
+        "markdown/document2.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; bridges separate communities; semantically similar concepts with no structural link"
+    },
+    {
+      "source": "Counter-Fraud Fundamental Requirements (10530)",
+      "target": "Counter-Fraud Fundamental Requirements Circular (10529)",
+      "source_files": [
+        "markdown/SAMA_EN_10530_VER1.md",
+        "markdown/SAMA_EN_10529_VER1.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; semantically similar concepts with no structural link"
+    }
+  ],
+  "questions": [
+    {
+      "type": "ambiguous_edge",
+      "question": "What is the exact relationship between `Business Risk Assessment Guide (AML/CFT/PF)` and `Law of Payments and Payment Services`?",
+      "why": "Edge tagged AMBIGUOUS (relation: conceptually_related_to) - confidence is low."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `Anti-Money Laundering Law` connect `AML Due Diligence & Accounts` to `Counter-Fraud Framework`?",
+      "why": "High betweenness centrality (0.068) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `SAMA (Saudi Central Bank)` connect `Bank Account Operation Rules` to `AML Due Diligence & Accounts`?",
+      "why": "High betweenness centrality (0.057) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `AML/CTF Guide` connect `AML Due Diligence & Accounts` to `Bank Account Operation Rules`?",
+      "why": "High betweenness centrality (0.056) - this node is a cross-community bridge."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 2 inferred relationships involving `Anti-Money Laundering Law` (e.g. with `Anti-Money Laundering Law (referenced)` and `AML/CTF Compliance Requirements`) actually correct?",
+      "why": "`Anti-Money Laundering Law` has 2 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `Counter-Fraud Framework (CFF)`, `Companies Law`, `BNPL Companies Regulation Rules` to the rest of the system?",
+      "why": "75 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `AML Due Diligence & Accounts` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.12413793103448276 - nodes in this community are weakly interconnected."
+    }
+  ]
+}

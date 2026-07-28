@@ -1,0 +1,736 @@
+# Rulebook acquisition report
+
+> 2026-07-27 14:08 UTC
+> Elapsed: 193.2s
+> Output folder: `scanner-sama-docs/`
+
+## Scan
+
+- Tree pages scanned: 1748
+- Circular index pages: 9
+- Circular detail pages: 324
+- Circular links discovered: 324
+- Circular skipped (not In-Force): 66
+- Pages with ≥1 PDF: 1551
+- Unique PDFs in manifest: 389
+
+## Fetch
+
+- Downloaded this run: 304
+- Already on disk (skipped): 84
+- Failed: 1
+
+## vs local corpus
+
+- Stems in manifest: 366
+- Also in corpus/markdown: 28
+- Also in legacy SAMA_DOCS: 0
+- New stems (not in corpus): 338
+
+## By source kind
+
+- `circular_page`: 218
+- `tree`: 171
+
+## All downloaded files (this run)
+
+- `Fit and Proper Form.pdf` — Requirements for Appointments to Senior Positions (tree)
+- `GDBC-000042007671-1442H.pdf` — Chapter 3 Senior Positions that Require SAMA’s Non-objection (tree)
+- `GDBC-381000095091-1438H.pdf` — Regulations for Consumer Financing (tree)
+- `Report on Total Remunerations for the Board of Directors and Committees.pdf` — 45048798 (circular_page)
+- `SAMA CIRCULAR NO (GDBC-361000009335-1436H).pdf` — Liquidity Coverage Ratio (LCR) (tree)
+- `SAMA circular No (GDBC-341000107020-1434H)EN.pdf` — Liquidity Coverage Ratio (LCR) (tree)
+- `SAMA_EN_10175_VER1.pdf` — Criteria for Systemically Important Payment Systems in Kingdom of Saud (circular_page)
+- `SAMA_EN_10211_VER1.pdf` — 46005535 (circular_page)
+- `SAMA_EN_10212_VER1.pdf` — 46013826 (circular_page)
+- `SAMA_EN_10220_VER1.pdf` — Prohibition on Using Social Media Applications for Exchanging Official (circular_page)
+- `SAMA_EN_10227_VER1.pdf` — 42064776 (circular_page)
+- `SAMA_EN_10241_VER1.pdf` — 46015180 (circular_page)
+- `SAMA_EN_10244_VER1.pdf` — 46023985 (circular_page)
+- `SAMA_EN_10245_VER1.pdf` — 46004436 (circular_page)
+- `SAMA_EN_10319_VER1.pdf` — 42046077 (circular_page)
+- `SAMA_EN_10320_VER1.pdf` — 46004465 (circular_page)
+- `SAMA_EN_10322_VER1.pdf` — The Primary User of the Electronic Services Portal (E-services Portal, (circular_page)
+- `SAMA_EN_10372_VER1.pdf` — 106885359 (circular_page)
+- `SAMA_EN_10394_VER1.pdf` — 106887050 (circular_page)
+- `SAMA_EN_10395_VER1.pdf` — 46043115 (circular_page)
+- `SAMA_EN_10397_VER.pdf` — 106887827 (circular_page)
+- `SAMA_EN_10398_VER1.pdf` — 106887820 (circular_page)
+- `SAMA_EN_10399_VER1.pdf` — 106888035 (circular_page)
+- `SAMA_EN_10417_VER1.pdf` — 106889333 (circular_page)
+- `SAMA_EN_10419_VER1.pdf` — 106889515 (circular_page)
+- `SAMA_EN_10426_VER1.pdf` — 106894236 (circular_page)
+- `SAMA_EN_10427_VER1.pdf` — 106896152 (circular_page)
+- `SAMA_EN_10464_VER1.pdf` — Update of the Countercyclical Capital Buffer (CCyB) Rate (tree)
+- `SAMA_EN_10465_VER1.pdf` — Chapter One General Provisions (tree)
+- `SAMA_EN_10528_VER.pdf` — 106911157 (circular_page)
+- `SAMA_EN_10529_VER1.pdf` — 106897184 (circular_page)
+- `SAMA_EN_10555_VER.pdf` — 106908605 (circular_page)
+- `SAMA_EN_10556_VER.pdf` — Launch of the First Phase of the Complaint Management System (tree)
+- `SAMA_EN_10559_VER1.pdf` — 46037516 (circular_page)
+- `SAMA_EN_10560_VER1.pdf` — 106884664 (circular_page)
+- `SAMA_EN_10575_VER1.pdf` — 472017402 (circular_page)
+- `SAMA_EN_10577_VER1.pdf` — Risk Management Framework for Shari’ah Compliant Banking (tree)
+- `SAMA_EN_10590_VER1.pdf` — 472020433 (circular_page)
+- `SAMA_EN_10592_VER1.pdf` — 472021766 (circular_page)
+- `SAMA_EN_10621_VER1.pdf` — Update of the Standardised Interest Rate Shock Scenarios (tree)
+- `SAMA_EN_10623_VER1.pdf` — 472023282 (circular_page)
+- `SAMA_EN_10640_VER1.pdf` — 472025627 (circular_page)
+- `SAMA_EN_10646_VER1.pdf` — 472033844 (circular_page)
+- `SAMA_EN_10667_VER1.pdf` — 472035766 (circular_page)
+- `SAMA_EN_10681_VER1.pdf` — Article 9 (tree)
+- `SAMA_EN_10697_VER1.pdf` — 472038000 (circular_page)
+- `SAMA_EN_10698_VER1.pdf` — Implementing Regulation of the Finance Companies Control Law (tree)
+- `SAMA_EN_10721_VER1.pdf` — Article 1: Definitions (tree)
+- `SAMA_EN_10831_VER1.pdf` — 472038006 (circular_page)
+- `SAMA_EN_10832_VER1.pdf` — 472038007 (circular_page)
+- `SAMA_EN_10865_VER1.pdf` — 472038005 (circular_page)
+- `SAMA_EN_10866_VER1.pdf` — 472038084 (circular_page)
+- `SAMA_EN_10888_VER1.pdf` — 472038475 (circular_page)
+- `SAMA_EN_10908_VER1.pdf` — 472039028 (circular_page)
+- `SAMA_EN_10910_VER1.pdf` — 472039139 (circular_page)
+- `SAMA_EN_10911_VER1.pdf` — 472039915 (circular_page)
+- `SAMA_EN_10928_VER1.pdf` — Oversight Framework on Payment Systems and their Operators (tree)
+- `SAMA_EN_10941_VER1.pdf` — 473028943 (circular_page)
+- `SAMA_EN_10944_VER1.pdf` — 472047083 (circular_page)
+- `SAMA_EN_10949_VER1.pdf` — 472047735 (circular_page)
+- `SAMA_EN_10950_VER1.pdf` — 472047719 (circular_page)
+- `SAMA_EN_10959_VER1.pdf` — 472047799 (circular_page)
+- `SAMA_EN_10964_VER1.pdf` — 472051974 (circular_page)
+- `SAMA_EN_10967_VER1.pdf` — 472055094 (circular_page)
+- `SAMA_EN_10968_VER1.pdf` — 472055832 (circular_page)
+- `SAMA_EN_10969_VER1.pdf` — 472056382 (circular_page)
+- `SAMA_EN_10971_VER1.pdf` — 472057596 (circular_page)
+- `SAMA_EN_10973_VER1.pdf` — 472057608 (circular_page)
+- `SAMA_EN_11005_VER1.pdf` — 472058161 (circular_page)
+- `SAMA_EN_11008_VER1.pdf` — 41068291 (circular_page)
+- `SAMA_EN_11009_VER1.pdf` — 46538/99 (circular_page)
+- `SAMA_EN_11010_VER1.pdf` — 44082976 (circular_page)
+- `SAMA_EN_11011_VER1.pdf` — 43083271 (circular_page)
+- `SAMA_EN_11012_VER1.pdf` — 450360390000 (circular_page)
+- `SAMA_EN_11015_VER1.pdf` — 44064343 (circular_page)
+- `SAMA_EN_11017_VER1.pdf` — 65338/99 (circular_page)
+- `SAMA_EN_11021_VER1.pdf` — 42081293 (circular_page)
+- `SAMA_EN_11022_VER1.pdf` — 43076917 (circular_page)
+- `SAMA_EN_11025_VER1.pdf` — 41039051 (circular_page)
+- `SAMA_EN_11026_VER1.pdf` — 722030000067 (circular_page)
+- `SAMA_EN_11027_VER1.pdf` — 43033273 (circular_page)
+- `SAMA_EN_11037_VER1.pdf` — 694270000149 (circular_page)
+- `SAMA_EN_11038_VER1.pdf` — 43065348 (circular_page)
+- `SAMA_EN_11039_VER1.pdf` — 562240000067 (circular_page)
+- `SAMA_EN_11043_VER1.pdf` — 46020562 (circular_page)
+- `SAMA_EN_11044_VER1.pdf` — 46020559 (circular_page)
+- `SAMA_EN_11045_VER1.pdf` — 42071901 (circular_page)
+- `SAMA_EN_11051_VER1.pdf` — 43028139 (circular_page)
+- `SAMA_EN_11054_VER1.pdf` — 43064977 (circular_page)
+- `SAMA_EN_11055_VER1.pdf` — 42022533 (circular_page)
+- `SAMA_EN_11056_VER1.pdf` — 43033200 (circular_page)
+- `SAMA_EN_11065_VER1.pdf` — 43023350 (circular_page)
+- `SAMA_EN_11067_VER1.pdf` — 42039135 (circular_page)
+- `SAMA_EN_11075_VER1.pdf` — 281000041965 (circular_page)
+- `SAMA_EN_11076_VER1.pdf` — 43067037 (circular_page)
+- `SAMA_EN_11078_VER1.pdf` — 45025707 (circular_page)
+- `SAMA_EN_11079_VER1_1.pdf` — 41061554 (circular_page)
+- `SAMA_EN_11081_VER1.pdf` — 42019124 (circular_page)
+- `SAMA_EN_11082_VER1.pdf` — 361000067859 (circular_page)
+- `SAMA_EN_11101_VER1.pdf` — 482004268 (circular_page)
+- `SAMA_EN_11104_VER1.pdf` — 482008022 (circular_page)
+- `SAMA_EN_123_VER1.pdf` — Article Eight (tree)
+- `SAMA_EN_132_VER1_0.pdf` — Implementing Regulations of the Law of Combating Terrorist Crimes and  (tree)
+- `SAMA_EN_1429_VER1.pdf` — Implementation Rules for Banking Control Law (tree)
+- `SAMA_EN_1607_VER1.pdf` — 000044081439 (circular_page)
+- `SAMA_EN_1608_VER1.pdf` — 000044075800 (circular_page)
+- `SAMA_EN_1611_VER1.pdf` — Consumer Financing Model Contract (tree)
+- `SAMA_EN_1642_VER1.pdf` — 000044039029 (circular_page)
+- `SAMA_EN_1647_VER1.pdf` — 000044028131 (circular_page)
+- `SAMA_EN_1648_VER1.pdf` — Creation and Regulation of the Statutory Reserve for Money changers (tree)
+- `SAMA_EN_1652_VER1.pdf` — 000044016457 (circular_page)
+- `SAMA_EN_1653_VER1.pdf` — 000044018254 (circular_page)
+- `SAMA_EN_1654_VER1.pdf` — 000044003844 (circular_page)
+- `SAMA_EN_1657_VER1.pdf` — 000043076847 (circular_page)
+- `SAMA_EN_1704_VER1.pdf` — B. Beneficial Owner (tree)
+- `SAMA_EN_1715_VER1.pdf` — Compliance with Relevant Laws, Regulations and Instructions (tree)
+- `SAMA_EN_1722_VER1.pdf` — Definitions (tree)
+- `SAMA_EN_1948_VER1.pdf` — Chapter I Definitions (tree)
+- `SAMA_EN_1949_VER1.pdf` — Chapter 1: Definitions (tree)
+- `SAMA_EN_1959_VER1.pdf` — 000043072290 (circular_page)
+- `SAMA_EN_1989_VER1.pdf` — Definitions (tree)
+- `SAMA_EN_2082_VER1.pdf` — Article One (tree)
+- `SAMA_EN_2125_VER1.pdf` — 000042078793 (circular_page)
+- `SAMA_EN_2126_VER1.pdf` — 000042075986 (circular_page)
+- `SAMA_EN_2274_VER1.pdf` — Article 1: Introduction (tree)
+- `SAMA_EN_2327_VER1.pdf` — I. Introduction (tree)
+- `SAMA_EN_2348_VER1.pdf` — I. Introduction (tree)
+- `SAMA_EN_2572_VER1.pdf` — 42047169 (circular_page)
+- `SAMA_EN_2675_VER1_0.pdf` — Chapter I: Definitions and General Provisions (tree)
+- `SAMA_EN_2757_VER1.pdf` — Element 1: Scope of Coverage – Instruments Subject to the Requirements (tree)
+- `SAMA_EN_2788_VER1.pdf` — SAMA’s General Guidance Concerning Amended LCR (tree)
+- `SAMA_EN_2864_VER1.pdf` — Definitions (tree)
+- `SAMA_EN_2875_VER1.pdf` — 000042027412 (circular_page)
+- `SAMA_EN_2879_VER1.pdf` — 000044043873 (circular_page)
+- `SAMA_EN_2880_VER1.pdf` — 000042027416 (circular_page)
+- `SAMA_EN_2883_VER1.pdf` — 000044037856 (circular_page)
+- `SAMA_EN_2884_VER1.pdf` — 000044033454 (circular_page)
+- `SAMA_EN_2885_VER1.pdf` — 000044029338 (circular_page)
+- `SAMA_EN_3080_VER1.pdf` — 000042013215 (circular_page)
+- `SAMA_EN_3154_VER1.pdf` — 000042011671 (circular_page)
+- `SAMA_EN_3165_VER1.pdf` — Regarding Digital signature for products of Finance companies, 4201167 (circular_page)
+- `SAMA_EN_3169_VER1.pdf` — 000042011687 (circular_page)
+- `SAMA_EN_3178_VER1.pdf` — 000042011690 (circular_page)
+- `SAMA_EN_3193_VER1.pdf` — 43103118 (circular_page)
+- `SAMA_EN_3214_VER1.pdf` — First: Introduction (tree)
+- `SAMA_EN_3223_VER1.pdf` — 000042005712 (circular_page)
+- `SAMA_EN_3243_VER1.pdf` — 000041061552 (circular_page)
+- `SAMA_EN_3244_VER1.pdf` — 000043075379 (circular_page)
+- `SAMA_EN_3245_VER1.pdf` — 000043071966 (circular_page)
+- `SAMA_EN_3246_VER1.pdf` — 000043069533 (circular_page)
+- `SAMA_EN_3276_VER1.pdf` — Interest Rates on Assets and Liabilities Reporting Guidelines (tree)
+- `SAMA_EN_3365_VER1_0.pdf` — 000043010538 (circular_page)
+- `SAMA_EN_3372_VER1.pdf` — Article 1: Definitions (tree)
+- `SAMA_EN_3417_VER1.pdf` — SAMA’s Specific Guidance to Complete Prudential Returns Concerning Ame (tree)
+- `SAMA_EN_3467_VER1.pdf` — Guidance Document Concerning Basel III: The Net Stable Funding Ratio ( (tree)
+- `SAMA_EN_3468_VER1.pdf` — A Framework for Dealing with Domestic Systemically Important Banks in  (tree)
+- `SAMA_EN_3490_VER1.pdf` — 332500000099 (circular_page)
+- `SAMA_EN_3517_VER1.pdf` — 718440000099 (circular_page)
+- `SAMA_EN_3519_VER1.pdf` — 639110000099 (circular_page)
+- `SAMA_EN_3521_VER1.pdf` — 618530000099 (circular_page)
+- `SAMA_EN_3522_VER1.pdf` — 611080000099 (circular_page)
+- `SAMA_EN_3623_VER1.pdf` — Basel III: The Liquidity Coverage Ratio and Liquidity Risk Monitoring  (tree)
+- `SAMA_EN_4128_VER1.pdf` — 150410000067 (circular_page)
+- `SAMA_EN_4437_VER1.pdf` — 230700000041 (circular_page)
+- `SAMA_EN_4721_VER1.pdf` — Governing Rules for Electronic Issuance and Authenticity Verification  (tree)
+- `SAMA_EN_4778_VER1.pdf` — 000043008132 (circular_page)
+- `SAMA_EN_4790_VER1.pdf` — 000043002199 (circular_page)
+- `SAMA_EN_4824_VER1.pdf` — 000042058651 (circular_page)
+- `SAMA_EN_4826_VER1.pdf` — 000042052701 (circular_page)
+- `SAMA_EN_4827_VER1.pdf` — 000042048729 (circular_page)
+- `SAMA_EN_4829_VER1.pdf` — 000042049450 (circular_page)
+- `SAMA_EN_4830_VER1.pdf` — 42045077 (circular_page)
+- `SAMA_EN_4833_VER1.pdf` — 000042031578 (circular_page)
+- `SAMA_EN_4834_VER1.pdf` — 000042032166 (circular_page)
+- `SAMA_EN_4838_VER1.pdf` — 42023876 (circular_page)
+- `SAMA_EN_4878_VER1.pdf` — Definitions (tree)
+- `SAMA_EN_4897_VER1.pdf` — 465440000099 (circular_page)
+- `SAMA_EN_4913_VER1.pdf` — 42009003 (circular_page)
+- `SAMA_EN_4923_VER1.pdf` — 42006511 (circular_page)
+- `SAMA_EN_4924_VER1.pdf` — The Unified Form for Responding to Complaints Received Through the “SA (tree)
+- `SAMA_EN_4929_VER1.pdf` — 41071602 (circular_page)
+- `SAMA_EN_4934_VER1.pdf` — 000041070501 (circular_page)
+- `SAMA_EN_4939_VER1.pdf` — 000041061973 (circular_page)
+- `SAMA_EN_4949_VER1.pdf` — 41059555 (circular_page)
+- `SAMA_EN_4957_VER1.pdf` — 41049697 (circular_page)
+- `SAMA_EN_4962_VER1.pdf` — Instructions for Publishing Sanctions (tree)
+- `SAMA_EN_4969_VER1.pdf` — Fifth: Technical Requirements (tree)
+- `SAMA_EN_4983_VER1.pdf` — 189100000041 (circular_page)
+- `SAMA_EN_4987_VER1.pdf` — 120500000067 (circular_page)
+- `SAMA_EN_5021_VER1.pdf` — 587280000067 (circular_page)
+- `SAMA_EN_5026_VER1.pdf` — 480070000067 (circular_page)
+- `SAMA_EN_5028_VER1.pdf` — 469110000099 (circular_page)
+- `SAMA_EN_5030_VER1.pdf` — 269480000067 (circular_page)
+- `SAMA_EN_5031_VER1.pdf` — 217550000041 (circular_page)
+- `SAMA_EN_5081_VER1.pdf` — Regulatory Sandbox FAQ (tree)
+- `SAMA_EN_5085_VER1.pdf` — Introduction (tree)
+- `SAMA_EN_5379_VER1.pdf` — 165700000099 (circular_page)
+- `SAMA_EN_5384_VER1.pdf` — 497530000041 (circular_page)
+- `SAMA_EN_5392_VER1.pdf` — 391000084474 (circular_page)
+- `SAMA_EN_5393_VER1.pdf` — 391000083185 (circular_page)
+- `SAMA_EN_5403_VER1.pdf` — 391000081077 (circular_page)
+- `SAMA_EN_5404_VER1.pdf` — 391000078943 (circular_page)
+- `SAMA_EN_5408_VER1.pdf` — 391000073369 (circular_page)
+- `SAMA_EN_5409_VER1.pdf` — 391000057611 (circular_page)
+- `SAMA_EN_5410_VER1.pdf` — 391000048362 (circular_page)
+- `SAMA_EN_5419_VER1.pdf` — Article 1: Definitions (tree)
+- `SAMA_EN_5425_VER1.pdf` — 371000016270 (circular_page)
+- `SAMA_EN_5437_VER1.pdf` — 361000156181 (circular_page)
+- `SAMA_EN_5438_VER1.pdf` — 361000115987 (circular_page)
+- `SAMA_EN_5441_VER1.pdf` — 361000107380 (circular_page)
+- `SAMA_EN_5448_VER1.pdf` — 361000091211 (circular_page)
+- `SAMA_EN_5452_VER1.pdf` — 361000068588 (circular_page)
+- `SAMA_EN_5454_VER1.pdf` — Provide SAMA with Quarterly Risk Reports, Audited Annual Financial Sta (tree)
+- `SAMA_EN_5455_VER1.pdf` — Start Date for Adopting the International Accounting Standards (tree)
+- `SAMA_EN_5464_VER1.pdf` — 381000089828 (circular_page)
+- `SAMA_EN_5465_VER1.pdf` — Provide SAMA with Annual and Quarterly Financial Statements and Annual (tree)
+- `SAMA_EN_5467_VER1.pdf` — 381000089830 (circular_page)
+- `SAMA_EN_5471_VER1.pdf` — 381000086288 (circular_page)
+- `SAMA_EN_5473_VER1.pdf` — 381000074831 (circular_page)
+- `SAMA_EN_5475_VER1_1.pdf` — 381000064902 (circular_page)
+- `SAMA_EN_5476_VER1.pdf` — 381000056756 (circular_page)
+- `SAMA_EN_5477_VER1.pdf` — 381000046352 (circular_page)
+- `SAMA_EN_5480_VER1.pdf` — Controls for Handling Banking Transaction Procedures (tree)
+- `SAMA_EN_5491_VER1.pdf` — Article 1: Definitions (tree)
+- `SAMA_EN_5513_VER1.pdf` — Mechanism for the Entry and Exit of Saudi and Foreign Currency via Kin (tree)
+- `SAMA_EN_5525_VER1.pdf` — 371000061185 (circular_page)
+- `SAMA_EN_5526_VER1.pdf` — Prudential Data Models (tree)
+- `SAMA_EN_5530_VER1.pdf` — Compliance with Employing Citizens and the Requirements for Contractin (tree)
+- `SAMA_EN_5594_VER1.pdf` — The Standard Contract Forms for Opening Current Bank Accounts for Indi (tree)
+- `SAMA_EN_5630_VER1.pdf` — Recommendations on the Law of Transporting Money (tree)
+- `SAMA_EN_5636_VER1.pdf` — Finance Contract Summary Form (tree)
+- `SAMA_EN_5645_VER1.pdf` — 341000069260 (circular_page)
+- `SAMA_EN_5708_VER1.pdf` — 391000079052 (circular_page)
+- `SAMA_EN_5709_VER1.pdf` — 391000070455 (circular_page)
+- `SAMA_EN_5712_VER1.pdf` — 391000088263 (circular_page)
+- `SAMA_EN_5765_VER1.pdf` — First: Introduction (tree)
+- `SAMA_EN_5783_VER1.pdf` — 410507260000 (circular_page)
+- `SAMA_EN_5838_VER1.pdf` — 410251740000 (circular_page)
+- `SAMA_EN_5840_VER1.pdf` — Supervisory Data Templates for Money Changers and Their Submission Thr (tree)
+- `SAMA_EN_5856_VER1.pdf` — 000042080755 (circular_page)
+- `SAMA_EN_5860_VER1.pdf` — 000044017957 (circular_page)
+- `SAMA_EN_5863_VER1.pdf` — 361000110001 (circular_page)
+- `SAMA_EN_5864_VER1.pdf` — 440661830000 (circular_page)
+- `SAMA_EN_5866_VER1.pdf` — 000044016668 (circular_page)
+- `SAMA_EN_5879_VER1.pdf` — License Application Guidelines for Applying for a License to Practice  (tree)
+- `SAMA_EN_5885_VER1.pdf` — Mortgage Finance Model Contract for Individuals in Murabaha and Ejarah (tree)
+- `SAMA_EN_5888_VER1.pdf` — Circular Re. Cyber Security Framework (tree)
+- `SAMA_EN_6306_VER1.pdf` — 465440000099 (circular_page)
+- `SAMA_EN_6314_VER1.pdf` — 43029603 (circular_page)
+- `SAMA_EN_6324_VER1.pdf` — Article Five: Responsibilities of the Board of Directors (tree)
+- `SAMA_EN_6398_VER1.pdf` — Responsibilities of the Head of the Contracts Register and the Registr (tree)
+- `SAMA_EN_6493_VER1.pdf` — Prohibition on Dealing with Representatives of Private Security Compan (tree)
+- `SAMA_EN_6523_VER1.pdf` — Article 1: Definitions (tree)
+- `SAMA_EN_6561_VER1.pdf` — Early Repayment (tree)
+- `SAMA_EN_6595_VER1.pdf` — 371000018717 (circular_page)
+- `SAMA_EN_6713_VER1.pdf` — 361000121911 (circular_page)
+- `SAMA_EN_6734_VER1.pdf` — Contract with Cash Transfer Companies and Using High-Specification Sec (tree)
+- `SAMA_EN_6738_VER1.pdf` — Prudential Treatment of Problem Assets (tree)
+- `SAMA_EN_6865_VER1.pdf` — 351000036574 (circular_page)
+- `SAMA_EN_7136_VER1.pdf` — 000041038534 (circular_page)
+- `SAMA_EN_7355_VER1.pdf` — 281000000287 (circular_page)
+- `SAMA_EN_8294_VER1.pdf` — Requirements for Appointments to Senior Positions (tree)
+- `SAMA_EN_8356_VER1.pdf` — 381000074519 (circular_page)
+- `SAMA_EN_8673_VER1.pdf` — Attachment (tree)
+- `SAMA_EN_8679_VER1.pdf` — Enhancements to the ICAAP Document (tree)
+- `SAMA_EN_8684_VER1.pdf` — Applicability of countercyclical Capital Buffer​ (CCyB) in Saudi Arabi (tree)
+- `SAMA_EN_8722_VER1.pdf` — Use the Local Tech Product Guide when Ordering Those Products (circular_page)
+- `SAMA_EN_8724_VER1.pdf` — 41061590 (circular_page)
+- `SAMA_EN_8725_VER1.pdf` — 42050337 (circular_page)
+- `SAMA_EN_8726_VER1.pdf` — 43006158 (circular_page)
+- `SAMA_EN_8727_VER1.pdf` — 440946210000 (circular_page)
+- `SAMA_EN_8729_VER1.pdf` — Enhance Electronic Payment (circular_page)
+- `SAMA_EN_8731_VER1.pdf` — 45040399 (circular_page)
+- `SAMA_EN_8732_VER1.pdf` — Compliance with the Updated Personal Data Protection System and its Im (circular_page)
+- `SAMA_EN_9068_VER1.pdf` — Sound Practices for Banks’ Interactions with Highly Leveraged Institut (tree)
+- `SAMA_EN_9381_VER1.pdf` — 5. Licensing Procedures (tree)
+- `SAMA_EN_9538_VER1.pdf` — General Rules for Savings Products in Banks (tree)
+- `SAMA_EN_961_VER1.pdf` — Article 1: Definitions (tree)
+- `SAMA_EN_9660_VER1.pdf` — QR Code Technology (circular_page)
+- `SAMA_EN_9662_VER1_0.pdf` — Compliance with Policies, Frameworks, Standards, and Regulations Relat (circular_page)
+- `SAMA_EN_9663_VER1.pdf` — Emphasize Prompt Communication with SMS Service Providers (circular_page)
+- `SAMA_EN_9665_VER1.pdf` — Key Elements of SMS Notifications for Newly Updated Mada Transactions (circular_page)
+- `SAMA_EN_9666_VER1.pdf` — Approval of the Companies' Memorandum of Association and its Amendment (circular_page)
+- `SAMA_EN_9667_VER1.pdf` — The Unified Pricing Model for Point-of-Sale and E-Commerce Services (circular_page)
+- `SAMA_EN_9668_VER1.pdf` — Challenges of the Payroll Management System on the Mudad Platform (circular_page)
+- `SAMA_EN_9669_VER1.pdf` — Data Cybersecurity Controls (circular_page)
+- `SAMA_EN_9670_VER1.pdf` — Lists of Deregistered Commercial Records (circular_page)
+- `SAMA_EN_9671_VER1.pdf` — The Procedures for Enforcing Judicial Decisions Issued Against Custome (circular_page)
+- `SAMA_EN_9672_VER1.pdf` — Regulation of the Special Integrated Logistics Zone (circular_page)
+- `SAMA_EN_9673_VER1.pdf` — Mechanism for Reporting Judicial Decisions Issued Against Certain Fina (circular_page)
+- `SAMA_EN_9799_VER1.pdf` — 558960000067 (circular_page)
+- `SAMA_EN_9809_VER1.pdf` — 000042011654 (circular_page)
+- `SAMA_EN_9934_VER1.pdf` — 000044009058 (circular_page)
+- `SAMA_RD 637_en.pdf` — Implementing Regulations of the Law of Combating Terrorist Crimes and  (tree)
+- `SAMA_RD M142_en.pdf` — Law on Combating the Financing of Terrorism (tree)
+- `إصدار وتحديث وتجديد معرّف الكيانات القانونية من خلال مؤسسة مالية.pdf` — 43029603 (circular_page)
+- `الدليل الإرشادي لاستخدام نظام البيانات الإشرافية_0.pdf` — Supervisory Data Templates for Money Changers and Their Submission Thr (tree)
+- `النموذج الربعي للعملات وبيانات أكبر العملاء والعملات المزورة وبيانات الموظفين.pdf` — Supervisory Data Templates for Money Changers and Their Submission Thr (tree)
+- `النموذج السنوي للبيانات التنظيمية.pdf` — Supervisory Data Templates for Money Changers and Their Submission Thr (tree)
+- `دليل الإخلاء في حالات الطوارئ للأشخاص ذوي الإعاقة.pdf` — 000043069533 (circular_page)
+- `قرار وزاري رقم 112203 تاريخ 18 06 1442.pdf` — 000042032166 (circular_page)
+- `نموذج  من شكل الإقامة المميزة السعودية.pdf` — 410507260000 (circular_page)
+- `نموذج البيانات الشهرية للمبيعات والمشتريات.pdf` — Supervisory Data Templates for Money Changers and Their Submission Thr (tree)
+- `نموذج المقارنة للقوائم المالية الربعية و السنوية.pdf` — Supervisory Data Templates for Money Changers and Their Submission Thr (tree)
+
+## All PDFs on disk (388 files)
+
+- `Fit and Proper Form.pdf`
+- `GDBC-000042007671-1442H.pdf`
+- `GDBC-381000095091-1438H.pdf`
+- `Report on Total Remunerations for the Board of Directors and Committees.pdf`
+- `SAMA circular No (GDBC-341000107020-1434H)EN.pdf`
+- `SAMA CIRCULAR NO (GDBC-361000009335-1436H).pdf`
+- `SAMA_EN_10175_VER1.pdf`
+- `SAMA_EN_10211_VER1.pdf`
+- `SAMA_EN_10212_VER1.pdf`
+- `SAMA_EN_10220_VER1.pdf`
+- `SAMA_EN_10227_VER1.pdf`
+- `SAMA_EN_1023_VER1.pdf`
+- `SAMA_EN_10241_VER1.pdf`
+- `SAMA_EN_10244_VER1.pdf`
+- `SAMA_EN_10245_VER1.pdf`
+- `SAMA_EN_10319_VER1.pdf`
+- `SAMA_EN_10320_VER1.pdf`
+- `SAMA_EN_10322_VER1.pdf`
+- `SAMA_EN_10335_VER1.pdf`
+- `SAMA_EN_10356_VER1.pdf`
+- `SAMA_EN_10372_VER1.pdf`
+- `SAMA_EN_10394_VER1.pdf`
+- `SAMA_EN_10395_VER1.pdf`
+- `SAMA_EN_10397_VER.pdf`
+- `SAMA_EN_10398_VER1.pdf`
+- `SAMA_EN_10399_VER1.pdf`
+- `SAMA_EN_10400_VER1.pdf`
+- `SAMA_EN_10417_VER1.pdf`
+- `SAMA_EN_10419_VER1.pdf`
+- `SAMA_EN_10426_VER1.pdf`
+- `SAMA_EN_10427_VER1.pdf`
+- `SAMA_EN_10464_VER1.pdf`
+- `SAMA_EN_10465_VER1.pdf`
+- `SAMA_EN_10528_VER.pdf`
+- `SAMA_EN_10529_VER1.pdf`
+- `SAMA_EN_10530_VER1.pdf`
+- `SAMA_EN_10555_VER.pdf`
+- `SAMA_EN_10556_VER.pdf`
+- `SAMA_EN_10559_VER1.pdf`
+- `SAMA_EN_10560_VER1.pdf`
+- `SAMA_EN_10575_VER1.pdf`
+- `SAMA_EN_10577_VER1.pdf`
+- `SAMA_EN_10590_VER1.pdf`
+- `SAMA_EN_10592_VER1.pdf`
+- `SAMA_EN_10593_VER1_0.pdf`
+- `SAMA_EN_10621_VER1.pdf`
+- `SAMA_EN_10623_VER1.pdf`
+- `SAMA_EN_10640_VER1.pdf`
+- `SAMA_EN_10646_VER1.pdf`
+- `SAMA_EN_10647_VER1.pdf`
+- `SAMA_EN_10667_VER1.pdf`
+- `SAMA_EN_10668_VER1.pdf`
+- `SAMA_EN_10681_VER1.pdf`
+- `SAMA_EN_10697_VER1.pdf`
+- `SAMA_EN_10698_VER1.pdf`
+- `SAMA_EN_10721_VER1.pdf`
+- `SAMA_EN_1073_VER1.pdf`
+- `SAMA_EN_10831_VER1.pdf`
+- `SAMA_EN_10832_VER1.pdf`
+- `SAMA_EN_10865_VER1.pdf`
+- `SAMA_EN_10866_VER1.pdf`
+- `SAMA_EN_10888_VER1.pdf`
+- `SAMA_EN_10908_VER1.pdf`
+- `SAMA_EN_10910_VER1.pdf`
+- `SAMA_EN_10911_VER1.pdf`
+- `SAMA_EN_10912_VER1.pdf`
+- `SAMA_EN_10928_VER1.pdf`
+- `SAMA_EN_10941_VER1.pdf`
+- `SAMA_EN_10944_VER1.pdf`
+- `SAMA_EN_10949_VER1.pdf`
+- `SAMA_EN_10950_VER1.pdf`
+- `SAMA_EN_10951_VER1.pdf`
+- `SAMA_EN_10959_VER1.pdf`
+- `SAMA_EN_10964_VER1.pdf`
+- `SAMA_EN_10967_VER1.pdf`
+- `SAMA_EN_10968_VER1.pdf`
+- `SAMA_EN_10969_VER1.pdf`
+- `SAMA_EN_10971_VER1.pdf`
+- `SAMA_EN_10973_VER1.pdf`
+- `SAMA_EN_11005_VER1.pdf`
+- `SAMA_EN_11008_VER1.pdf`
+- `SAMA_EN_11009_VER1.pdf`
+- `SAMA_EN_11010_VER1.pdf`
+- `SAMA_EN_11011_VER1.pdf`
+- `SAMA_EN_11012_VER1.pdf`
+- `SAMA_EN_11015_VER1.pdf`
+- `SAMA_EN_11017_VER1.pdf`
+- `SAMA_EN_11021_VER1.pdf`
+- `SAMA_EN_11022_VER1.pdf`
+- `SAMA_EN_11025_VER1.pdf`
+- `SAMA_EN_11026_VER1.pdf`
+- `SAMA_EN_11027_VER1.pdf`
+- `SAMA_EN_11037_VER1.pdf`
+- `SAMA_EN_11038_VER1.pdf`
+- `SAMA_EN_11039_VER1.pdf`
+- `SAMA_EN_11043_VER1.pdf`
+- `SAMA_EN_11044_VER1.pdf`
+- `SAMA_EN_11045_VER1.pdf`
+- `SAMA_EN_11051_VER1.pdf`
+- `SAMA_EN_11054_VER1.pdf`
+- `SAMA_EN_11055_VER1.pdf`
+- `SAMA_EN_11056_VER1.pdf`
+- `SAMA_EN_11065_VER1.pdf`
+- `SAMA_EN_11067_VER1.pdf`
+- `SAMA_EN_11075_VER1.pdf`
+- `SAMA_EN_11076_VER1.pdf`
+- `SAMA_EN_11078_VER1.pdf`
+- `SAMA_EN_11079_VER1_1.pdf`
+- `SAMA_EN_11081_VER1.pdf`
+- `SAMA_EN_11082_VER1.pdf`
+- `SAMA_EN_11101_VER1.pdf`
+- `SAMA_EN_11104_VER1.pdf`
+- `SAMA_EN_1195_VER1.pdf`
+- `SAMA_EN_123_VER1.pdf`
+- `SAMA_EN_1272_VER1.pdf`
+- `SAMA_EN_1293_VER1.pdf`
+- `SAMA_EN_132_VER1_0.pdf`
+- `SAMA_EN_1428_VER1.pdf`
+- `SAMA_EN_1429_VER1.pdf`
+- `SAMA_EN_1430_VER1.pdf`
+- `SAMA_EN_1607_VER1.pdf`
+- `SAMA_EN_1608_VER1.pdf`
+- `SAMA_EN_1611_VER1.pdf`
+- `SAMA_EN_1642_VER1.pdf`
+- `SAMA_EN_1644_VER1.pdf`
+- `SAMA_EN_1647_VER1.pdf`
+- `SAMA_EN_1648_VER1.pdf`
+- `SAMA_EN_1652_VER1.pdf`
+- `SAMA_EN_1653_VER1.pdf`
+- `SAMA_EN_1654_VER1.pdf`
+- `SAMA_EN_1657_VER1.pdf`
+- `SAMA_EN_1704_VER1.pdf`
+- `SAMA_EN_1713_VER1.pdf`
+- `SAMA_EN_1715_VER1.pdf`
+- `SAMA_EN_1717_VER1.pdf`
+- `SAMA_EN_1722_VER1.pdf`
+- `SAMA_EN_1734_VER1.pdf`
+- `SAMA_EN_1822_VER1.pdf`
+- `SAMA_EN_1868_VER1.pdf`
+- `SAMA_EN_1897_VER1.pdf`
+- `SAMA_EN_190_VER1.pdf`
+- `SAMA_EN_1948_VER1.pdf`
+- `SAMA_EN_1949_VER1.pdf`
+- `SAMA_EN_1959_VER1.pdf`
+- `SAMA_EN_1989_VER1.pdf`
+- `SAMA_EN_1997_VER1.pdf`
+- `SAMA_EN_2081_VER1.pdf`
+- `SAMA_EN_2082_VER1.pdf`
+- `SAMA_EN_2125_VER1.pdf`
+- `SAMA_EN_2126_VER1.pdf`
+- `SAMA_EN_2217_VER1.pdf`
+- `SAMA_EN_2274_VER1.pdf`
+- `SAMA_EN_2327_VER1.pdf`
+- `SAMA_EN_2340_VER1.pdf`
+- `SAMA_EN_2348_VER1.pdf`
+- `SAMA_EN_2389_VER1.pdf`
+- `SAMA_EN_2572_VER1.pdf`
+- `SAMA_EN_2659_VER1.pdf`
+- `SAMA_EN_2675_VER1_0.pdf`
+- `SAMA_EN_2757_VER1.pdf`
+- `SAMA_EN_2788_VER1.pdf`
+- `SAMA_EN_2797_VER1.pdf`
+- `SAMA_EN_2864_VER1.pdf`
+- `SAMA_EN_2875_VER1.pdf`
+- `SAMA_EN_2879_VER1.pdf`
+- `SAMA_EN_2880_VER1.pdf`
+- `SAMA_EN_2883_VER1.pdf`
+- `SAMA_EN_2884_VER1.pdf`
+- `SAMA_EN_2885_VER1.pdf`
+- `SAMA_EN_2888_VER1.pdf`
+- `SAMA_EN_2898_VER1.pdf`
+- `SAMA_EN_2926_VER1.pdf`
+- `SAMA_EN_2948_VER1.pdf`
+- `SAMA_EN_2985_VER1.pdf`
+- `SAMA_EN_3032_VER1.pdf`
+- `SAMA_EN_3080_VER1.pdf`
+- `SAMA_EN_3081_VER1.pdf`
+- `SAMA_EN_3144_VER1.pdf`
+- `SAMA_EN_3154_VER1.pdf`
+- `SAMA_EN_3165_VER1.pdf`
+- `SAMA_EN_3169_VER1.pdf`
+- `SAMA_EN_3178_VER1.pdf`
+- `SAMA_EN_3193_VER1.pdf`
+- `SAMA_EN_3214_VER1.pdf`
+- `SAMA_EN_3223_VER1.pdf`
+- `SAMA_EN_3243_VER1.pdf`
+- `SAMA_EN_3244_VER1.pdf`
+- `SAMA_EN_3245_VER1.pdf`
+- `SAMA_EN_3246_VER1.pdf`
+- `SAMA_EN_3276_VER1.pdf`
+- `SAMA_EN_3343_VER1.pdf`
+- `SAMA_EN_3365_VER1_0.pdf`
+- `SAMA_EN_3366_VER1.pdf`
+- `SAMA_EN_3372_VER1.pdf`
+- `SAMA_EN_3417_VER1.pdf`
+- `SAMA_EN_3467_VER1.pdf`
+- `SAMA_EN_3468_VER1.pdf`
+- `SAMA_EN_3487_VER1.pdf`
+- `SAMA_EN_3490_VER1.pdf`
+- `SAMA_EN_3502_VER1.pdf`
+- `SAMA_EN_3517_VER1.pdf`
+- `SAMA_EN_3519_VER1.pdf`
+- `SAMA_EN_3521_VER1.pdf`
+- `SAMA_EN_3522_VER1.pdf`
+- `SAMA_EN_3526_VER1.pdf`
+- `SAMA_EN_3553_VER1.pdf`
+- `SAMA_EN_3575_VER1.pdf`
+- `SAMA_EN_3623_VER1.pdf`
+- `SAMA_EN_3689_VER1.pdf`
+- `SAMA_EN_3709_VER1.pdf`
+- `SAMA_EN_3726_VER1.pdf`
+- `SAMA_EN_3837_VER1.pdf`
+- `SAMA_EN_4041_VER1.pdf`
+- `SAMA_EN_4066_VER1.pdf`
+- `SAMA_EN_4128_VER1.pdf`
+- `SAMA_EN_4226_VER1.pdf`
+- `SAMA_EN_4234_VER1.pdf`
+- `SAMA_EN_4283_VER1.pdf`
+- `SAMA_EN_4303_VER1.pdf`
+- `SAMA_EN_4376_VER1.pdf`
+- `SAMA_EN_4437_VER1.pdf`
+- `SAMA_EN_4721_VER1.pdf`
+- `SAMA_EN_4725_VER1.pdf`
+- `SAMA_EN_4736_VER1.pdf`
+- `SAMA_EN_4778_VER1.pdf`
+- `SAMA_EN_4790_VER1.pdf`
+- `SAMA_EN_4809_VER1.pdf`
+- `SAMA_EN_4824_VER1.pdf`
+- `SAMA_EN_4826_VER1.pdf`
+- `SAMA_EN_4827_VER1.pdf`
+- `SAMA_EN_4829_VER1.pdf`
+- `SAMA_EN_4830_VER1.pdf`
+- `SAMA_EN_4833_VER1.pdf`
+- `SAMA_EN_4834_VER1.pdf`
+- `SAMA_EN_4838_VER1.pdf`
+- `SAMA_EN_4843_VER1.pdf`
+- `SAMA_EN_4878_VER1.pdf`
+- `SAMA_EN_4897_VER1.pdf`
+- `SAMA_EN_4913_VER1.pdf`
+- `SAMA_EN_4923_VER1.pdf`
+- `SAMA_EN_4924_VER1.pdf`
+- `SAMA_EN_4926_VER1.pdf`
+- `SAMA_EN_4929_VER1.pdf`
+- `SAMA_EN_4934_VER1.pdf`
+- `SAMA_EN_4939_VER1.pdf`
+- `SAMA_EN_4949_VER1.pdf`
+- `SAMA_EN_4957_VER1.pdf`
+- `SAMA_EN_4962_VER1.pdf`
+- `SAMA_EN_4969_VER1.pdf`
+- `SAMA_EN_4983_VER1.pdf`
+- `SAMA_EN_4987_VER1.pdf`
+- `SAMA_EN_5021_VER1.pdf`
+- `SAMA_EN_5026_VER1.pdf`
+- `SAMA_EN_5028_VER1.pdf`
+- `SAMA_EN_5030_VER1.pdf`
+- `SAMA_EN_5031_VER1.pdf`
+- `SAMA_EN_5081_VER1.pdf`
+- `SAMA_EN_5085_VER1.pdf`
+- `SAMA_EN_5096_VER1.pdf`
+- `SAMA_EN_5379_VER1.pdf`
+- `SAMA_EN_5384_VER1.pdf`
+- `SAMA_EN_5392_VER1.pdf`
+- `SAMA_EN_5393_VER1.pdf`
+- `SAMA_EN_5403_VER1.pdf`
+- `SAMA_EN_5404_VER1.pdf`
+- `SAMA_EN_5408_VER1.pdf`
+- `SAMA_EN_5409_VER1.pdf`
+- `SAMA_EN_5410_VER1.pdf`
+- `SAMA_EN_5419_VER1.pdf`
+- `SAMA_EN_5425_VER1.pdf`
+- `SAMA_EN_5437_VER1.pdf`
+- `SAMA_EN_5438_VER1.pdf`
+- `SAMA_EN_5441_VER1.pdf`
+- `SAMA_EN_5448_VER1.pdf`
+- `SAMA_EN_5452_VER1.pdf`
+- `SAMA_EN_5454_VER1.pdf`
+- `SAMA_EN_5455_VER1.pdf`
+- `SAMA_EN_5464_VER1.pdf`
+- `SAMA_EN_5465_VER1.pdf`
+- `SAMA_EN_5467_VER1.pdf`
+- `SAMA_EN_5471_VER1.pdf`
+- `SAMA_EN_5473_VER1.pdf`
+- `SAMA_EN_5475_VER1_1.pdf`
+- `SAMA_EN_5476_VER1.pdf`
+- `SAMA_EN_5477_VER1.pdf`
+- `SAMA_EN_5480_VER1.pdf`
+- `SAMA_EN_5491_VER1.pdf`
+- `SAMA_EN_5513_VER1.pdf`
+- `SAMA_EN_5525_VER1.pdf`
+- `SAMA_EN_5526_VER1.pdf`
+- `SAMA_EN_5530_VER1.pdf`
+- `SAMA_EN_5536_VER1.pdf`
+- `SAMA_EN_5544_VER1.pdf`
+- `SAMA_EN_5547_VER1.pdf`
+- `SAMA_EN_5565_VER1.pdf`
+- `SAMA_EN_5594_VER1.pdf`
+- `SAMA_EN_5630_VER1.pdf`
+- `SAMA_EN_5636_VER1.pdf`
+- `SAMA_EN_5645_VER1.pdf`
+- `SAMA_EN_5708_VER1.pdf`
+- `SAMA_EN_5709_VER1.pdf`
+- `SAMA_EN_5712_VER1.pdf`
+- `SAMA_EN_5765_VER1.pdf`
+- `SAMA_EN_5783_VER1.pdf`
+- `SAMA_EN_5838_VER1.pdf`
+- `SAMA_EN_5840_VER1.pdf`
+- `SAMA_EN_5856_VER1.pdf`
+- `SAMA_EN_5858_VER1.pdf`
+- `SAMA_EN_5860_VER1.pdf`
+- `SAMA_EN_5863_VER1.pdf`
+- `SAMA_EN_5864_VER1.pdf`
+- `SAMA_EN_5866_VER1.pdf`
+- `SAMA_EN_5879_VER1.pdf`
+- `SAMA_EN_5885_VER1.pdf`
+- `SAMA_EN_5888_VER1.pdf`
+- `SAMA_EN_6073_VER1.pdf`
+- `SAMA_EN_6306_VER1.pdf`
+- `SAMA_EN_6314_VER1.pdf`
+- `SAMA_EN_6324_VER1.pdf`
+- `SAMA_EN_6398_VER1.pdf`
+- `SAMA_EN_6493_VER1.pdf`
+- `SAMA_EN_6505_VER1_1.pdf`
+- `SAMA_EN_6523_VER1.pdf`
+- `SAMA_EN_6561_VER1.pdf`
+- `SAMA_EN_6595_VER1.pdf`
+- `SAMA_EN_6713_VER1.pdf`
+- `SAMA_EN_6734_VER1.pdf`
+- `SAMA_EN_6738_VER1.pdf`
+- `SAMA_EN_6865_VER1.pdf`
+- `SAMA_EN_7136_VER1.pdf`
+- `SAMA_EN_7278_VER1.pdf`
+- `SAMA_EN_7355_VER1.pdf`
+- `SAMA_EN_7908_VER1.pdf`
+- `SAMA_EN_791_VER1.pdf`
+- `SAMA_EN_8294_VER1.pdf`
+- `SAMA_EN_8320_VER1_0.pdf`
+- `SAMA_EN_8356_VER1.pdf`
+- `SAMA_EN_8357_VER1.pdf`
+- `SAMA_EN_8359_VER1.pdf`
+- `SAMA_EN_8383_VER1.pdf`
+- `SAMA_EN_853_VER1.pdf`
+- `SAMA_EN_8673_VER1.pdf`
+- `SAMA_EN_8679_VER1.pdf`
+- `SAMA_EN_8684_VER1.pdf`
+- `SAMA_EN_8722_VER1.pdf`
+- `SAMA_EN_8724_VER1.pdf`
+- `SAMA_EN_8725_VER1.pdf`
+- `SAMA_EN_8726_VER1.pdf`
+- `SAMA_EN_8727_VER1.pdf`
+- `SAMA_EN_8729_VER1.pdf`
+- `SAMA_EN_8731_VER1.pdf`
+- `SAMA_EN_8732_VER1.pdf`
+- `SAMA_EN_8984_VER1.pdf`
+- `SAMA_EN_9068_VER1.pdf`
+- `SAMA_EN_9381_VER1.pdf`
+- `SAMA_EN_9451_VER1.pdf`
+- `SAMA_EN_9492_VER1.pdf`
+- `SAMA_EN_9538_VER1.pdf`
+- `SAMA_EN_9618_VER1.pdf`
+- `SAMA_EN_961_VER1.pdf`
+- `SAMA_EN_9660_VER1.pdf`
+- `SAMA_EN_9662_VER1_0.pdf`
+- `SAMA_EN_9663_VER1.pdf`
+- `SAMA_EN_9665_VER1.pdf`
+- `SAMA_EN_9666_VER1.pdf`
+- `SAMA_EN_9667_VER1.pdf`
+- `SAMA_EN_9668_VER1.pdf`
+- `SAMA_EN_9669_VER1.pdf`
+- `SAMA_EN_9670_VER1.pdf`
+- `SAMA_EN_9671_VER1.pdf`
+- `SAMA_EN_9672_VER1.pdf`
+- `SAMA_EN_9673_VER1.pdf`
+- `SAMA_EN_9799_VER1.pdf`
+- `SAMA_EN_9809_VER1.pdf`
+- `SAMA_EN_9934_VER1.pdf`
+- `SAMA_EN_996_VER1.pdf`
+- `SAMA_RD 637_en.pdf`
+- `SAMA_RD M142_en.pdf`
+- `إصدار وتحديث وتجديد معرّف الكيانات القانونية من خلال مؤسسة مالية.pdf`
+- `الدليل الإرشادي لاستخدام نظام البيانات الإشرافية_0.pdf`
+- `النموذج الربعي للعملات وبيانات أكبر العملاء والعملات المزورة وبيانات الموظفين.pdf`
+- `النموذج السنوي للبيانات التنظيمية.pdf`
+- `تعديل نظام حماية البيانات الشخصية-م148.pdf`
+- `دليل الإخلاء في حالات الطوارئ للأشخاص ذوي الإعاقة.pdf`
+- `قرار وزاري رقم 112203 تاريخ 18 06 1442.pdf`
+- `نموذج  من شكل الإقامة المميزة السعودية.pdf`
+- `نموذج البيانات الشهرية للمبيعات والمشتريات.pdf`
+- `نموذج المقارنة للقوائم المالية الربعية و السنوية.pdf`
+
+## Failed downloads
+
+- `GDFCC-000044064923-23H.pdf` — HTTP Error 404: Not Found
+
